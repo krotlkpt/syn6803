@@ -64,7 +64,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_QAn_P680_um" id="M_QAn_P680_um" name="Internal bound semiquinone radical of the Photosystem II_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C53H80O2">
+      <species metaid="meta_M_qan_um" id="M_qan_um" name="Internal bound semiquinone radical of the Photosystem II_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C53H80O2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C53H80O2</p>
@@ -74,9 +74,10 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_QAn_P680_um">
+            <rdf:Description rdf:about="#meta_M_qan_um">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/qan"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:28377"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -216,7 +217,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_S4_P680_um" name="Fourth oxidation state of the cluster of manganese atoms in the Photosystem II (needed for water splitting)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_s4_um" id="M_s4_um" name="Fourth oxidation state of the cluster of manganese atoms in the Photosystem II (needed for water splitting)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -224,6 +225,17 @@
             <p>old_id: S4_P680_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_s4_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/s4"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_o2_p" id="M_o2_p" name="Oxygen_pps" compartment="pps" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="O2">
         <notes>
@@ -973,7 +985,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_E19_e" id="M_E19_e" name="5-Deoxy-D-ribose_ext_b" compartment="ext" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10O4">
+      <species metaid="meta_M_5drib_e" id="M_5drib_e" name="5-Deoxy-D-ribose_ext_b" compartment="ext" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10O4">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C5H10O4</p>
@@ -983,9 +995,10 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_E19_e">
+            <rdf:Description rdf:about="#meta_M_5drib_e">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/5drib"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:62012"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -1364,7 +1377,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_PQH_B6_L_um" name="Plastosemiquinone located at the luminal side of the Cytochrome-b6/f complex_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C53H81O2">
+      <species metaid="meta_M_pqhb6l_um" id="M_pqhb6l_um" name="Plastosemiquinone located at the luminal side of the Cytochrome-b6/f complex_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C53H81O2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C53H81O2</p>
@@ -1372,6 +1385,17 @@
             <p>old_id: PQH_B6_L_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_pqhb6l_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/pqhb6l"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_fdp_c" id="M_fdp_c" name="D-Fructose 1,6-bisphosphate_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-4" fbc:chemicalFormula="C6H14O12P2">
         <notes>
@@ -1527,7 +1551,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_S1_P680_um" name="First oxidation state of the cluster of manganese atoms in the Photosystem II (needed for water splitting)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_s1_um" id="M_s1_um" name="First oxidation state of the cluster of manganese atoms in the Photosystem II (needed for water splitting)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -1535,6 +1559,17 @@
             <p>old_id: S1_P680_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_s1_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/s1"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_tddec2eACP_c" id="M_tddec2eACP_c" name="trans-Dodec-2-enoyl-[acp]_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C12H21OSR">
         <notes>
@@ -1864,7 +1899,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_B1_c" name="Protein component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_bm_pro_c" id="M_bm_pro_c" name="Protein component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -1872,6 +1907,17 @@
             <p>old_id: B1_cyt</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_bm_pro_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/bm_pro"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_pre4_c" id="M_pre4_c" name="Precorrin 4_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-8" fbc:chemicalFormula="C44H52N4O17">
         <notes>
@@ -2291,7 +2337,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_E20_p" id="M_E20_p" name="Dialurate_pps" compartment="pps" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C4H4N2O4">
+      <species metaid="meta_M_dialurate_p" id="M_dialurate_p" name="Dialurate_pps" compartment="pps" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C4H4N2O4">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C4H4N2O4</p>
@@ -2301,9 +2347,10 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_E20_p">
+            <rdf:Description rdf:about="#meta_M_dialurate_p">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dialurate"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:76452"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -2466,7 +2513,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_B7_c" name="Ion component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species id="M_bm_ion_c" name="Ion component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -2726,7 +2773,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_B5_c" name="Lipid component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_bm_memlip_c" id="M_bm_memlip_c" name="Lipid component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -2734,6 +2781,17 @@
             <p>old_id: B5_cyt</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_bm_memlip_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/bm_memlip"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_2pglyc_c" id="M_2pglyc_c" name="2-Phosphoglycolate_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-3" fbc:chemicalFormula="C2H5O6P">
         <notes>
@@ -2911,7 +2969,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_P680_um" name="Neutral reaction centre of the Photosystem II (light with 680 nm is sufficient for the excitation of the one reaction center)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_p680_um" id="M_p680_um" name="Neutral reaction centre of the Photosystem II (light with 680 nm is sufficient for the excitation of the one reaction center)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -2919,6 +2977,17 @@
             <p>old_id: P680_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_p680_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/p680"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_so4_p" id="M_so4_p" name="Sulfate_pps" compartment="pps" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="H2SO4">
         <notes>
@@ -3183,7 +3252,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_RRieske_B6_cm" name="Reduced rieske_B6_cym" compartment="cym" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_rdRieskeB6_cm" id="M_rdRieskeB6_cm" name="Reduced rieske_B6_cym" compartment="cym" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -3191,6 +3260,17 @@
             <p>old_id: RRieske_B6_cym</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_rdRieskeB6_cm">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/rdRieskeB6"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_3psme_c" id="M_3psme_c" name="5-O-(1-Carboxyvinyl)-3-phosphoshikimate_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-4" fbc:chemicalFormula="C10H13O10P">
         <notes>
@@ -3412,7 +3492,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_PQH_B6_S_cm" name="Plastosemiquinone located at the stromal side of the Cytochrome-b6/f complex_cym" compartment="cym" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C53H81O2">
+      <species metaid="meta_M_pqhb6s_cm" id="M_pqhb6s_cm" name="Plastosemiquinone located at the stromal side of the Cytochrome-b6/f complex_cym" compartment="cym" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C53H81O2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C53H81O2</p>
@@ -3420,6 +3500,17 @@
             <p>old_id: PQH_B6_S_cym</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_pqhb6s_cm">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/pqhb6s"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_nad_c" id="M_nad_c" name="NAD+_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C21H28N7O14P2">
         <notes>
@@ -3485,7 +3576,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_PQH_B6_L_cm" name="Plastosemiquinone located at the luminal side of the Cytochrome-b6/f complex_cym" compartment="cym" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C53H81O2">
+      <species metaid="meta_M_pqhb6l_cm" id="M_pqhb6l_cm" name="Plastosemiquinone located at the luminal side of the Cytochrome-b6/f complex_cym" compartment="cym" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C53H81O2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C53H81O2</p>
@@ -3493,6 +3584,17 @@
             <p>old_id: PQH_B6_L_cym</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_pqhb6l_cm">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/pqhb6l"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_2dhp_c" id="M_2dhp_c" name="2-Dehydropantoate_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C6H10O4">
         <notes>
@@ -4267,7 +4369,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_B2_c" name="DNA component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_bm_dna_c" id="M_bm_dna_c" name="DNA component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -4275,6 +4377,17 @@
             <p>old_id: B2_cyt</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_bm_dna_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/bm_dna"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_aps_c" id="M_aps_c" name="Adenylyl sulfate_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C10H14N5O10PS">
         <notes>
@@ -4342,7 +4455,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_PQH_B6_S_um" name="Plastosemiquinone located at the stromal side of the Cytochrome-b6/f complex_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C53H81O2">
+      <species metaid="meta_M_pqhb6s_um" id="M_pqhb6s_um" name="Plastosemiquinone located at the stromal side of the Cytochrome-b6/f complex_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C53H81O2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C53H81O2</p>
@@ -4350,6 +4463,17 @@
             <p>old_id: PQH_B6_S_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_pqhb6s_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/pqhb6s"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_dmlz_c" id="M_dmlz_c" name="6,7-Dimethyl-8-(1-D-ribityl)lumazine_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C13H18N4O6">
         <notes>
@@ -4373,7 +4497,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_E1_e" name="Photon_ext_b" compartment="ext" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_photon_e1_e" id="M_photon_e1_e" name="Photon_ext_b" compartment="ext" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -4381,6 +4505,17 @@
             <p>old_id: E1_ext_b</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_photon_e1_e">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/photon_e1"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_malACP_c" id="M_malACP_c" name="Malonyl-[acyl-carrier protein]_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C3H3O3SR">
         <notes>
@@ -4448,7 +4583,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_B0_e" name="Biomass_ext_b" compartment="ext" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_biomass_e" id="M_biomass_e" name="Biomass_ext_b" compartment="ext" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -4456,6 +4591,17 @@
             <p>old_id: B0_ext_b</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_biomass_e">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/biomass"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_3dhq_c" id="M_3dhq_c" name="3-Dehydroquinate_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C7H10O6">
         <notes>
@@ -4854,7 +5000,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_RRieske_B6_um" name="Reduced rieske_B6_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_rdRieskeB6_um" id="M_rdRieskeB6_um" name="Reduced rieske_B6_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -4862,6 +5008,17 @@
             <p>old_id: RRieske_B6_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_rdRieskeB6_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/rdRieskeB6"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_h2o2_c" id="M_h2o2_c" name="H2O2_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H2O2">
         <notes>
@@ -4907,7 +5064,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_B4_c" name="Cell wall component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_bm_cw_c" id="M_bm_cw_c" name="Cell wall component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -4915,6 +5072,17 @@
             <p>old_id: B4_cyt</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_bm_cw_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/bm_cw"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_no2_c" id="M_no2_c" name="Nitrite_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="NO2">
         <notes>
@@ -5246,7 +5414,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_HB2p_B6_cm" name="Heme B located in the Cytochrome-b6/f complex, twice protonated_cym" compartment="cym" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_hemeB2p_cm" id="M_hemeB2p_cm" name="Heme B located in the Cytochrome-b6/f complex, twice protonated_cym" compartment="cym" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -5254,6 +5422,17 @@
             <p>old_id: HB2p_B6_cym</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_hemeB2p_cm">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/hemeB2p"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_frdp_c" id="M_frdp_c" name="trans,trans-Farnesyl diphosphate_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C15H28O7P2">
         <notes>
@@ -5802,7 +5981,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_E19_p" id="M_E19_p" name="5-Deoxy-D-ribose_pps" compartment="pps" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10O4">
+      <species metaid="meta_M_5drib_p" id="M_5drib_p" name="5-Deoxy-D-ribose_pps" compartment="pps" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10O4">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C5H10O4</p>
@@ -5812,9 +5991,10 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_E19_p">
+            <rdf:Description rdf:about="#meta_M_5drib_p">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/5drib"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:62012"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -6414,7 +6594,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_E11_p" id="M_E11_p" name="Peptidoglycan_pps" compartment="pps" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C37H59N7O20">
+      <species metaid="meta_M_PG_p" id="M_PG_p" name="Peptidoglycan_pps" compartment="pps" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C37H59N7O20">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C37H59N7O20</p>
@@ -6424,9 +6604,10 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_E11_p">
+            <rdf:Description rdf:about="#meta_M_PG_p">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/PG"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:8005"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -6962,7 +7143,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_B6_c" name="Soluble pool component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species id="M_bm_sol_c" name="Soluble pool component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -7826,7 +8007,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_ORieske_B6_cm" name="Oxidized rieske_B6_cym" compartment="cym" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_oxRieskeB6_cm" id="M_oxRieskeB6_cm" name="Oxidized rieske_B6_cym" compartment="cym" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -7834,6 +8015,17 @@
             <p>old_id: ORieske_B6_cym</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_oxRieskeB6_cm">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/oxRieskeB6"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_gdpper_c" id="M_gdpper_c" name="GDP-4-amino-4,6-dideoxy-alpha-D-mannose_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C16H26N6O14P2">
         <notes>
@@ -8078,7 +8270,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_P700_um" name="Uncharged reaction centre of the Photosystem I (light with 700 nm is sufficient for the excitation of the one reaction center)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_p700_um" id="M_p700_um" name="Uncharged reaction centre of the Photosystem I (light with 700 nm is sufficient for the excitation of the one reaction center)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -8086,6 +8278,17 @@
             <p>old_id: P700_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_p700_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/p700"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_cytd_c" id="M_cytd_c" name="Cytidine_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C9H13N3O5">
         <notes>
@@ -8352,7 +8555,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_E20_e" id="M_E20_e" name="Dialurate_ext_b" compartment="ext" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C4H4N2O4">
+      <species metaid="meta_M_dialurate_e" id="M_dialurate_e" name="Dialurate_ext_b" compartment="ext" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C4H4N2O4">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C4H4N2O4</p>
@@ -8362,9 +8565,10 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_E20_e">
+            <rdf:Description rdf:about="#meta_M_dialurate_e">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dialurate"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:76452"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -8571,7 +8775,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_HB3p_B6_um" name="Heme B located in the Cytochrome-b6/f complex, triply protonated_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_hemeB3p_um" id="M_hemeB3p_um" name="Heme B located in the Cytochrome-b6/f complex, triply protonated_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -8579,6 +8783,17 @@
             <p>old_id: HB3p_B6_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_hemeB3p_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/hemeB3p"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_3dhsk_c" id="M_3dhsk_c" name="3-Dehydroshikimate_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C7H8O5">
         <notes>
@@ -8822,7 +9037,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_HB3p_B6_cm" name="Heme B located in the Cytochrome-b6/f complex, triply protonated_cym" compartment="cym" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_hemeB3p_cm" id="M_hemeB3p_cm" name="Heme B located in the Cytochrome-b6/f complex, triply protonated_cym" compartment="cym" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -8830,6 +9045,17 @@
             <p>old_id: HB3p_B6_cym</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_hemeB3p_cm">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/hemeB3p"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_mobd_e" id="M_mobd_e" name="Molybdate_ext_b" compartment="ext" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="MoH2O4">
         <notes>
@@ -8853,7 +9079,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_E20_c" id="M_E20_c" name="Dialurate_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C4H4N2O4">
+      <species metaid="meta_M_dialurate_c" id="M_dialurate_c" name="Dialurate_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C4H4N2O4">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C4H4N2O4</p>
@@ -8863,9 +9089,10 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_E20_c">
+            <rdf:Description rdf:about="#meta_M_dialurate_c">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dialurate"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:76452"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -9181,7 +9408,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_ORieske_B6_um" name="Oxidized rieske_B6_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_oxRieskeB6_um" id="M_oxRieskeB6_um" name="Oxidized rieske_B6_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -9189,6 +9416,17 @@
             <p>old_id: ORieske_B6_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_oxRieskeB6_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/oxRieskeB6"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_ugmd_c" id="M_ugmd_c" name="UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-4" fbc:chemicalFormula="C35H55N7O26P2">
         <notes>
@@ -9519,7 +9757,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_S0_P680_um" name="Starting state of a cluster of probably four manganese atoms_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_s0_um" id="M_s0_um" name="Starting state of a cluster of probably four manganese atoms_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -9527,6 +9765,17 @@
             <p>old_id: S0_P680_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_s0_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/s0"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_co2dam_c" id="M_co2dam_c" name="Cob(II)yrinate a,c diamide_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-4" fbc:chemicalFormula="C45H61CoN6O12">
         <notes>
@@ -10320,7 +10569,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_E1_P700_um" name="Photons with 700nm wavelength_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_e700_um" id="M_e700_um" name="Photons with 700nm wavelength_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -10328,6 +10577,17 @@
             <p>old_id: E1_P700_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_e700_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/e700"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_ala__L_c" id="M_ala__L_c" name="L-Alanine_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H7NO2">
         <notes>
@@ -10373,7 +10633,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_S2_P680_um" name="Second oxidation state of the cluster of manganese atoms in the Photosystem II (needed for water splitting)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_s2_um" id="M_s2_um" name="Second oxidation state of the cluster of manganese atoms in the Photosystem II (needed for water splitting)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -10381,6 +10641,17 @@
             <p>old_id: S2_P680_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_s2_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/s2"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_xtp_c" id="M_xtp_c" name="XTP_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-3" fbc:chemicalFormula="C10H15N4O15P3">
         <notes>
@@ -11125,7 +11396,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_E17_c" name="gamma-Linolenoyl-ACP_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C18H29OSR">
+      <species metaid="meta_M_octe_6_9_12_ACP_c" id="M_octe_6_9_12_ACP_c" name="gamma-Linolenoyl-ACP_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C18H29OSR">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C18H29OSR</p>
@@ -11133,6 +11404,17 @@
             <p>old_id: E17_cyt</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_octe_6_9_12_ACP_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/octe_6_9_12_ACP"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_3ohexACP_c" id="M_3ohexACP_c" name="3-Oxohexanoyl-[acp]_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H9O2SR">
         <notes>
@@ -11332,7 +11614,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_E19_c" id="M_E19_c" name="5-Deoxy-D-ribose_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10O4">
+      <species metaid="meta_M_5drib_c" id="M_5drib_c" name="5-Deoxy-D-ribose_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H10O4">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C5H10O4</p>
@@ -11342,9 +11624,10 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_E19_c">
+            <rdf:Description rdf:about="#meta_M_5drib_c">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/5drib"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:62012"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -11438,7 +11721,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_E10_c" id="M_E10_c" name="Cyanophycin_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C10H17N5O4R">
+      <species metaid="meta_M_cyanphy_c" id="M_cyanphy_c" name="Cyanophycin_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C10H17N5O4R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C10H17N5O4R</p>
@@ -11448,9 +11731,10 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_E10_c">
+            <rdf:Description rdf:about="#meta_M_cyanphy_c">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/cyanphy"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:65319"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -12207,7 +12491,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_E1_um" name="Photon_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_photon_e1_um" id="M_photon_e1_um" name="Photon_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -12215,6 +12499,17 @@
             <p>old_id: E1_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_photon_e1_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/photon_e1"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_zeax_c" id="M_zeax_c" name="Zeaxanthin_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C40H56O2">
         <notes>
@@ -12960,7 +13255,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_QA_P680_um" id="M_QA_P680_um" name="Internal bound plastoquinone of the Photosystem II_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C53H80O2">
+      <species metaid="meta_M_qa_um" id="M_qa_um" name="Internal bound plastoquinone of the Photosystem II_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C53H80O2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C53H80O2</p>
@@ -12970,9 +13265,10 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_QA_P680_um">
+            <rdf:Description rdf:about="#meta_M_qa_um">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/qa"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:28377"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -13397,7 +13693,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_HB2p_B6_um" name="Heme B located in the Cytochrome-b6/f complex, twice protonated_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_hemeB2p_um" id="M_hemeB2p_um" name="Heme B located in the Cytochrome-b6/f complex, twice protonated_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -13405,6 +13701,17 @@
             <p>old_id: HB2p_B6_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_hemeB2p_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/hemeB2p"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_but2eACP_c" id="M_but2eACP_c" name="But-2-enoyl-[acyl-carrier protein]_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C4H5OSR">
         <notes>
@@ -13493,7 +13800,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_E1_P680_um" name="Photons with 680nm wavelength_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_e680_um" id="M_e680_um" name="Photons with 680nm wavelength_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -13501,8 +13808,19 @@
             <p>old_id: E1_P680_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_e680_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/e680"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
-      <species id="M_P700p_um" name="Positive charged reaction centre of the Photosystem I (light with 700 nm is sufficient for the excitation of the one reaction center)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_p700p_um" id="M_p700p_um" name="Positive charged reaction centre of the Photosystem I (light with 700 nm is sufficient for the excitation of the one reaction center)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -13510,6 +13828,17 @@
             <p>old_id: P700p_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_p700p_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/p700p"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_fald_c" id="M_fald_c" name="Formaldehyde_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="CH2O">
         <notes>
@@ -13708,7 +14037,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_E36_c" name="Stearidonoyl-[acp]_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C18H27OSR">
+      <species metaid="meta_M_octe_6_9_12_15_ACP_c" id="M_octe_6_9_12_15_ACP_c" name="Stearidonoyl-[acp]_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C18H27OSR">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C18H27OSR</p>
@@ -13716,6 +14045,17 @@
             <p>old_id: E36_cyt</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_octe_6_9_12_15_ACP_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/octe_6_9_12_15_ACP"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_skgmeACP_c" id="M_skgmeACP_c" name="3-Ketoglutaryl-[acp] methyl ester_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H7O4SR">
         <notes>
@@ -14179,7 +14519,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_B8_c" name="Pigment component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_bm_pigm_c" id="M_bm_pigm_c" name="Pigment component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -14187,6 +14527,17 @@
             <p>old_id: B8_cyt</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_bm_pigm_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/bm_pigm"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_zn2_p" id="M_zn2_p" name="Zinc_pps" compartment="pps" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="2" fbc:chemicalFormula="Zn">
         <notes>
@@ -14232,7 +14583,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_PQn_P680_um" id="M_PQn_P680_um" name="Semiplastoquinone radical loosely bound to the Photosystem II (can except one further electron)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C53H81O2">
+      <species metaid="meta_M_pqn_um" id="M_pqn_um" name="Semiplastoquinone radical loosely bound to the Photosystem II (can except one further electron)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C53H81O2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C53H81O2</p>
@@ -14242,9 +14593,10 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_PQn_P680_um">
+            <rdf:Description rdf:about="#meta_M_pqn_um">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/pqn"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:28377"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -14405,7 +14757,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_B3_c" name="RNA component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_bm_rna_c" id="M_bm_rna_c" name="RNA component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -14413,6 +14765,17 @@
             <p>old_id: B3_cyt</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_bm_rna_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/bm_rna"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_gdpmann_c" id="M_gdpmann_c" name="GDP-mannose_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C16H25N5O16P2">
         <notes>
@@ -14478,7 +14841,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_S3_P680_um" name="Third oxidation state of the cluster of manganese atoms in the Photosystem II (needed for water splitting)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_s3_um" id="M_s3_um" name="Third oxidation state of the cluster of manganese atoms in the Photosystem II (needed for water splitting)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -14486,6 +14849,17 @@
             <p>old_id: S3_P680_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_s3_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/s3"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_udpsq_c" id="M_udpsq_c" name="UDP-6-sulfoquinovose_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-3" fbc:chemicalFormula="C15H24N2O19P2S">
         <notes>
@@ -14771,7 +15145,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_E10N_c" id="M_E10N_c" name="Cyanophycin polymer_cyt_b" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_precyanphy_c" id="M_precyanphy_c" name="Cyanophycin polymer_cyt_b" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -14781,9 +15155,10 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_E10N_c">
+            <rdf:Description rdf:about="#meta_M_precyanphy_c">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/precyanphy"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:65319"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -14966,7 +15341,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_P680p_um" name="Positive charged reaction centre of the Photosystem II (light with 680 nm is sufficient for the excitation of the one reaction center)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
+      <species metaid="meta_M_p680p_um" id="M_p680p_um" name="Positive charged reaction centre of the Photosystem II (light with 680 nm is sufficient for the excitation of the one reaction center)_tlm" compartment="tlm" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: R</p>
@@ -14974,6 +15349,17 @@
             <p>old_id: P680p_tlm</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_p680p_um">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/p680p"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
       </species>
       <species metaid="meta_M_asp__L_c" id="M_asp__L_c" name="L-Aspartate_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C4H7NO4">
         <notes>
@@ -15201,7 +15587,7 @@
       </reaction>
       <reaction metaid="meta_R_EX_E19_ext_b" sboTerm="SBO:0000627" id="R_EX_E19_ext_b" name="EX_E19_ext_b" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference species="M_E19_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_5drib_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
       <reaction metaid="meta_R_EX_cobalt2_e" sboTerm="SBO:0000627" id="R_EX_cobalt2_e" name="EX_C00175_ext_b" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -15431,12 +15817,12 @@
       </reaction>
       <reaction metaid="meta_R_EX_E1_ext_b" sboTerm="SBO:0000627" id="R_EX_E1_ext_b" name="EX_E1_ext_b" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference species="M_E1_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_photon_e1_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
       <reaction metaid="meta_R_EX_B0_ext_b" sboTerm="SBO:0000627" id="R_EX_B0_ext_b" name="EX_B0_ext_b" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference species="M_B0_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_biomass_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
       <reaction metaid="meta_R_EX_C15812_cyt_b" sboTerm="SBO:0000627" id="R_EX_C15812_cyt_b" name="EX_C15812_cyt_b" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -15572,7 +15958,7 @@
       </reaction>
       <reaction metaid="meta_R_EX_E20_ext_b" sboTerm="SBO:0000627" id="R_EX_E20_ext_b" name="EX_E20_ext_b" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference species="M_E20_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_dialurate_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
       <reaction metaid="meta_R_EX_zn2_e" sboTerm="SBO:0000627" id="R_EX_zn2_e" name="EX_C00038_ext_b" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -15868,9 +16254,25 @@
           <speciesReference species="M_gln__L_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
-      <reaction metaid="meta_R_EX_E10N_cyt_b" sboTerm="SBO:0000627" id="R_EX_E10N_cyt_b" name="EX_E10N_cyt_b" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_SK_precyanphy_c" sboTerm="SBO:0000627" id="R_SK_precyanphy_c" name="EX_E10N_cyt_b" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+        <notes>
+          <html xmlns="http://www.w3.org/1999/xhtml">
+            <p>old_id: EX_E10N_cyt_b</p>
+          </html>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_R_SK_precyanphy_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/SK_precyanphy_c"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
         <listOfReactants>
-          <speciesReference species="M_E10N_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_precyanphy_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
       <reaction metaid="meta_R_EX_na1_e" sboTerm="SBO:0000627" id="R_EX_na1_e" name="EX_C01330_ext_b" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -16186,7 +16588,7 @@
           <speciesReference species="M_fmnh2_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_E20_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_dialurate_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_dmbzid_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_e4p_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
@@ -18404,7 +18806,7 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ppi_c" stoichiometry="3.2525" constant="true"/>
-          <speciesReference species="M_B2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_bm_dna_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_BioDNA"/>
@@ -19374,7 +19776,7 @@
         <listOfProducts>
           <speciesReference species="M_dtpcudcpp_cm" stoichiometry="1" constant="true"/>
           <speciesReference species="M_ala__D_p" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_E11_p" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_PG_p" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -19736,17 +20138,19 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_ST0010" id="R_ST0010" name="ST0010" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_CYPHYS" id="R_CYPHYS" name="ST0010" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>GENE_ASSOCIATION: (slr2002)</p>
+            <p>old_id: ST0010</p>
           </html>
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_ST0010">
+            <rdf:Description rdf:about="#meta_R_CYPHYS">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/CYPHYS"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/6.3.2.29"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -19754,14 +20158,14 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_E10N_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_precyanphy_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_atp_c" stoichiometry="2" constant="true"/>
           <speciesReference species="M_arg__L_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_asp__L_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_adp_c" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_E10_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_cyanphy_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pi_c" stoichiometry="2" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -20088,13 +20492,13 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_PQH_B6_L_cm" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_HB3p_B6_cm" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pqhb6l_cm" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_hemeB3p_cm" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_p" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pqb6s_cm" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_HB2p_B6_cm" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_hemeB2p_cm" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -21133,7 +21537,7 @@
           <speciesReference species="M_mobd_c" stoichiometry="0.303" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_B7_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_bm_ion_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_BioIons"/>
@@ -21493,12 +21897,12 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_HB2p_B6_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_PQH_B6_S_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_hemeB2p_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pqhb6s_um" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_HB3p_B6_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_hemeB3p_um" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pqh2_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -22187,10 +22591,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_E1_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_photon_e1_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_E1_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_e680_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_slr0862"/>
@@ -23188,10 +23592,10 @@
         </annotation>
         <listOfReactants>
           <speciesReference species="M_pcox_p" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_RRieske_B6_cm" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_rdRieskeB6_cm" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_ORieske_B6_cm" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_oxRieskeB6_cm" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pcrd_p" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -23544,13 +23948,13 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_E1_P680_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_QA_P680_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_e680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_qa_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p680_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_P680p_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_QAn_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p680p_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_qan_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -25062,19 +25466,31 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction id="R_PU0023" name="PU0023" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_5DOAN" id="R_5DOAN" name="PU0023" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>GENE_ASSOCIATION: (sll1852)</p>
+            <p>old_id: PU0023</p>
           </html>
         </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_R_5DOAN">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/5DOAN"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
         <listOfReactants>
           <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_dad_5_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ade_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_E19_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_5drib_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_sll1852"/>
@@ -25873,12 +26289,12 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_S3_P680_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_P680p_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_s3_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p680p_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_S4_P680_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_s4_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p680_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -25934,12 +26350,12 @@
         </annotation>
         <listOfReactants>
           <speciesReference species="M_pqb6s_cm" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_HB2p_B6_cm" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_hemeB2p_cm" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_PQH_B6_S_cm" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_HB3p_B6_cm" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pqhb6s_cm" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_hemeB3p_cm" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -26110,17 +26526,19 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_LI0039" id="R_LI0039" name="LI0039" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_DES2_6B" id="R_DES2_6B" name="LI0039" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>GENE_ASSOCIATION: (sll0262)</p>
+            <p>old_id: LI0039</p>
           </html>
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_LI0039">
+            <rdf:Description rdf:about="#meta_R_DES2_6B">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/DES2_6B"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.14.19.3"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -26136,7 +26554,7 @@
         <listOfProducts>
           <speciesReference species="M_nadp_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h2o_c" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_E17_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_octe_6_9_12_ACP_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_sll0262"/>
@@ -26525,13 +26943,13 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_E1_P700_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_e700_um" stoichiometry="1" constant="true"/>
           <speciesReference species="M_fdxo_2_2_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_P700_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p700_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_fdxrd_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_P700p_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p700p_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -26682,12 +27100,12 @@
         </annotation>
         <listOfReactants>
           <speciesReference species="M_o2_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_E1_P700_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_P700_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_e700_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p700_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_o2s_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_P700p_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p700p_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -27579,12 +27997,12 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_P680p_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_S0_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p680p_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_s0_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_S1_P680_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_s1_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p680_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -27707,10 +28125,10 @@
         </annotation>
         <listOfReactants>
           <speciesReference species="M_pcrd_u" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_P700p_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p700p_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_P700_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p700_um" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pcox_u" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -27934,7 +28352,7 @@
           <speciesReference species="M_C03692_MGDG_c" stoichiometry="0.38" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_B5_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_bm_memlip_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_BioLip"/>
@@ -28546,11 +28964,11 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_E17_c" stoichiometry="0.7253" constant="true"/>
+          <speciesReference species="M_octe_6_9_12_ACP_c" stoichiometry="0.7253" constant="true"/>
           <speciesReference species="M_octe_9_12_15_ACP_c" stoichiometry="0.0095" constant="true"/>
           <speciesReference species="M_glyc3p_c" stoichiometry="1.2954" constant="true"/>
           <speciesReference species="M_hdeceACP_c" stoichiometry="0.0965" constant="true"/>
-          <speciesReference species="M_E36_c" stoichiometry="0.0393" constant="true"/>
+          <speciesReference species="M_octe_6_9_12_15_ACP_c" stoichiometry="0.0393" constant="true"/>
           <speciesReference species="M_ocdcaACP_c" stoichiometry="0.0223" constant="true"/>
           <speciesReference species="M_palmACP_c" stoichiometry="1.3061" constant="true"/>
           <speciesReference species="M_octe_9_12_ACP_c" stoichiometry="0.3334" constant="true"/>
@@ -28645,20 +29063,20 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_B1_c" stoichiometry="0.51" constant="true"/>
-          <speciesReference species="M_B8_c" stoichiometry="0.0244" constant="true"/>
-          <speciesReference species="M_B6_c" stoichiometry="0.029" constant="true"/>
+          <speciesReference species="M_bm_pro_c" stoichiometry="0.51" constant="true"/>
+          <speciesReference species="M_bm_pigm_c" stoichiometry="0.0244" constant="true"/>
+          <speciesReference species="M_bm_sol_c" stoichiometry="0.029" constant="true"/>
           <speciesReference species="M_glycogen_c" stoichiometry="0.21031" constant="true"/>
-          <speciesReference species="M_B7_c" stoichiometry="0.01" constant="true"/>
-          <speciesReference species="M_B3_c" stoichiometry="0.17" constant="true"/>
-          <speciesReference species="M_B5_c" stoichiometry="0.12" constant="true"/>
-          <speciesReference species="M_B4_c" stoichiometry="0.059" constant="true"/>
+          <speciesReference species="M_bm_ion_c" stoichiometry="0.01" constant="true"/>
+          <speciesReference species="M_bm_rna_c" stoichiometry="0.17" constant="true"/>
+          <speciesReference species="M_bm_memlip_c" stoichiometry="0.12" constant="true"/>
+          <speciesReference species="M_bm_cw_c" stoichiometry="0.059" constant="true"/>
           <speciesReference species="M_atp_c" stoichiometry="53.35" constant="true"/>
           <speciesReference species="M_h2o_c" stoichiometry="53.35" constant="true"/>
-          <speciesReference species="M_B2_c" stoichiometry="0.031" constant="true"/>
+          <speciesReference species="M_bm_dna_c" stoichiometry="0.031" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_B0_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_biomass_e" stoichiometry="1" constant="true"/>
           <speciesReference species="M_adp_c" stoichiometry="53.35" constant="true"/>
           <speciesReference species="M_pi_c" stoichiometry="53.35" constant="true"/>
         </listOfProducts>
@@ -29015,10 +29433,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_E20_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_dialurate_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_E20_p" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_dialurate_p" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_slr2057"/>
@@ -29338,11 +29756,11 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_QAn_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_qan_um" stoichiometry="1" constant="true"/>
           <speciesReference species="M_o2_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_QA_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_qa_um" stoichiometry="1" constant="true"/>
           <speciesReference species="M_o2s_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -29501,7 +29919,7 @@
           <speciesReference species="M_echin_c" stoichiometry="0.098" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_B8_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_bm_pigm_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_BioPigs"/>
@@ -30548,10 +30966,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_E19_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_5drib_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_E19_p" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_5drib_p" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -31581,11 +31999,11 @@
         </annotation>
         <listOfReactants>
           <speciesReference species="M_pcox_u" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_RRieske_B6_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_rdRieskeB6_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_pcrd_u" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_ORieske_B6_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_oxRieskeB6_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -31646,10 +32064,10 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_lipidAds_c" stoichiometry="0.4276" constant="true"/>
-          <speciesReference species="M_E11_p" stoichiometry="0.4276" constant="true"/>
+          <speciesReference species="M_PG_p" stoichiometry="0.4276" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_B4_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_bm_cw_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_BioCellwall"/>
@@ -31757,10 +32175,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_E1_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_photon_e1_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_E1_P700_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_e700_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_slr0862"/>
@@ -31911,13 +32329,13 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_QAn_P680_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_PQn_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_qan_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pqn_um" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_pqh2_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_QA_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_qa_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -32139,11 +32557,11 @@
         </annotation>
         <listOfReactants>
           <speciesReference species="M_h2o_u" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_S4_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_s4_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_o2_u" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_S0_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_s0_um" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_u" stoichiometry="4" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -32245,7 +32663,7 @@
           <speciesReference species="M_met__L_c" stoichiometry="0.177" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_B1_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_bm_pro_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h2o_c" stoichiometry="9.0197" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -32326,12 +32744,12 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_P680p_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_S1_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p680p_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_s1_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_S2_P680_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_s2_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p680_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -32444,17 +32862,19 @@
           <fbc:geneProductRef fbc:geneProduct="G_sll1987"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_ST0011" id="R_ST0011" name="ST0011" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_CYPHYC" id="R_CYPHYC" name="ST0011" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>GENE_ASSOCIATION: (slr2001)</p>
+            <p>old_id: ST0011</p>
           </html>
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_ST0011">
+            <rdf:Description rdf:about="#meta_R_CYPHYC">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/CYPHYC"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/3.4.15.6"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -32463,11 +32883,11 @@
         </annotation>
         <listOfReactants>
           <speciesReference species="M_h2o_c" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_E10_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_cyanphy_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_arg__L_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_E10N_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_precyanphy_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_asp__L_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -33265,7 +33685,7 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ppi_c" stoichiometry="3.1191" constant="true"/>
-          <speciesReference species="M_B3_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_bm_rna_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_BioRNA"/>
@@ -33799,11 +34219,11 @@
         <listOfReactants>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pqb6s_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_HB2p_B6_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_hemeB2p_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_PQH_B6_S_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_HB3p_B6_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pqhb6s_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_hemeB3p_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -33839,12 +34259,12 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_ORieske_B6_cm" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_oxRieskeB6_cm" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pqh2_cm" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_PQH_B6_L_cm" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_RRieske_B6_cm" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pqhb6l_cm" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_rdRieskeB6_cm" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_p" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -34561,11 +34981,11 @@
         </annotation>
         <listOfReactants>
           <speciesReference species="M_pqh2_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_ORieske_B6_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_oxRieskeB6_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_PQH_B6_L_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_RRieske_B6_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pqhb6l_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_rdRieskeB6_um" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_u" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -35362,7 +35782,7 @@
           <speciesReference species="M_palmACP_c" stoichiometry="1.3327" constant="true"/>
           <speciesReference species="M_hdeceACP_c" stoichiometry="0.0227" constant="true"/>
           <speciesReference species="M_ocdcaACP_c" stoichiometry="0.0457" constant="true"/>
-          <speciesReference species="M_E17_c" stoichiometry="0.2158" constant="true"/>
+          <speciesReference species="M_octe_6_9_12_ACP_c" stoichiometry="0.2158" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_ACP_c" stoichiometry="2.6507" constant="true"/>
@@ -35959,12 +36379,12 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_P680p_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_S2_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p680p_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_s2_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_S3_P680_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_s3_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_p680_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -36008,10 +36428,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_E19_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_5drib_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_E19_p" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_5drib_p" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_slr0401"/>
@@ -36183,17 +36603,19 @@
           <fbc:geneProductRef fbc:geneProduct="G_slr0348"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_LI0041" id="R_LI0041" name="LI0041" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_DES2_6" id="R_DES2_6" name="LI0041" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>GENE_ASSOCIATION: (sll0262)</p>
+            <p>old_id: LI0041</p>
           </html>
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_LI0041">
+            <rdf:Description rdf:about="#meta_R_DES2_6">
               <bqbiol:is>
                 <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/DES2_6"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.14.19.3"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -36207,7 +36629,7 @@
           <speciesReference species="M_o2_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_E36_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_octe_6_9_12_15_ACP_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h2o_c" stoichiometry="2" constant="true"/>
           <speciesReference species="M_nadp_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
@@ -36350,7 +36772,7 @@
           <speciesReference species="M_nadph_c" stoichiometry="0.012" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_B6_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_bm_sol_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_BioPool"/>
@@ -36534,13 +36956,13 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_PQH_B6_L_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_HB3p_B6_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pqhb6l_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_hemeB3p_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_h_u" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pqb6s_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_HB2p_B6_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_hemeB2p_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -37166,12 +37588,12 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_ocdcaACP_c" stoichiometry="0.0034" constant="true"/>
-          <speciesReference species="M_E36_c" stoichiometry="0.019" constant="true"/>
+          <speciesReference species="M_octe_6_9_12_15_ACP_c" stoichiometry="0.019" constant="true"/>
           <speciesReference species="M_palmACP_c" stoichiometry="1.3302" constant="true"/>
           <speciesReference species="M_octe_9_12_ACP_c" stoichiometry="0.4236" constant="true"/>
           <speciesReference species="M_octeacp_c" stoichiometry="0.0635" constant="true"/>
           <speciesReference species="M_octe_9_12_15_ACP_c" stoichiometry="0.0032" constant="true"/>
-          <speciesReference species="M_E17_c" stoichiometry="0.6315" constant="true"/>
+          <speciesReference species="M_octe_6_9_12_ACP_c" stoichiometry="0.6315" constant="true"/>
           <speciesReference species="M_hdeceACP_c" stoichiometry="0.0774" constant="true"/>
           <speciesReference species="M_glyc3p_c" stoichiometry="1.2759" constant="true"/>
         </listOfReactants>
@@ -37640,13 +38062,13 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_HB2p_B6_cm" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_hemeB2p_cm" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_PQH_B6_S_cm" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pqhb6s_cm" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_pqh2_cm" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_HB3p_B6_cm" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_hemeB3p_cm" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -37703,10 +38125,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_E1_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_photon_e1_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_E1_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_photon_e1_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_slr0862"/>
@@ -37861,7 +38283,7 @@
           <speciesReference species="M_glyc3p_c" stoichiometry="1.3747" constant="true"/>
           <speciesReference species="M_hdeceACP_c" stoichiometry="0.1804" constant="true"/>
           <speciesReference species="M_octe_9_12_15_ACP_c" stoichiometry="0.0165" constant="true"/>
-          <speciesReference species="M_E17_c" stoichiometry="0.0228" constant="true"/>
+          <speciesReference species="M_octe_6_9_12_ACP_c" stoichiometry="0.0228" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_C00416_SQDG_c" stoichiometry="1" constant="true"/>
@@ -39989,10 +40411,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_E20_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_dialurate_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_E20_p" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_dialurate_p" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -40405,11 +40827,11 @@
         <listOfReactants>
           <speciesReference species="M_pq_um" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_QAn_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_qan_um" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_PQn_P680_um" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_QA_P680_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pqn_um" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_qa_um" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>

@@ -1278,6 +1278,45 @@
       - chebi: CHEBI:48000
       - kegg.compound: C15667
   - !!omap
+    - id: 5drib_c
+    - name: 5-Deoxy-D-ribose_cyt
+    - compartment: cyt
+    - charge: 0
+    - formula: C5H10O4
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: C5H10O4
+      - old_id: E19_cyt
+    - annotation: !!omap
+      - bigg.metabolite: 5drib
+      - chebi: CHEBI:62012
+  - !!omap
+    - id: 5drib_e
+    - name: 5-Deoxy-D-ribose_ext_b
+    - compartment: ext
+    - charge: 0
+    - formula: C5H10O4
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: C5H10O4
+      - old_id: E19_ext_b
+    - annotation: !!omap
+      - bigg.metabolite: 5drib
+      - chebi: CHEBI:62012
+  - !!omap
+    - id: 5drib_p
+    - name: 5-Deoxy-D-ribose_pps
+    - compartment: pps
+    - charge: 0
+    - formula: C5H10O4
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: C5H10O4
+      - old_id: E19_pps
+    - annotation: !!omap
+      - bigg.metabolite: 5drib
+      - chebi: CHEBI:62012
+  - !!omap
     - id: 5g2oxpt_c
     - name: 5-Guanidino-2-oxopentanoate_cyt
     - compartment: cyt
@@ -1476,96 +1515,6 @@
       - chebi: CHEBI:18359
       - kegg.compound: C00229
   - !!omap
-    - id: B0_e
-    - name: Biomass_ext_b
-    - compartment: ext
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: B0_ext_b
-  - !!omap
-    - id: B1_c
-    - name: Protein component of biomass_cyt
-    - compartment: cyt
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: B1_cyt
-  - !!omap
-    - id: B2_c
-    - name: DNA component of biomass_cyt
-    - compartment: cyt
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: B2_cyt
-  - !!omap
-    - id: B3_c
-    - name: RNA component of biomass_cyt
-    - compartment: cyt
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: B3_cyt
-  - !!omap
-    - id: B4_c
-    - name: Cell wall component of biomass_cyt
-    - compartment: cyt
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: B4_cyt
-  - !!omap
-    - id: B5_c
-    - name: Lipid component of biomass_cyt
-    - compartment: cyt
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: B5_cyt
-  - !!omap
-    - id: B6_c
-    - name: Soluble pool component of biomass_cyt
-    - compartment: cyt
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: B6_cyt
-  - !!omap
-    - id: B7_c
-    - name: Ion component of biomass_cyt
-    - compartment: cyt
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: B7_cyt
-  - !!omap
-    - id: B8_c
-    - name: Pigment component of biomass_cyt
-    - compartment: cyt
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: B8_cyt
-  - !!omap
     - id: C00416_DGDG_c
     - name: Phosphatidate_DGDG_cyt
     - compartment: cyt
@@ -1725,174 +1674,6 @@
     - annotation: !!omap
       - chebi: CHEBI:32167
   - !!omap
-    - id: E10N_c
-    - name: Cyanophycin polymer_cyt_b
-    - compartment: cyt
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: E10N_cyt_b
-    - annotation: !!omap
-      - chebi: CHEBI:65319
-  - !!omap
-    - id: E10_c
-    - name: Cyanophycin_cyt
-    - compartment: cyt
-    - charge: 0
-    - formula: C10H17N5O4R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: C10H17N5O4R
-      - old_id: E10_cyt
-    - annotation: !!omap
-      - chebi: CHEBI:65319
-  - !!omap
-    - id: E11_p
-    - name: Peptidoglycan_pps
-    - compartment: pps
-    - charge: 0
-    - formula: C37H59N7O20
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: C37H59N7O20
-      - old_id: E11_pps
-    - annotation: !!omap
-      - chebi: CHEBI:8005
-  - !!omap
-    - id: E17_c
-    - name: gamma-Linolenoyl-ACP_cyt
-    - compartment: cyt
-    - charge: 0
-    - formula: C18H29OSR
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: C18H29OSR
-      - old_id: E17_cyt
-  - !!omap
-    - id: E19_c
-    - name: 5-Deoxy-D-ribose_cyt
-    - compartment: cyt
-    - charge: 0
-    - formula: C5H10O4
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: C5H10O4
-      - old_id: E19_cyt
-    - annotation: !!omap
-      - chebi: CHEBI:62012
-  - !!omap
-    - id: E19_e
-    - name: 5-Deoxy-D-ribose_ext_b
-    - compartment: ext
-    - charge: 0
-    - formula: C5H10O4
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: C5H10O4
-      - old_id: E19_ext_b
-    - annotation: !!omap
-      - chebi: CHEBI:62012
-  - !!omap
-    - id: E19_p
-    - name: 5-Deoxy-D-ribose_pps
-    - compartment: pps
-    - charge: 0
-    - formula: C5H10O4
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: C5H10O4
-      - old_id: E19_pps
-    - annotation: !!omap
-      - chebi: CHEBI:62012
-  - !!omap
-    - id: E1_P680_um
-    - name: Photons with 680nm wavelength_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: E1_P680_tlm
-  - !!omap
-    - id: E1_P700_um
-    - name: Photons with 700nm wavelength_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: E1_P700_tlm
-  - !!omap
-    - id: E1_e
-    - name: Photon_ext_b
-    - compartment: ext
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: E1_ext_b
-  - !!omap
-    - id: E1_um
-    - name: Photon_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: E1_tlm
-  - !!omap
-    - id: E20_c
-    - name: Dialurate_cyt
-    - compartment: cyt
-    - charge: -2
-    - formula: C4H4N2O4
-    - notes: !!omap
-      - CHARGE: '-2'
-      - FORMULA: C4H4N2O4
-      - old_id: E20_cyt
-    - annotation: !!omap
-      - chebi: CHEBI:76452
-  - !!omap
-    - id: E20_e
-    - name: Dialurate_ext_b
-    - compartment: ext
-    - charge: -2
-    - formula: C4H4N2O4
-    - notes: !!omap
-      - CHARGE: '-2'
-      - FORMULA: C4H4N2O4
-      - old_id: E20_ext_b
-    - annotation: !!omap
-      - chebi: CHEBI:76452
-  - !!omap
-    - id: E20_p
-    - name: Dialurate_pps
-    - compartment: pps
-    - charge: -2
-    - formula: C4H4N2O4
-    - notes: !!omap
-      - CHARGE: '-2'
-      - FORMULA: C4H4N2O4
-      - old_id: E20_pps
-    - annotation: !!omap
-      - chebi: CHEBI:76452
-  - !!omap
-    - id: E36_c
-    - name: Stearidonoyl-[acp]_cyt
-    - compartment: cyt
-    - charge: 0
-    - formula: C18H27OSR
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: C18H27OSR
-      - old_id: E36_cyt
-  - !!omap
     - id: E50_e
     - name: Carbonate_med
     - compartment: ext
@@ -1905,46 +1686,6 @@
     - annotation: !!omap
       - chebi: CHEBI:41609
   - !!omap
-    - id: HB2p_B6_cm
-    - name: Heme B located in the Cytochrome-b6/f complex, twice protonated_cym
-    - compartment: cym
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: HB2p_B6_cym
-  - !!omap
-    - id: HB2p_B6_um
-    - name: Heme B located in the Cytochrome-b6/f complex, twice protonated_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: HB2p_B6_tlm
-  - !!omap
-    - id: HB3p_B6_cm
-    - name: Heme B located in the Cytochrome-b6/f complex, triply protonated_cym
-    - compartment: cym
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: HB3p_B6_cym
-  - !!omap
-    - id: HB3p_B6_um
-    - name: Heme B located in the Cytochrome-b6/f complex, triply protonated_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: HB3p_B6_tlm
-  - !!omap
     - id: Largn_c
     - name: L-Arogenate
     - compartment: cyt
@@ -1953,220 +1694,18 @@
     - annotation: !!omap
       - bigg.metabolite: Largn
   - !!omap
-    - id: ORieske_B6_cm
-    - name: Oxidized rieske_B6_cym
-    - compartment: cym
+    - id: PG_p
+    - name: Peptidoglycan_pps
+    - compartment: pps
     - charge: 0
-    - formula: R
+    - formula: C37H59N7O20
     - notes: !!omap
       - CHARGE: '-'
-      - FORMULA: R
-      - old_id: ORieske_B6_cym
-  - !!omap
-    - id: ORieske_B6_um
-    - name: Oxidized rieske_B6_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: ORieske_B6_tlm
-  - !!omap
-    - id: P680_um
-    - name: Neutral reaction centre of the Photosystem II (light with 680 nm is sufficient
-        for the excitation of the one reaction center)_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: P680_tlm
-  - !!omap
-    - id: P680p_um
-    - name: Positive charged reaction centre of the Photosystem II (light with 680
-        nm is sufficient for the excitation of the one reaction center)_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: P680p_tlm
-  - !!omap
-    - id: P700_um
-    - name: Uncharged reaction centre of the Photosystem I (light with 700 nm is sufficient
-        for the excitation of the one reaction center)_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: P700_tlm
-  - !!omap
-    - id: P700p_um
-    - name: Positive charged reaction centre of the Photosystem I (light with 700
-        nm is sufficient for the excitation of the one reaction center)_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: P700p_tlm
-  - !!omap
-    - id: PQH_B6_L_cm
-    - name: Plastosemiquinone located at the luminal side of the Cytochrome-b6/f complex_cym
-    - compartment: cym
-    - charge: 0
-    - formula: C53H81O2
-    - notes: !!omap
-      - CHARGE: '0'
-      - FORMULA: C53H81O2
-      - old_id: PQH_B6_L_cym
-  - !!omap
-    - id: PQH_B6_L_um
-    - name: Plastosemiquinone located at the luminal side of the Cytochrome-b6/f complex_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: C53H81O2
-    - notes: !!omap
-      - CHARGE: '0'
-      - FORMULA: C53H81O2
-      - old_id: PQH_B6_L_tlm
-  - !!omap
-    - id: PQH_B6_S_cm
-    - name: Plastosemiquinone located at the stromal side of the Cytochrome-b6/f complex_cym
-    - compartment: cym
-    - charge: 0
-    - formula: C53H81O2
-    - notes: !!omap
-      - CHARGE: '0'
-      - FORMULA: C53H81O2
-      - old_id: PQH_B6_S_cym
-  - !!omap
-    - id: PQH_B6_S_um
-    - name: Plastosemiquinone located at the stromal side of the Cytochrome-b6/f complex_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: C53H81O2
-    - notes: !!omap
-      - CHARGE: '0'
-      - FORMULA: C53H81O2
-      - old_id: PQH_B6_S_tlm
-  - !!omap
-    - id: PQn_P680_um
-    - name: Semiplastoquinone radical loosely bound to the Photosystem II (can except
-        one further electron)_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: C53H81O2
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: C53H81O2
-      - old_id: PQn_P680_tlm
+      - FORMULA: C37H59N7O20
+      - old_id: E11_pps
     - annotation: !!omap
-      - chebi: CHEBI:28377
-  - !!omap
-    - id: QA_P680_um
-    - name: Internal bound plastoquinone of the Photosystem II_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: C53H80O2
-    - notes: !!omap
-      - CHARGE: '0'
-      - FORMULA: C53H80O2
-      - old_id: QA_P680_tlm
-    - annotation: !!omap
-      - chebi: CHEBI:28377
-  - !!omap
-    - id: QAn_P680_um
-    - name: Internal bound semiquinone radical of the Photosystem II_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: C53H80O2
-    - notes: !!omap
-      - CHARGE: '0'
-      - FORMULA: C53H80O2
-      - old_id: QAn_P680_tlm
-    - annotation: !!omap
-      - chebi: CHEBI:28377
-  - !!omap
-    - id: RRieske_B6_cm
-    - name: Reduced rieske_B6_cym
-    - compartment: cym
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: RRieske_B6_cym
-  - !!omap
-    - id: RRieske_B6_um
-    - name: Reduced rieske_B6_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: RRieske_B6_tlm
-  - !!omap
-    - id: S0_P680_um
-    - name: Starting state of a cluster of probably four manganese atoms_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: S0_P680_tlm
-  - !!omap
-    - id: S1_P680_um
-    - name: First oxidation state of the cluster of manganese atoms in the Photosystem
-        II (needed for water splitting)_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: S1_P680_tlm
-  - !!omap
-    - id: S2_P680_um
-    - name: Second oxidation state of the cluster of manganese atoms in the Photosystem
-        II (needed for water splitting)_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: S2_P680_tlm
-  - !!omap
-    - id: S3_P680_um
-    - name: Third oxidation state of the cluster of manganese atoms in the Photosystem
-        II (needed for water splitting)_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: S3_P680_tlm
-  - !!omap
-    - id: S4_P680_um
-    - name: Fourth oxidation state of the cluster of manganese atoms in the Photosystem
-        II (needed for water splitting)_tlm
-    - compartment: tlm
-    - charge: 0
-    - formula: R
-    - notes: !!omap
-      - CHARGE: '-'
-      - FORMULA: R
-      - old_id: S4_P680_tlm
+      - bigg.metabolite: PG
+      - chebi: CHEBI:8005
   - !!omap
     - id: Sfglutth_c
     - name: S-Formylglutathione_cyt
@@ -3056,6 +2595,110 @@
       - chebi: CHEBI:17033
       - kegg.compound: C00500
   - !!omap
+    - id: biomass_e
+    - name: Biomass_ext_b
+    - compartment: ext
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: B0_ext_b
+    - annotation: !!omap
+      - bigg.metabolite: biomass
+  - !!omap
+    - id: bm_cw_c
+    - name: Cell wall component of biomass_cyt
+    - compartment: cyt
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: B4_cyt
+    - annotation: !!omap
+      - bigg.metabolite: bm_cw
+  - !!omap
+    - id: bm_dna_c
+    - name: DNA component of biomass_cyt
+    - compartment: cyt
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: B2_cyt
+    - annotation: !!omap
+      - bigg.metabolite: bm_dna
+  - !!omap
+    - id: bm_ion_c
+    - name: Ion component of biomass_cyt
+    - compartment: cyt
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: B7_cyt
+  - !!omap
+    - id: bm_memlip_c
+    - name: Lipid component of biomass_cyt
+    - compartment: cyt
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: B5_cyt
+    - annotation: !!omap
+      - bigg.metabolite: bm_memlip
+  - !!omap
+    - id: bm_pigm_c
+    - name: Pigment component of biomass_cyt
+    - compartment: cyt
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: B8_cyt
+    - annotation: !!omap
+      - bigg.metabolite: bm_pigm
+  - !!omap
+    - id: bm_pro_c
+    - name: Protein component of biomass_cyt
+    - compartment: cyt
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: B1_cyt
+    - annotation: !!omap
+      - bigg.metabolite: bm_pro
+  - !!omap
+    - id: bm_rna_c
+    - name: RNA component of biomass_cyt
+    - compartment: cyt
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: B3_cyt
+    - annotation: !!omap
+      - bigg.metabolite: bm_rna
+  - !!omap
+    - id: bm_sol_c
+    - name: Soluble pool component of biomass_cyt
+    - compartment: cyt
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: B6_cyt
+  - !!omap
     - id: btamp_c
     - name: Biotinyl-5'-AMP_cyt
     - compartment: cyt
@@ -3702,6 +3345,19 @@
       - chebi: CHEBI:28694
       - kegg.compound: C00070
   - !!omap
+    - id: cyanphy_c
+    - name: Cyanophycin_cyt
+    - compartment: cyt
+    - charge: 0
+    - formula: C10H17N5O4R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: C10H17N5O4R
+      - old_id: E10_cyt
+    - annotation: !!omap
+      - bigg.metabolite: cyanphy
+      - chebi: CHEBI:65319
+  - !!omap
     - id: cynt_c
     - name: Cyanate_cyt
     - compartment: cyt
@@ -4095,6 +3751,45 @@
       - bigg.metabolite: dhpt
       - chebi: CHEBI:4581
       - kegg.compound: C00921
+  - !!omap
+    - id: dialurate_c
+    - name: Dialurate_cyt
+    - compartment: cyt
+    - charge: -2
+    - formula: C4H4N2O4
+    - notes: !!omap
+      - CHARGE: '-2'
+      - FORMULA: C4H4N2O4
+      - old_id: E20_cyt
+    - annotation: !!omap
+      - bigg.metabolite: dialurate
+      - chebi: CHEBI:76452
+  - !!omap
+    - id: dialurate_e
+    - name: Dialurate_ext_b
+    - compartment: ext
+    - charge: -2
+    - formula: C4H4N2O4
+    - notes: !!omap
+      - CHARGE: '-2'
+      - FORMULA: C4H4N2O4
+      - old_id: E20_ext_b
+    - annotation: !!omap
+      - bigg.metabolite: dialurate
+      - chebi: CHEBI:76452
+  - !!omap
+    - id: dialurate_p
+    - name: Dialurate_pps
+    - compartment: pps
+    - charge: -2
+    - formula: C4H4N2O4
+    - notes: !!omap
+      - CHARGE: '-2'
+      - FORMULA: C4H4N2O4
+      - old_id: E20_pps
+    - annotation: !!omap
+      - bigg.metabolite: dialurate
+      - chebi: CHEBI:76452
   - !!omap
     - id: dmbzid_c
     - name: Dimethylbenzimidazole_cyt
@@ -4531,6 +4226,30 @@
       - bigg.metabolite: e4p
       - chebi: CHEBI:48153
       - kegg.compound: C00279
+  - !!omap
+    - id: e680_um
+    - name: Photons with 680nm wavelength_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: E1_P680_tlm
+    - annotation: !!omap
+      - bigg.metabolite: e680
+  - !!omap
+    - id: e700_um
+    - name: Photons with 700nm wavelength_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: E1_P700_tlm
+    - annotation: !!omap
+      - bigg.metabolite: e700
   - !!omap
     - id: echin_c
     - name: Echinenone_cyt
@@ -6087,6 +5806,54 @@
       - chebi: CHEBI:61715
       - kegg.compound: C15670
   - !!omap
+    - id: hemeB2p_cm
+    - name: Heme B located in the Cytochrome-b6/f complex, twice protonated_cym
+    - compartment: cym
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: HB2p_B6_cym
+    - annotation: !!omap
+      - bigg.metabolite: hemeB2p
+  - !!omap
+    - id: hemeB2p_um
+    - name: Heme B located in the Cytochrome-b6/f complex, twice protonated_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: HB2p_B6_tlm
+    - annotation: !!omap
+      - bigg.metabolite: hemeB2p
+  - !!omap
+    - id: hemeB3p_cm
+    - name: Heme B located in the Cytochrome-b6/f complex, triply protonated_cym
+    - compartment: cym
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: HB3p_B6_cym
+    - annotation: !!omap
+      - bigg.metabolite: hemeB3p
+  - !!omap
+    - id: hemeB3p_um
+    - name: Heme B located in the Cytochrome-b6/f complex, triply protonated_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: HB3p_B6_tlm
+    - annotation: !!omap
+      - bigg.metabolite: hemeB3p
+  - !!omap
     - id: hemeO_c
     - name: Heme O_cyt
     - compartment: cyt
@@ -7428,6 +7195,30 @@
       - bigg.metabolite: ocdcaACP
       - kegg.compound: C04088
   - !!omap
+    - id: octe_6_9_12_15_ACP_c
+    - name: Stearidonoyl-[acp]_cyt
+    - compartment: cyt
+    - charge: 0
+    - formula: C18H27OSR
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: C18H27OSR
+      - old_id: E36_cyt
+    - annotation: !!omap
+      - bigg.metabolite: octe_6_9_12_15_ACP
+  - !!omap
+    - id: octe_6_9_12_ACP_c
+    - name: gamma-Linolenoyl-ACP_cyt
+    - compartment: cyt
+    - charge: 0
+    - formula: C18H29OSR
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: C18H29OSR
+      - old_id: E17_cyt
+    - annotation: !!omap
+      - bigg.metabolite: octe_6_9_12_ACP
+  - !!omap
     - id: octe_9_12_15_ACP_c
     - name: alpha-Linolenoyl-ACP_cyt
     - compartment: cyt
@@ -7565,6 +7356,30 @@
       - chebi: CHEBI:16742
       - kegg.compound: C00295
   - !!omap
+    - id: oxRieskeB6_cm
+    - name: Oxidized rieske_B6_cym
+    - compartment: cym
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: ORieske_B6_cym
+    - annotation: !!omap
+      - bigg.metabolite: oxRieskeB6
+  - !!omap
+    - id: oxRieskeB6_um
+    - name: Oxidized rieske_B6_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: ORieske_B6_tlm
+    - annotation: !!omap
+      - bigg.metabolite: oxRieskeB6
+  - !!omap
     - id: oxa_c
     - name: Oxalate_cyt
     - compartment: cyt
@@ -7578,6 +7393,58 @@
       - bigg.metabolite: oxa
       - chebi: CHEBI:16995
       - kegg.compound: C00209
+  - !!omap
+    - id: p680_um
+    - name: Neutral reaction centre of the Photosystem II (light with 680 nm is sufficient
+        for the excitation of the one reaction center)_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: P680_tlm
+    - annotation: !!omap
+      - bigg.metabolite: p680
+  - !!omap
+    - id: p680p_um
+    - name: Positive charged reaction centre of the Photosystem II (light with 680
+        nm is sufficient for the excitation of the one reaction center)_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: P680p_tlm
+    - annotation: !!omap
+      - bigg.metabolite: p680p
+  - !!omap
+    - id: p700_um
+    - name: Uncharged reaction centre of the Photosystem I (light with 700 nm is sufficient
+        for the excitation of the one reaction center)_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: P700_tlm
+    - annotation: !!omap
+      - bigg.metabolite: p700
+  - !!omap
+    - id: p700p_um
+    - name: Positive charged reaction centre of the Photosystem I (light with 700
+        nm is sufficient for the excitation of the one reaction center)_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: P700p_tlm
+    - annotation: !!omap
+      - bigg.metabolite: p700p
   - !!omap
     - id: pa_EC_c
     - name: Phosphatidate_PG_cyt
@@ -7872,6 +7739,30 @@
       - bigg.metabolite: phom
       - chebi: CHEBI:15961
       - kegg.compound: C01102
+  - !!omap
+    - id: photon_e1_e
+    - name: Photon_ext_b
+    - compartment: ext
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: E1_ext_b
+    - annotation: !!omap
+      - bigg.metabolite: photon_e1
+  - !!omap
+    - id: photon_e1_um
+    - name: Photon_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: E1_tlm
+    - annotation: !!omap
+      - bigg.metabolite: photon_e1
   - !!omap
     - id: phpyr_c
     - name: Phenylpyruvate_cyt
@@ -8228,6 +8119,68 @@
       - chebi: CHEBI:28026
       - kegg.compound: C16695
   - !!omap
+    - id: pqhb6l_cm
+    - name: Plastosemiquinone located at the luminal side of the Cytochrome-b6/f complex_cym
+    - compartment: cym
+    - charge: 0
+    - formula: C53H81O2
+    - notes: !!omap
+      - CHARGE: '0'
+      - FORMULA: C53H81O2
+      - old_id: PQH_B6_L_cym
+    - annotation: !!omap
+      - bigg.metabolite: pqhb6l
+  - !!omap
+    - id: pqhb6l_um
+    - name: Plastosemiquinone located at the luminal side of the Cytochrome-b6/f complex_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: C53H81O2
+    - notes: !!omap
+      - CHARGE: '0'
+      - FORMULA: C53H81O2
+      - old_id: PQH_B6_L_tlm
+    - annotation: !!omap
+      - bigg.metabolite: pqhb6l
+  - !!omap
+    - id: pqhb6s_cm
+    - name: Plastosemiquinone located at the stromal side of the Cytochrome-b6/f complex_cym
+    - compartment: cym
+    - charge: 0
+    - formula: C53H81O2
+    - notes: !!omap
+      - CHARGE: '0'
+      - FORMULA: C53H81O2
+      - old_id: PQH_B6_S_cym
+    - annotation: !!omap
+      - bigg.metabolite: pqhb6s
+  - !!omap
+    - id: pqhb6s_um
+    - name: Plastosemiquinone located at the stromal side of the Cytochrome-b6/f complex_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: C53H81O2
+    - notes: !!omap
+      - CHARGE: '0'
+      - FORMULA: C53H81O2
+      - old_id: PQH_B6_S_tlm
+    - annotation: !!omap
+      - bigg.metabolite: pqhb6s
+  - !!omap
+    - id: pqn_um
+    - name: Semiplastoquinone radical loosely bound to the Photosystem II (can except
+        one further electron)_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: C53H81O2
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: C53H81O2
+      - old_id: PQn_P680_tlm
+    - annotation: !!omap
+      - bigg.metabolite: pqn
+      - chebi: CHEBI:28377
+  - !!omap
     - id: pram_c
     - name: 5-Phosphoribosylamine_cyt
     - compartment: cyt
@@ -8381,6 +8334,19 @@
       - bigg.metabolite: pre8
       - chebi: CHEBI:28629
       - kegg.compound: C06408
+  - !!omap
+    - id: precyanphy_c
+    - name: Cyanophycin polymer_cyt_b
+    - compartment: cyt
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: E10N_cyt_b
+    - annotation: !!omap
+      - bigg.metabolite: precyanphy
+      - chebi: CHEBI:65319
   - !!omap
     - id: prephytedp_c
     - name: Prephytoene diphosphate_cyt
@@ -8562,6 +8528,32 @@
       - chebi: CHEBI:32816
       - kegg.compound: C00022
   - !!omap
+    - id: qa_um
+    - name: Internal bound plastoquinone of the Photosystem II_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: C53H80O2
+    - notes: !!omap
+      - CHARGE: '0'
+      - FORMULA: C53H80O2
+      - old_id: QA_P680_tlm
+    - annotation: !!omap
+      - bigg.metabolite: qa
+      - chebi: CHEBI:28377
+  - !!omap
+    - id: qan_um
+    - name: Internal bound semiquinone radical of the Photosystem II_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: C53H80O2
+    - notes: !!omap
+      - CHARGE: '0'
+      - FORMULA: C53H80O2
+      - old_id: QAn_P680_tlm
+    - annotation: !!omap
+      - bigg.metabolite: qan
+      - chebi: CHEBI:28377
+  - !!omap
     - id: quln_c
     - name: Pyridine-2,3-dicarboxylate_cyt
     - compartment: cyt
@@ -8640,6 +8632,30 @@
       - chebi: CHEBI:16710
       - kegg.compound: C01182
   - !!omap
+    - id: rdRieskeB6_cm
+    - name: Reduced rieske_B6_cym
+    - compartment: cym
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: RRieske_B6_cym
+    - annotation: !!omap
+      - bigg.metabolite: rdRieskeB6
+  - !!omap
+    - id: rdRieskeB6_um
+    - name: Reduced rieske_B6_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: RRieske_B6_tlm
+    - annotation: !!omap
+      - bigg.metabolite: rdRieskeB6
+  - !!omap
     - id: rdmbzi_c
     - name: alpha-Ribazole_cyt
     - compartment: cyt
@@ -8682,6 +8698,18 @@
       - chebi: CHEBI:17363
       - kegg.compound: C00199
   - !!omap
+    - id: s0_um
+    - name: Starting state of a cluster of probably four manganese atoms_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: S0_P680_tlm
+    - annotation: !!omap
+      - bigg.metabolite: s0
+  - !!omap
     - id: s17bp_c
     - name: Sedoheptulose 1,7-bisphosphate_cyt
     - compartment: cyt
@@ -8695,6 +8723,58 @@
       - bigg.metabolite: s17bp
       - chebi: CHEBI:17969
       - kegg.compound: C00447
+  - !!omap
+    - id: s1_um
+    - name: First oxidation state of the cluster of manganese atoms in the Photosystem
+        II (needed for water splitting)_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: S1_P680_tlm
+    - annotation: !!omap
+      - bigg.metabolite: s1
+  - !!omap
+    - id: s2_um
+    - name: Second oxidation state of the cluster of manganese atoms in the Photosystem
+        II (needed for water splitting)_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: S2_P680_tlm
+    - annotation: !!omap
+      - bigg.metabolite: s2
+  - !!omap
+    - id: s3_um
+    - name: Third oxidation state of the cluster of manganese atoms in the Photosystem
+        II (needed for water splitting)_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: S3_P680_tlm
+    - annotation: !!omap
+      - bigg.metabolite: s3
+  - !!omap
+    - id: s4_um
+    - name: Fourth oxidation state of the cluster of manganese atoms in the Photosystem
+        II (needed for water splitting)_tlm
+    - compartment: tlm
+    - charge: 0
+    - formula: R
+    - notes: !!omap
+      - CHARGE: '-'
+      - FORMULA: R
+      - old_id: S4_P680_tlm
+    - annotation: !!omap
+      - bigg.metabolite: s4
   - !!omap
     - id: s7p_c
     - name: Sedoheptulose 7-phosphate_cyt
@@ -10230,6 +10310,22 @@
       - old_id: TR3005
     - annotation: !!omap
       - bigg.reaction: 3PGtcx
+  - !!omap
+    - id: 5DOAN
+    - name: PU0023
+    - metabolites: !!omap
+      - 5drib_c: 1.0
+      - ade_c: 1.0
+      - dad_5_c: -1.0
+      - h2o_c: -1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: sll1852
+    - notes: !!omap
+      - GENE_ASSOCIATION: (sll1852)
+      - old_id: PU0023
+    - annotation: !!omap
+      - bigg.reaction: 5DOAN
   - !!omap
     - id: AACOAR_syn
     - name: ST0008
@@ -11933,11 +12029,11 @@
     - id: BM0001
     - name: BM0001
     - metabolites: !!omap
-      - B1_c: 1.0
       - ala__L_c: -0.766
       - arg__L_c: -0.455
       - asn__L_c: -0.366
       - asp__L_c: -0.454
+      - bm_pro_c: 1.0
       - cys__L_c: -0.09
       - gln__L_c: -0.502
       - glu__L_c: -0.546
@@ -11964,7 +12060,7 @@
     - id: BM0002
     - name: BM0002
     - metabolites: !!omap
-      - B2_c: 1.0
+      - bm_dna_c: 1.0
       - datp_c: -0.8487
       - dctp_c: -0.7749
       - dgtp_c: -0.7772
@@ -11979,8 +12075,8 @@
     - id: BM0003
     - name: BM0003
     - metabolites: !!omap
-      - B3_c: 1.0
       - atp_c: -0.73
+      - bm_rna_c: 1.0
       - ctp_c: -0.7799
       - gtp_c: -0.808
       - ppi_c: 3.1191
@@ -11994,8 +12090,8 @@
     - id: BM0004
     - name: BM0004
     - metabolites: !!omap
-      - B4_c: 1.0
-      - E11_p: -0.4276
+      - PG_p: -0.4276
+      - bm_cw_c: 1.0
       - lipidAds_c: -0.4276
     - lower_bound: 0.0
     - upper_bound: 1000.0
@@ -12006,10 +12102,10 @@
     - id: BM0005
     - name: BM0005
     - metabolites: !!omap
-      - B5_c: 1.0
       - C03692_MGDG_c: -0.38
       - C06037_DGDG_c: -0.265
       - C13508_SQDG_c: -0.255
+      - bm_memlip_c: 1.0
       - pglyc_cho_c: -0.1
     - lower_bound: 0.0
     - upper_bound: 1000.0
@@ -12022,10 +12118,10 @@
     - metabolites: !!omap
       - 10fthf_c: -0.008
       - 5mthf_c: -0.008
-      - B6_c: 1.0
       - accoa_c: -0.01
       - adocbl_c: -0.008
       - amet_c: -0.008
+      - bm_sol_c: 1.0
       - chor_c: -0.008
       - coa_c: -0.006
       - dtpcudcpp_c: -0.002
@@ -12056,7 +12152,7 @@
     - id: BM0007
     - name: BM0007
     - metabolites: !!omap
-      - B7_c: 1.0
+      - bm_ion_c: 1.0
       - ca2_c: -0.454
       - cobalt2_c: -0.303
       - cu2_c: -0.303
@@ -12080,8 +12176,8 @@
     - id: BM0008
     - name: BM0008
     - metabolites: !!omap
-      - B8_c: 1.0
       - avite1_c: -0.01
+      - bm_pigm_c: 1.0
       - bvite_c: -0.001
       - caro_c: -0.134
       - cholphya_c: -0.827
@@ -12100,17 +12196,17 @@
     - id: BM0009
     - name: BM0009
     - metabolites: !!omap
-      - B0_e: 1.0
-      - B1_c: -0.51
-      - B2_c: -0.031
-      - B3_c: -0.17
-      - B4_c: -0.059
-      - B5_c: -0.12
-      - B6_c: -0.029
-      - B7_c: -0.01
-      - B8_c: -0.0244
       - adp_c: 53.35
       - atp_c: -53.35
+      - biomass_e: 1.0
+      - bm_cw_c: -0.059
+      - bm_dna_c: -0.031
+      - bm_ion_c: -0.01
+      - bm_memlip_c: -0.12
+      - bm_pigm_c: -0.0244
+      - bm_pro_c: -0.51
+      - bm_rna_c: -0.17
+      - bm_sol_c: -0.029
       - glycogen_c: -0.21031
       - h2o_c: -53.35
       - pi_c: 53.35
@@ -12881,6 +12977,44 @@
       - bigg.reaction: CYOOum
       - ec-code: 1.9.3.1
   - !!omap
+    - id: CYPHYC
+    - name: ST0011
+    - metabolites: !!omap
+      - arg__L_c: 1.0
+      - asp__L_c: 1.0
+      - cyanphy_c: -1.0
+      - h2o_c: -2.0
+      - precyanphy_c: 1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: slr2001
+    - notes: !!omap
+      - GENE_ASSOCIATION: (slr2001)
+      - old_id: ST0011
+    - annotation: !!omap
+      - bigg.reaction: CYPHYC
+      - ec-code: 3.4.15.6
+  - !!omap
+    - id: CYPHYS
+    - name: ST0010
+    - metabolites: !!omap
+      - adp_c: 2.0
+      - arg__L_c: -1.0
+      - asp__L_c: -1.0
+      - atp_c: -2.0
+      - cyanphy_c: 1.0
+      - pi_c: 2.0
+      - precyanphy_c: -1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: slr2002
+    - notes: !!omap
+      - GENE_ASSOCIATION: (slr2002)
+      - old_id: ST0010
+    - annotation: !!omap
+      - bigg.reaction: CYPHYS
+      - ec-code: 6.3.2.29
+  - !!omap
     - id: CYRDAAT
     - name: VT0013
     - metabolites: !!omap
@@ -13263,6 +13397,46 @@
     - annotation: !!omap
       - bigg.reaction: DES2_15
       - ec-code: 1.14.19.-
+  - !!omap
+    - id: DES2_6
+    - name: LI0041
+    - metabolites: !!omap
+      - h2o_c: 2.0
+      - h_c: -1.0
+      - nadp_c: 1.0
+      - nadph_c: -1.0
+      - o2_c: -1.0
+      - octe_6_9_12_15_ACP_c: 1.0
+      - octe_9_12_15_ACP_c: -1.0
+    - lower_bound: -1000.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: sll0262
+    - notes: !!omap
+      - GENE_ASSOCIATION: (sll0262)
+      - old_id: LI0041
+    - annotation: !!omap
+      - bigg.reaction: DES2_6
+      - ec-code: 1.14.19.3
+  - !!omap
+    - id: DES2_6B
+    - name: LI0039
+    - metabolites: !!omap
+      - h2o_c: 2.0
+      - h_c: -1.0
+      - nadp_c: 1.0
+      - nadph_c: -1.0
+      - o2_c: -1.0
+      - octe_6_9_12_ACP_c: 1.0
+      - octe_9_12_ACP_c: -1.0
+    - lower_bound: -1000.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: sll0262
+    - notes: !!omap
+      - GENE_ASSOCIATION: (sll0262)
+      - old_id: LI0039
+    - annotation: !!omap
+      - bigg.reaction: DES2_6B
+      - ec-code: 1.14.19.3
   - !!omap
     - id: DES2_C16
     - name: LI0036
@@ -14133,7 +14307,7 @@
     - id: EX_B0_ext_b
     - name: EX_B0_ext_b
     - metabolites: !!omap
-      - B0_e: -1.0
+      - biomass_e: -1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
@@ -14230,20 +14404,10 @@
     - annotation: !!omap
       - sbo: SBO:0000627
   - !!omap
-    - id: EX_E10N_cyt_b
-    - name: EX_E10N_cyt_b
-    - metabolites: !!omap
-      - E10N_c: -1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: ''
-    - annotation: !!omap
-      - sbo: SBO:0000627
-  - !!omap
     - id: EX_E19_ext_b
     - name: EX_E19_ext_b
     - metabolites: !!omap
-      - E19_e: -1.0
+      - 5drib_e: -1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
@@ -14253,7 +14417,7 @@
     - id: EX_E1_ext_b
     - name: EX_E1_ext_b
     - metabolites: !!omap
-      - E1_e: -1.0
+      - photon_e1_e: -1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
@@ -14263,7 +14427,7 @@
     - id: EX_E20_ext_b
     - name: EX_E20_ext_b
     - metabolites: !!omap
-      - E20_e: -1.0
+      - dialurate_e: -1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
@@ -15481,11 +15645,11 @@
     - metabolites: !!omap
       - ACP_c: 2.5518
       - C00416_MGDG_c: 1.0
-      - E17_c: -0.6315
-      - E36_c: -0.019
       - glyc3p_c: -1.2759
       - hdeceACP_c: -0.0774
       - ocdcaACP_c: -0.0034
+      - octe_6_9_12_15_ACP_c: -0.019
+      - octe_6_9_12_ACP_c: -0.6315
       - octe_9_12_15_ACP_c: -0.0032
       - octe_9_12_ACP_c: -0.4236
       - octeacp_c: -0.0635
@@ -15502,11 +15666,11 @@
     - metabolites: !!omap
       - ACP_c: 2.5908
       - C00416_DGDG_c: 1.0
-      - E17_c: -0.7253
-      - E36_c: -0.0393
       - glyc3p_c: -1.2954
       - hdeceACP_c: -0.0965
       - ocdcaACP_c: -0.0223
+      - octe_6_9_12_15_ACP_c: -0.0393
+      - octe_6_9_12_ACP_c: -0.7253
       - octe_9_12_15_ACP_c: -0.0095
       - octe_9_12_ACP_c: -0.3334
       - octeacp_c: -0.0584
@@ -15523,10 +15687,10 @@
     - metabolites: !!omap
       - ACP_c: 2.7494
       - C00416_SQDG_c: 1.0
-      - E17_c: -0.0228
       - glyc3p_c: -1.3747
       - hdeceACP_c: -0.1804
       - ocdcaACP_c: -0.0343
+      - octe_6_9_12_ACP_c: -0.0228
       - octe_9_12_15_ACP_c: -0.0165
       - octe_9_12_ACP_c: -0.5331
       - octeacp_c: -0.4011
@@ -15542,10 +15706,10 @@
     - name: GL0004
     - metabolites: !!omap
       - ACP_c: 2.6507
-      - E17_c: -0.2158
       - glyc3p_c: -1.32535
       - hdeceACP_c: -0.0227
       - ocdcaACP_c: -0.0457
+      - octe_6_9_12_ACP_c: -0.2158
       - octe_9_12_ACP_c: -0.8637
       - octeacp_c: -0.1701
       - pa_EC_c: 1.0
@@ -17941,42 +18105,6 @@
     - annotation: !!omap
       - ec-code: 1.14.19.-
   - !!omap
-    - id: LI0039
-    - name: LI0039
-    - metabolites: !!omap
-      - E17_c: 1.0
-      - h2o_c: 2.0
-      - h_c: -1.0
-      - nadp_c: 1.0
-      - nadph_c: -1.0
-      - o2_c: -1.0
-      - octe_9_12_ACP_c: -1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: sll0262
-    - notes: !!omap
-      - GENE_ASSOCIATION: (sll0262)
-    - annotation: !!omap
-      - ec-code: 1.14.19.3
-  - !!omap
-    - id: LI0041
-    - name: LI0041
-    - metabolites: !!omap
-      - E36_c: 1.0
-      - h2o_c: 2.0
-      - h_c: -1.0
-      - nadp_c: 1.0
-      - nadph_c: -1.0
-      - o2_c: -1.0
-      - octe_9_12_15_ACP_c: -1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: sll0262
-    - notes: !!omap
-      - GENE_ASSOCIATION: (sll0262)
-    - annotation: !!omap
-      - ec-code: 1.14.19.3
-  - !!omap
     - id: LPADSS
     - name: LI0045
     - metabolites: !!omap
@@ -20308,7 +20436,7 @@
     - id: PG0017
     - name: PG0017
     - metabolites: !!omap
-      - E11_p: 1.0
+      - PG_p: 1.0
       - ala__D_p: 1.0
       - dtpcudcpp_cm: 1.0
       - h2o_p: -1.0
@@ -21100,8 +21228,8 @@
     - id: PR0001
     - name: PR0001
     - metabolites: !!omap
-      - E1_e: -1.0
-      - E1_um: 1.0
+      - photon_e1_e: -1.0
+      - photon_e1_um: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: slr0862
@@ -21111,8 +21239,8 @@
     - id: PR0002
     - name: PR0002
     - metabolites: !!omap
-      - E1_P680_um: 1.0
-      - E1_um: -1.0
+      - e680_um: 1.0
+      - photon_e1_um: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: slr0862
@@ -21122,8 +21250,8 @@
     - id: PR0003
     - name: PR0003
     - metabolites: !!omap
-      - E1_P700_um: 1.0
-      - E1_um: -1.0
+      - e700_um: 1.0
+      - photon_e1_um: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: slr0862
@@ -21277,11 +21405,11 @@
     - id: PR0016
     - name: PR0016
     - metabolites: !!omap
-      - ORieske_B6_um: -1.0
-      - PQH_B6_L_um: 1.0
-      - RRieske_B6_um: 1.0
       - h_u: 1.0
+      - oxRieskeB6_um: -1.0
       - pqh2_um: -1.0
+      - pqhb6l_um: 1.0
+      - rdRieskeB6_um: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll1182 and sll1316 and sll1317 and slr0342 and slr0343
@@ -21296,10 +21424,10 @@
     - id: PR0017
     - name: PR0017
     - metabolites: !!omap
-      - ORieske_B6_um: 1.0
-      - RRieske_B6_um: -1.0
+      - oxRieskeB6_um: 1.0
       - pcox_u: -1.0
       - pcrd_u: 1.0
+      - rdRieskeB6_um: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll1182 and sll1316 and sll1317 and slr0342 and slr0343
@@ -21314,11 +21442,11 @@
     - id: PR0018
     - name: PR0018
     - metabolites: !!omap
-      - HB2p_B6_um: 1.0
-      - HB3p_B6_um: -1.0
-      - PQH_B6_L_um: -1.0
       - h_u: 1.0
+      - hemeB2p_um: 1.0
+      - hemeB3p_um: -1.0
       - pqb6s_um: 1.0
+      - pqhb6l_um: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll1182 and sll1316 and sll1317 and slr0342 and slr0343
@@ -21349,11 +21477,11 @@
     - id: PR0020
     - name: PR0020
     - metabolites: !!omap
-      - HB2p_B6_um: -1.0
-      - HB3p_B6_um: 1.0
-      - PQH_B6_S_um: 1.0
       - h_c: -1.0
+      - hemeB2p_um: -1.0
+      - hemeB3p_um: 1.0
       - pqb6s_um: -1.0
+      - pqhb6s_um: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll1182 and sll1316 and sll1317 and slr0342 and slr0343
@@ -21368,11 +21496,11 @@
     - id: PR0021
     - name: PR0021
     - metabolites: !!omap
-      - HB2p_B6_um: -1.0
-      - HB3p_B6_um: 1.0
-      - PQH_B6_S_um: -1.0
       - h_c: -1.0
+      - hemeB2p_um: -1.0
+      - hemeB3p_um: 1.0
       - pqh2_um: 1.0
+      - pqhb6s_um: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll1182 and sll1316 and sll1317 and slr0342 and slr0343
@@ -21387,11 +21515,11 @@
     - id: PR0022
     - name: PR0022
     - metabolites: !!omap
-      - ORieske_B6_cm: -1.0
-      - PQH_B6_L_cm: 1.0
-      - RRieske_B6_cm: 1.0
       - h_p: 1.0
+      - oxRieskeB6_cm: -1.0
       - pqh2_cm: -1.0
+      - pqhb6l_cm: 1.0
+      - rdRieskeB6_cm: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll1182 and sll1316 and sll1317 and slr0342 and slr0343
@@ -21406,10 +21534,10 @@
     - id: PR0023
     - name: PR0023
     - metabolites: !!omap
-      - ORieske_B6_cm: 1.0
-      - RRieske_B6_cm: -1.0
+      - oxRieskeB6_cm: 1.0
       - pcox_p: -1.0
       - pcrd_p: 1.0
+      - rdRieskeB6_cm: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll1182 and sll1316 and sll1317 and slr0342 and slr0343
@@ -21424,11 +21552,11 @@
     - id: PR0024
     - name: PR0024
     - metabolites: !!omap
-      - HB2p_B6_cm: 1.0
-      - HB3p_B6_cm: -1.0
-      - PQH_B6_L_cm: -1.0
       - h_p: 1.0
+      - hemeB2p_cm: 1.0
+      - hemeB3p_cm: -1.0
       - pqb6s_cm: 1.0
+      - pqhb6l_cm: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll1182 and sll1316 and sll1317 and slr0342 and slr0343
@@ -21459,11 +21587,11 @@
     - id: PR0026
     - name: PR0026
     - metabolites: !!omap
-      - HB2p_B6_cm: -1.0
-      - HB3p_B6_cm: 1.0
-      - PQH_B6_S_cm: 1.0
       - h_c: -1.0
+      - hemeB2p_cm: -1.0
+      - hemeB3p_cm: 1.0
       - pqb6s_cm: -1.0
+      - pqhb6s_cm: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll1182 and sll1316 and sll1317 and slr0342 and slr0343
@@ -21478,11 +21606,11 @@
     - id: PR0027
     - name: PR0027
     - metabolites: !!omap
-      - HB2p_B6_cm: -1.0
-      - HB3p_B6_cm: 1.0
-      - PQH_B6_S_cm: -1.0
       - h_c: -1.0
+      - hemeB2p_cm: -1.0
+      - hemeB3p_cm: 1.0
       - pqh2_cm: 1.0
+      - pqhb6s_cm: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll1182 and sll1316 and sll1317 and slr0342 and slr0343
@@ -21497,11 +21625,11 @@
     - id: PR0028
     - name: PR0028
     - metabolites: !!omap
-      - E1_P700_um: -1.0
-      - P700_um: -1.0
-      - P700p_um: 1.0
+      - e700_um: -1.0
       - fdxo_2_2_c: -1.0
       - fdxrd_c: 1.0
+      - p700_um: -1.0
+      - p700p_um: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll0226 and sll0629 and sll0634 and sll0819 and slr0171
@@ -21518,8 +21646,8 @@
     - id: PR0029
     - name: PR0029
     - metabolites: !!omap
-      - P700_um: 1.0
-      - P700p_um: -1.0
+      - p700_um: 1.0
+      - p700p_um: -1.0
       - pcox_u: 1.0
       - pcrd_u: -1.0
     - lower_bound: 0.0
@@ -21538,11 +21666,11 @@
     - id: PR0032
     - name: PR0032
     - metabolites: !!omap
-      - E1_P700_um: -1.0
-      - P700_um: -1.0
-      - P700p_um: 1.0
+      - e700_um: -1.0
       - o2_c: -1.0
       - o2s_c: 1.0
+      - p700_um: -1.0
+      - p700p_um: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll0226 and sll0629 and sll0634 and sll0819 and slr0171
@@ -21559,10 +21687,10 @@
     - id: PR0034
     - name: PR0034
     - metabolites: !!omap
-      - QA_P680_um: 1.0
-      - QAn_P680_um: -1.0
       - o2_c: -1.0
       - o2s_c: 1.0
+      - qa_um: 1.0
+      - qan_um: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll0258 and sll0427 and sll0849 and sll0851 and sll1194
@@ -21608,11 +21736,11 @@
     - id: PR0036
     - name: PR0036
     - metabolites: !!omap
-      - E1_P680_um: -1.0
-      - P680_um: -1.0
-      - P680p_um: 1.0
-      - QA_P680_um: -1.0
-      - QAn_P680_um: 1.0
+      - e680_um: -1.0
+      - p680_um: -1.0
+      - p680p_um: 1.0
+      - qa_um: -1.0
+      - qan_um: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll0258 and sll0427 and sll0849 and sll0851 and sll1194
@@ -21633,11 +21761,11 @@
     - id: PR0037
     - name: PR0037
     - metabolites: !!omap
-      - PQn_P680_um: 1.0
-      - QA_P680_um: 1.0
-      - QAn_P680_um: -1.0
       - h_c: -1.0
       - pq_um: -1.0
+      - pqn_um: 1.0
+      - qa_um: 1.0
+      - qan_um: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll0258 and sll0427 and sll0849 and sll0851 and sll1194
@@ -21658,11 +21786,11 @@
     - id: PR0038
     - name: PR0038
     - metabolites: !!omap
-      - PQn_P680_um: -1.0
-      - QA_P680_um: 1.0
-      - QAn_P680_um: -1.0
       - h_c: -1.0
       - pqh2_um: 1.0
+      - pqn_um: -1.0
+      - qa_um: 1.0
+      - qan_um: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll0258 and sll0427 and sll0849 and sll0851 and sll1194
@@ -21683,10 +21811,10 @@
     - id: PR0039
     - name: PR0039
     - metabolites: !!omap
-      - P680_um: 1.0
-      - P680p_um: -1.0
-      - S0_P680_um: -1.0
-      - S1_P680_um: 1.0
+      - p680_um: 1.0
+      - p680p_um: -1.0
+      - s0_um: -1.0
+      - s1_um: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll0258 and sll0427 and sll0849 and sll0851 and sll1194
@@ -21707,10 +21835,10 @@
     - id: PR0040
     - name: PR0040
     - metabolites: !!omap
-      - P680_um: 1.0
-      - P680p_um: -1.0
-      - S1_P680_um: -1.0
-      - S2_P680_um: 1.0
+      - p680_um: 1.0
+      - p680p_um: -1.0
+      - s1_um: -1.0
+      - s2_um: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll0258 and sll0427 and sll0849 and sll0851 and sll1194
@@ -21731,10 +21859,10 @@
     - id: PR0041
     - name: PR0041
     - metabolites: !!omap
-      - P680_um: 1.0
-      - P680p_um: -1.0
-      - S2_P680_um: -1.0
-      - S3_P680_um: 1.0
+      - p680_um: 1.0
+      - p680p_um: -1.0
+      - s2_um: -1.0
+      - s3_um: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll0258 and sll0427 and sll0849 and sll0851 and sll1194
@@ -21755,10 +21883,10 @@
     - id: PR0042
     - name: PR0042
     - metabolites: !!omap
-      - P680_um: 1.0
-      - P680p_um: -1.0
-      - S3_P680_um: -1.0
-      - S4_P680_um: 1.0
+      - p680_um: 1.0
+      - p680p_um: -1.0
+      - s3_um: -1.0
+      - s4_um: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll0258 and sll0427 and sll0849 and sll0851 and sll1194
@@ -21779,11 +21907,11 @@
     - id: PR0043
     - name: PR0043
     - metabolites: !!omap
-      - S0_P680_um: 1.0
-      - S4_P680_um: -1.0
       - h2o_u: -2.0
       - h_u: 4.0
       - o2_u: 1.0
+      - s0_um: 1.0
+      - s4_um: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: sll0258 and sll0427 and sll0849 and sll0851 and sll1194
@@ -22218,19 +22346,6 @@
     - annotation: !!omap
       - bigg.reaction: PTRCtex
   - !!omap
-    - id: PU0023
-    - name: PU0023
-    - metabolites: !!omap
-      - E19_c: 1.0
-      - ade_c: 1.0
-      - dad_5_c: -1.0
-      - h2o_c: -1.0
-    - lower_bound: 0.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: sll1852
-    - notes: !!omap
-      - GENE_ASSOCIATION: (sll1852)
-  - !!omap
     - id: PUTA3
     - name: AG0008
     - metabolites: !!omap
@@ -22442,7 +22557,7 @@
     - id: RI0011
     - name: RI0011
     - metabolites: !!omap
-      - E20_c: 1.0
+      - dialurate_c: 1.0
       - dmbzid_c: 1.0
       - e4p_c: 1.0
       - fmnh2_c: -1.0
@@ -22769,6 +22884,19 @@
       - old_id: EX_C02967_cyt_b
     - annotation: !!omap
       - bigg.reaction: SK_dna5mtc_c
+      - sbo: SBO:0000627
+  - !!omap
+    - id: SK_precyanphy_c
+    - name: EX_E10N_cyt_b
+    - metabolites: !!omap
+      - precyanphy_c: -1.0
+    - lower_bound: -1000.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: ''
+    - notes: !!omap
+      - old_id: EX_E10N_cyt_b
+    - annotation: !!omap
+      - bigg.reaction: SK_precyanphy_c
       - sbo: SBO:0000627
   - !!omap
     - id: SO4t2pp
@@ -23110,40 +23238,6 @@
       - GENE_ASSOCIATION: ( (slr1857) ) or ( (slr0237) )
     - annotation: !!omap
       - ec-code: 3.2.1.-
-  - !!omap
-    - id: ST0010
-    - name: ST0010
-    - metabolites: !!omap
-      - E10N_c: -1.0
-      - E10_c: 1.0
-      - adp_c: 2.0
-      - arg__L_c: -1.0
-      - asp__L_c: -1.0
-      - atp_c: -2.0
-      - pi_c: 2.0
-    - lower_bound: 0.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: slr2002
-    - notes: !!omap
-      - GENE_ASSOCIATION: (slr2002)
-    - annotation: !!omap
-      - ec-code: 6.3.2.29
-  - !!omap
-    - id: ST0011
-    - name: ST0011
-    - metabolites: !!omap
-      - E10N_c: 1.0
-      - E10_c: -1.0
-      - arg__L_c: 1.0
-      - asp__L_c: 1.0
-      - h2o_c: -2.0
-    - lower_bound: 0.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: slr2001
-    - notes: !!omap
-      - GENE_ASSOCIATION: (slr2001)
-    - annotation: !!omap
-      - ec-code: 3.4.15.6
   - !!omap
     - id: SUCBZL
     - name: QT0015
@@ -23605,8 +23699,8 @@
     - id: TR0036
     - name: TR0036
     - metabolites: !!omap
-      - E19_c: -1.0
-      - E19_p: 1.0
+      - 5drib_c: -1.0
+      - 5drib_p: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: slr0401
@@ -23627,8 +23721,8 @@
     - id: TR0042
     - name: TR0042
     - metabolites: !!omap
-      - E20_c: -1.0
-      - E20_p: 1.0
+      - dialurate_c: -1.0
+      - dialurate_p: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: slr2057
@@ -23676,8 +23770,8 @@
     - id: TR1031
     - name: TR1031
     - metabolites: !!omap
-      - E19_e: -1.0
-      - E19_p: 1.0
+      - 5drib_e: -1.0
+      - 5drib_p: 1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: slr1908 or slr1841 or sll1271 or sll1272 or sll0772 or slr0042
@@ -23702,8 +23796,8 @@
     - id: TR1035
     - name: TR1035
     - metabolites: !!omap
-      - E20_e: -1.0
-      - E20_p: 1.0
+      - dialurate_e: -1.0
+      - dialurate_p: 1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
     - gene_reaction_rule: slr1908 or slr1841 or sll1271 or sll1272 or sll0772 or slr0042
