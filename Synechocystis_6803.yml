@@ -24514,2352 +24514,3910 @@
   - !!omap
     - id: sll0002
     - name: sll0002
+    - annotation: !!omap
+      - uniprot: Q55683
   - !!omap
     - id: sll0006
     - name: sll0006
+    - annotation: !!omap
+      - uniprot: Q55679
   - !!omap
     - id: sll0017
     - name: sll0017
+    - annotation: !!omap
+      - uniprot: Q55665
   - !!omap
     - id: sll0018
     - name: sll0018
+    - annotation: !!omap
+      - uniprot: Q55664
   - !!omap
     - id: sll0019
     - name: sll0019
+    - annotation: !!omap
+      - uniprot: Q55663
   - !!omap
     - id: sll0026
     - name: sll0026
+    - annotation: !!omap
+      - uniprot: Q55465
   - !!omap
     - id: sll0027
     - name: sll0027
+    - annotation: !!omap
+      - uniprot: Q55464
   - !!omap
     - id: sll0033
     - name: sll0033
+    - annotation: !!omap
+      - uniprot: Q55455
   - !!omap
     - id: sll0034
     - name: sll0034
+    - annotation: !!omap
+      - uniprot: Q55454
   - !!omap
     - id: sll0036
     - name: sll0036
+    - annotation: !!omap
+      - uniprot: Q55452
   - !!omap
     - id: sll0045
     - name: sll0045
+    - annotation: !!omap
+      - uniprot: Q55440
   - !!omap
     - id: sll0053
     - name: sll0053
+    - annotation: !!omap
+      - uniprot: Q55160
   - !!omap
     - id: sll0055
     - name: sll0055
+    - annotation: !!omap
+      - uniprot: Q55159
   - !!omap
     - id: sll0065
     - name: sll0065
+    - annotation: !!omap
+      - uniprot: Q55141
   - !!omap
     - id: sll0070
     - name: sll0070
+    - annotation: !!omap
+      - uniprot: Q55135
   - !!omap
     - id: sll0080
     - name: sll0080
+    - annotation: !!omap
+      - uniprot: P54899
   - !!omap
     - id: sll0083
     - name: sll0083
+    - annotation: !!omap
+      - uniprot: Q55797
   - !!omap
     - id: sll0084
     - name: sll0084
+    - annotation: !!omap
+      - uniprot: Q55796
   - !!omap
     - id: sll0099
     - name: sll0099
+    - annotation: !!omap
+      - uniprot: Q55879
   - !!omap
     - id: sll0100
     - name: sll0100
+    - annotation: !!omap
+      - uniprot: P54984
   - !!omap
     - id: sll0107
     - name: sll0107
+    - annotation: !!omap
+      - uniprot: Q55872
   - !!omap
     - id: sll0108
     - name: sll0108
+    - annotation: !!omap
+      - uniprot: P54147
   - !!omap
     - id: sll0109
     - name: sll0109
+    - annotation: !!omap
+      - uniprot: Q55869
   - !!omap
     - id: sll0135
     - name: sll0135
+    - annotation: !!omap
+      - uniprot: P74469
   - !!omap
     - id: sll0144
     - name: sll0144
+    - annotation: !!omap
+      - uniprot: P74457
   - !!omap
     - id: sll0146
     - name: sll0146
+    - annotation: !!omap
+      - uniprot: P74455
   - !!omap
     - id: sll0147
     - name: sll0147
+    - annotation: !!omap
+      - uniprot: P74454
   - !!omap
     - id: sll0158
     - name: sll0158
+    - annotation: !!omap
+      - uniprot: P52981
   - !!omap
     - id: sll0166
     - name: sll0166
+    - annotation: !!omap
+      - uniprot: Q55562
   - !!omap
     - id: sll0171
     - name: sll0171
+    - annotation: !!omap
+      - uniprot: P54261
   - !!omap
     - id: sll0179
     - name: sll0179
+    - annotation: !!omap
+      - uniprot: Q55778
   - !!omap
     - id: sll0191
     - name: sll0191
+    - annotation: !!omap
+      - uniprot: P22039
   - !!omap
     - id: sll0207
     - name: sll0207
+    - annotation: !!omap
+      - uniprot: Q55689
   - !!omap
     - id: sll0210
     - name: sll0210
+    - annotation: !!omap
+      - uniprot: Q55684
   - !!omap
     - id: sll0217
     - name: sll0217
+    - annotation: !!omap
+      - uniprot: P72723
   - !!omap
     - id: sll0219
     - name: sll0219
+    - annotation: !!omap
+      - uniprot: P72721
   - !!omap
     - id: sll0220
     - name: sll0220
+    - annotation: !!omap
+      - uniprot: P72720
   - !!omap
     - id: sll0223
     - name: sll0223
+    - annotation: !!omap
+      - uniprot: P72714
   - !!omap
     - id: sll0226
     - name: sll0226
+    - annotation: !!omap
+      - uniprot: P72705
   - !!omap
     - id: sll0228
     - name: sll0228
+    - annotation: !!omap
+      - uniprot: P72703
   - !!omap
     - id: sll0237
     - name: sll0237
+    - annotation: !!omap
+      - uniprot: P73900
   - !!omap
     - id: sll0238
     - name: sll0238
+    - annotation: !!omap
+      - uniprot: P73899
   - !!omap
     - id: sll0240
     - name: sll0240
+    - annotation: !!omap
+      - uniprot: P73898
   - !!omap
     - id: sll0244
     - name: sll0244
+    - annotation: !!omap
+      - uniprot: P73887
   - !!omap
     - id: sll0250
     - name: sll0250
+    - annotation: !!omap
+      - uniprot: P73881
   - !!omap
     - id: sll0254
     - name: sll0254
+    - annotation: !!omap
+      - uniprot: P73872
   - !!omap
     - id: sll0258
     - name: sll0258
+    - annotation: !!omap
+      - uniprot: Q55013
   - !!omap
     - id: sll0262
     - name: sll0262
+    - annotation: !!omap
+      - uniprot: Q08871
   - !!omap
     - id: sll0273
     - name: sll0273
+    - annotation: !!omap
+      - uniprot: P74393
   - !!omap
     - id: sll0290
     - name: sll0290
+    - annotation: !!omap
+      - uniprot: Q55898
   - !!omap
     - id: sll0300
     - name: sll0300
+    - annotation: !!omap
+      - uniprot: Q55532
   - !!omap
     - id: sll0329
     - name: sll0329
+    - annotation: !!omap
+      - uniprot: P52208
   - !!omap
     - id: sll0330
     - name: sll0330
+    - annotation: !!omap
+      - uniprot: Q55596
   - !!omap
     - id: sll0336
     - name: sll0336
+    - annotation: !!omap
+      - uniprot: Q57417
   - !!omap
     - id: sll0356
     - name: sll0356
+    - annotation: !!omap
+      - uniprot: P74435
   - !!omap
     - id: sll0368
     - name: sll0368
+    - annotation: !!omap
+      - uniprot: Q55758
   - !!omap
     - id: sll0370
     - name: sll0370
+    - annotation: !!omap
+      - uniprot: Q55756
   - !!omap
     - id: sll0373
     - name: sll0373
+    - annotation: !!omap
+      - uniprot: P54902
   - !!omap
     - id: sll0374
     - name: sll0374
+    - annotation: !!omap
+      - uniprot: Q55753
   - !!omap
     - id: sll0378
     - name: sll0378
+    - annotation: !!omap
+      - uniprot: Q55749
   - !!omap
     - id: sll0379
     - name: sll0379
+    - annotation: !!omap
+      - uniprot: Q55746
   - !!omap
     - id: sll0383
     - name: sll0383
+    - annotation: !!omap
+      - uniprot: Q55742
   - !!omap
     - id: sll0384
     - name: sll0384
+    - annotation: !!omap
+      - uniprot: Q55741
   - !!omap
     - id: sll0385
     - name: sll0385
+    - annotation: !!omap
+      - uniprot: Q55740
   - !!omap
     - id: sll0395
     - name: sll0395
+    - annotation: !!omap
+      - uniprot: Q55734
   - !!omap
     - id: sll0398
     - name: sll0398
+    - annotation: !!omap
+      - uniprot: Q55731
   - !!omap
     - id: sll0400
     - name: sll0400
+    - annotation: !!omap
+      - uniprot: Q55129
   - !!omap
     - id: sll0401
     - name: sll0401
+    - annotation: !!omap
+      - uniprot: Q59977
   - !!omap
     - id: sll0402
     - name: sll0402
+    - annotation: !!omap
+      - uniprot: Q55128
   - !!omap
     - id: sll0404
     - name: sll0404
+    - annotation: !!omap
+      - uniprot: Q55124
   - !!omap
     - id: sll0409
     - name: sll0409
+    - annotation: !!omap
+      - uniprot: Q55117
   - !!omap
     - id: sll0418
     - name: sll0418
+    - annotation: !!omap
+      - uniprot: P74388
   - !!omap
     - id: sll0420
     - name: sll0420
+    - annotation: !!omap
+      - uniprot: P74386
   - !!omap
     - id: sll0421
     - name: sll0421
+    - annotation: !!omap
+      - uniprot: P74384
   - !!omap
     - id: sll0422
     - name: sll0422
+    - annotation: !!omap
+      - uniprot: P74383
   - !!omap
     - id: sll0427
     - name: sll0427
+    - annotation: !!omap
+      - uniprot: P10549
   - !!omap
     - id: sll0428
     - name: sll0428
+    - annotation: !!omap
+      - uniprot: P74376
   - !!omap
     - id: sll0455
     - name: sll0455
+    - annotation: !!omap
+      - uniprot: P52986
   - !!omap
     - id: sll0461
     - name: sll0461
+    - annotation: !!omap
+      - uniprot: Q55167
   - !!omap
     - id: sll0469
     - name: sll0469
+    - annotation: !!omap
+      - uniprot: Q55848
   - !!omap
     - id: sll0473
     - name: sll0473
+    - annotation: !!omap
+      - uniprot: Q55839
   - !!omap
     - id: sll0480
     - name: sll0480
+    - annotation: !!omap
+      - uniprot: Q55828
   - !!omap
     - id: sll0493
     - name: sll0493
+    - annotation: !!omap
+      - uniprot: Q55496
   - !!omap
     - id: sll0504
     - name: sll0504
+    - annotation: !!omap
+      - uniprot: Q55484
   - !!omap
     - id: sll0506
     - name: sll0506
+    - annotation: !!omap
+      - uniprot: Q55482
   - !!omap
     - id: sll0507
     - name: sll0507
+    - annotation: !!omap
+      - uniprot: Q55481
   - !!omap
     - id: sll0509
     - name: sll0509
+    - annotation: !!omap
+      - uniprot: Q55478
   - !!omap
     - id: sll0513
     - name: sll0513
+    - annotation: !!omap
+      - uniprot: Q55474
   - !!omap
     - id: sll0519
     - name: sll0519
+    - annotation: !!omap
+      - uniprot: P26522
   - !!omap
     - id: sll0520
     - name: sll0520
+    - annotation: !!omap
+      - uniprot: P26525
   - !!omap
     - id: sll0521
     - name: sll0521
+    - annotation: !!omap
+      - uniprot: P26523
   - !!omap
     - id: sll0522
     - name: sll0522
+    - annotation: !!omap
+      - uniprot: P26524
   - !!omap
     - id: sll0529
     - name: sll0529
+    - annotation: !!omap
+      - uniprot: Q55517
   - !!omap
     - id: sll0536
     - name: sll0536
+    - annotation: !!omap
+      - uniprot: Q55509
   - !!omap
     - id: sll0537
     - name: sll0537
+    - annotation: !!omap
+      - uniprot: P54148
   - !!omap
     - id: sll0540
     - name: sll0540
+    - annotation: !!omap
+      - uniprot: Q55410
   - !!omap
     - id: sll0541
     - name: sll0541
+    - annotation: !!omap
+      - uniprot: Q55406
   - !!omap
     - id: sll0542
     - name: sll0542
+    - annotation: !!omap
+      - uniprot: Q55404
   - !!omap
     - id: sll0545
     - name: sll0545
+    - annotation: !!omap
+      - uniprot: Q55398
   - !!omap
     - id: sll0550
     - name: sll0550
+    - annotation: !!omap
+      - uniprot: Q55393
   - !!omap
     - id: sll0554
     - name: sll0554
+    - annotation: !!omap
+      - uniprot: Q55389
   - !!omap
     - id: sll0556
     - name: sll0556
+    - annotation: !!omap
+      - uniprot: Q55388
   - !!omap
     - id: sll0573
     - name: sll0573
+    - annotation: !!omap
+      - uniprot: P74733
   - !!omap
     - id: sll0578
     - name: sll0578
+    - annotation: !!omap
+      - uniprot: P74724
   - !!omap
     - id: sll0585
     - name: sll0585
+    - annotation: !!omap
+      - uniprot: Q55865
   - !!omap
     - id: sll0587
     - name: sll0587
+    - annotation: !!omap
+      - uniprot: Q55863
   - !!omap
     - id: sll0593
     - name: sll0593
+    - annotation: !!omap
+      - uniprot: Q55855
   - !!omap
     - id: sll0603
     - name: sll0603
+    - annotation: !!omap
+      - uniprot: Q55725
   - !!omap
     - id: sll0622
     - name: sll0622
+    - annotation: !!omap
+      - uniprot: P74578
   - !!omap
     - id: sll0629
     - name: sll0629
+    - annotation: !!omap
+      - uniprot: P74564
   - !!omap
     - id: sll0631
     - name: sll0631
+    - annotation: !!omap
+      - uniprot: P74562
   - !!omap
     - id: sll0634
     - name: sll0634
+    - annotation: !!omap
+      - uniprot: P72966
   - !!omap
     - id: sll0635
     - name: sll0635
+    - annotation: !!omap
+      - uniprot: P72965
   - !!omap
     - id: sll0643
     - name: sll0643
+    - annotation: !!omap
+      - uniprot: P72955
   - !!omap
     - id: sll0646
     - name: sll0646
+    - annotation: !!omap
+      - uniprot: P72951
   - !!omap
     - id: sll0648
     - name: sll0648
+    - annotation: !!omap
+      - uniprot: P72949
   - !!omap
     - id: sll0657
     - name: sll0657
+    - annotation: !!omap
+      - uniprot: Q55986
   - !!omap
     - id: sll0659
     - name: sll0659
+    - annotation: !!omap
+      - uniprot: Q55984
   - !!omap
     - id: sll0660
     - name: sll0660
+    - annotation: !!omap
+      - uniprot: Q55982
   - !!omap
     - id: sll0671
     - name: sll0671
+    - annotation: !!omap
+      - uniprot: Q55968
   - !!omap
     - id: sll0672
     - name: sll0672
+    - annotation: !!omap
+      - uniprot: Q59999
   - !!omap
     - id: sll0679
     - name: sll0679
+    - annotation: !!omap
+      - uniprot: Q55200
   - !!omap
     - id: sll0680
     - name: sll0680
+    - annotation: !!omap
+      - uniprot: Q55199
   - !!omap
     - id: sll0681
     - name: sll0681
+    - annotation: !!omap
+      - uniprot: Q55198
   - !!omap
     - id: sll0682
     - name: sll0682
+    - annotation: !!omap
+      - uniprot: Q55197
   - !!omap
     - id: sll0683
     - name: sll0683
+    - annotation: !!omap
+      - uniprot: Q55196
   - !!omap
     - id: sll0684
     - name: sll0684
+    - annotation: !!omap
+      - uniprot: Q55195
   - !!omap
     - id: sll0689
     - name: sll0689
+    - annotation: !!omap
+      - uniprot: Q55190
   - !!omap
     - id: sll0704
     - name: sll0704
+    - annotation: !!omap
+      - uniprot: P72676
   - !!omap
     - id: sll0711
     - name: sll0711
+    - annotation: !!omap
+      - uniprot: P72663
   - !!omap
     - id: sll0712
     - name: sll0712
+    - annotation: !!omap
+      - uniprot: P72662
   - !!omap
     - id: sll0726
     - name: sll0726
+    - annotation: !!omap
+      - uniprot: P74643
   - !!omap
     - id: sll0728
     - name: sll0728
+    - annotation: !!omap
+      - uniprot: P74638
   - !!omap
     - id: sll0735
     - name: sll0735
+    - annotation: !!omap
+      - uniprot: P74630
   - !!omap
     - id: sll0738
     - name: sll0738
+    - annotation: !!omap
+      - uniprot: Q55994
   - !!omap
     - id: sll0739
     - name: sll0739
+    - annotation: !!omap
+      - uniprot: Q55993
   - !!omap
     - id: sll0741
     - name: sll0741
+    - annotation: !!omap
+      - uniprot: P52965
   - !!omap
     - id: sll0744
     - name: sll0744
+    - annotation: !!omap
+      - uniprot: Q55989
   - !!omap
     - id: sll0745
     - name: sll0745
+    - annotation: !!omap
+      - uniprot: Q55988
   - !!omap
     - id: sll0753
     - name: sll0753
+    - annotation: !!omap
+      - uniprot: Q55626
   - !!omap
     - id: sll0757
     - name: sll0757
+    - annotation: !!omap
+      - uniprot: Q55621
   - !!omap
     - id: sll0764
     - name: sll0764
+    - annotation: !!omap
+      - uniprot: Q55614
   - !!omap
     - id: sll0771
     - name: sll0771
+    - annotation: !!omap
+      - uniprot: P15729
   - !!omap
     - id: sll0772
     - name: sll0772
+    - annotation: !!omap
+      - uniprot: P15730
   - !!omap
     - id: sll0776
     - name: sll0776
+    - annotation: !!omap
+      - uniprot: P54735
   - !!omap
     - id: sll0777
     - name: sll0777
+    - annotation: !!omap
+      - uniprot: Q55957
   - !!omap
     - id: sll0794
     - name: sll0794
+    - annotation: !!omap
+      - uniprot: Q55938
   - !!omap
     - id: sll0807
     - name: sll0807
+    - annotation: !!omap
+      - uniprot: P74061
   - !!omap
     - id: sll0813
     - name: sll0813
+    - annotation: !!omap
+      - uniprot: P74044
   - !!omap
     - id: sll0819
     - name: sll0819
+    - annotation: !!omap
+      - uniprot: P29256
   - !!omap
     - id: sll0823
     - name: sll0823
+    - annotation: !!omap
+      - uniprot: Q55431
   - !!omap
     - id: sll0829
     - name: sll0829
+    - annotation: !!omap
+      - uniprot: Q55423
   - !!omap
     - id: sll0834
     - name: sll0834
+    - annotation: !!omap
+      - uniprot: Q55415
   - !!omap
     - id: sll0838
     - name: sll0838
+    - annotation: !!omap
+      - uniprot: P73761
   - !!omap
     - id: sll0849
     - name: sll0849
+    - annotation: !!omap
+      - uniprot: P09192
   - !!omap
     - id: sll0851
     - name: sll0851
+    - annotation: !!omap
+      - uniprot: P09193
   - !!omap
     - id: sll0861
     - name: sll0861
+    - annotation: !!omap
+      - uniprot: P73585
   - !!omap
     - id: sll0868
     - name: sll0868
+    - annotation: !!omap
+      - uniprot: P73572
   - !!omap
     - id: sll0873
     - name: G_sll0873
+    - annotation: !!omap
+      - uniprot: P73562
   - !!omap
     - id: sll0891
     - name: sll0891
+    - annotation: !!omap
+      - uniprot: Q55383
   - !!omap
     - id: sll0892
     - name: sll0892
+    - annotation: !!omap
+      - uniprot: Q55382
   - !!omap
     - id: sll0895
     - name: sll0895
+    - annotation: !!omap
+      - uniprot: Q55507
   - !!omap
     - id: sll0899
     - name: sll0899
+    - annotation: !!omap
+      - uniprot: Q55504
   - !!omap
     - id: sll0900
     - name: sll0900
+    - annotation: !!omap
+      - uniprot: Q55503
   - !!omap
     - id: sll0901
     - name: sll0901
+    - annotation: !!omap
+      - uniprot: Q55498
   - !!omap
     - id: sll0902
     - name: sll0902
+    - annotation: !!omap
+      - uniprot: Q55497
   - !!omap
     - id: sll0916
     - name: sll0916
+    - annotation: !!omap
+      - uniprot: P74304
   - !!omap
     - id: sll0920
     - name: sll0920
+    - annotation: !!omap
+      - uniprot: P74299
   - !!omap
     - id: sll0927
     - name: sll0927
+    - annotation: !!omap
+      - uniprot: P72871
   - !!omap
     - id: sll0934
     - name: sll0934
+    - annotation: !!omap
+      - uniprot: P72864
   - !!omap
     - id: sll0936
     - name: sll0936
+    - annotation: !!omap
+      - uniprot: P72861
   - !!omap
     - id: sll0938
     - name: sll0938
+    - annotation: !!omap
+      - uniprot: P72859
   - !!omap
     - id: sll0945
     - name: sll0945
+    - annotation: !!omap
+      - uniprot: P74521
   - !!omap
     - id: sll0990
     - name: sll0990
+    - annotation: !!omap
+      - uniprot: P73138
   - !!omap
     - id: sll0993
     - name: sll0993
+    - annotation: !!omap
+      - uniprot: P73132
   - !!omap
     - id: sll1005
     - name: sll1005
+    - annotation: !!omap
+      - uniprot: P73023
   - !!omap
     - id: sll1017
     - name: sll1017
+    - annotation: !!omap
+      - uniprot: P72935
   - !!omap
     - id: sll1018
     - name: sll1018
+    - annotation: !!omap
+      - uniprot: P72934
   - !!omap
     - id: sll1019
     - name: sll1019
+    - annotation: !!omap
+      - uniprot: P72933
   - !!omap
     - id: sll1023
     - name: sll1023
+    - annotation: !!omap
+      - uniprot: P72927
   - !!omap
     - id: sll1027
     - name: sll1027
+    - annotation: !!omap
+      - uniprot: P72762
   - !!omap
     - id: sll1035
     - name: sll1035
+    - annotation: !!omap
+      - uniprot: P72753
   - !!omap
     - id: sll1056
     - name: sll1056
+    - annotation: !!omap
+      - uniprot: P72644
   - !!omap
     - id: sll1058
     - name: sll1058
+    - annotation: !!omap
+      - uniprot: P72642
   - !!omap
     - id: sll1059
     - name: sll1059
+    - annotation: !!omap
+      - uniprot: P72641
   - !!omap
     - id: sll1069
     - name: sll1069
+    - annotation: !!omap
+      - uniprot: P73283
   - !!omap
     - id: sll1070
     - name: sll1070
+    - annotation: !!omap
+      - uniprot: P73282
   - !!omap
     - id: sll1077
     - name: sll1077
+    - annotation: !!omap
+      - uniprot: P73270
   - !!omap
     - id: sll1080
     - name: sll1080
+    - annotation: !!omap
+      - uniprot: P73267
   - !!omap
     - id: sll1081
     - name: sll1081
+    - annotation: !!omap
+      - uniprot: P73266
   - !!omap
     - id: sll1082
     - name: sll1082
+    - annotation: !!omap
+      - uniprot: P73265
   - !!omap
     - id: sll1085
     - name: sll1085
+    - annotation: !!omap
+      - uniprot: P74257
   - !!omap
     - id: sll1091
     - name: sll1091
+    - annotation: !!omap
+      - uniprot: Q55087
   - !!omap
     - id: sll1102
     - name: sll1102
+    - annotation: !!omap
+      - uniprot: P74225
   - !!omap
     - id: sll1103
     - name: sll1103
+    - annotation: !!omap
+      - uniprot: P74224
   - !!omap
     - id: sll1104
     - name: sll1104
+    - annotation: !!omap
+      - uniprot: P74223
   - !!omap
     - id: sll1108
     - name: sll1108
+    - annotation: !!omap
+      - uniprot: P74709
   - !!omap
     - id: sll1112
     - name: sll1112
+    - annotation: !!omap
+      - uniprot: P73367
   - !!omap
     - id: sll1127
     - name: sll1127
+    - annotation: !!omap
+      - uniprot: P73495
   - !!omap
     - id: sll1161
     - name: sll1161
+    - annotation: !!omap
+      - uniprot: P73774
   - !!omap
     - id: sll1172
     - name: sll1172
+    - annotation: !!omap
+      - uniprot: P74193
   - !!omap
     - id: sll1182
     - name: sll1182
+    - annotation: !!omap
+      - uniprot: P74174
   - !!omap
     - id: sll1184
     - name: sll1184
+    - annotation: !!omap
+      - uniprot: P72849
   - !!omap
     - id: sll1185
     - name: sll1185
+    - annotation: !!omap
+      - uniprot: P72848
   - !!omap
     - id: sll1189
     - name: sll1189
+    - annotation: !!omap
+      - uniprot: P72842
   - !!omap
     - id: sll1194
     - name: sll1194
+    - annotation: !!omap
+      - uniprot: Q55332
   - !!omap
     - id: sll1196
     - name: sll1196
+    - annotation: !!omap
+      - uniprot: P72830
   - !!omap
     - id: sll1202
     - name: sll1202
+    - annotation: !!omap
+      - uniprot: P72598
   - !!omap
     - id: sll1212
     - name: sll1212
+    - annotation: !!omap
+      - uniprot: P72586
   - !!omap
     - id: sll1213
     - name: sll1213
+    - annotation: !!omap
+      - uniprot: P72585
   - !!omap
     - id: sll1214
     - name: sll1214
+    - annotation: !!omap
+      - uniprot: P72584
   - !!omap
     - id: sll1220
     - name: sll1220
+    - annotation: !!omap
+      - uniprot: P74025
   - !!omap
     - id: sll1221
     - name: sll1221
+    - annotation: !!omap
+      - uniprot: P74024
   - !!omap
     - id: sll1223
     - name: sll1223
+    - annotation: !!omap
+      - uniprot: P74022
   - !!omap
     - id: sll1224
     - name: sll1224
+    - annotation: !!omap
+      - uniprot: P74021
   - !!omap
     - id: sll1226
     - name: sll1226
+    - annotation: !!omap
+      - uniprot: P74018
   - !!omap
     - id: sll1234
     - name: sll1234
+    - annotation: !!omap
+      - uniprot: P74008
   - !!omap
     - id: sll1237
     - name: sll1237
+    - annotation: !!omap
+      - uniprot: P74003
   - !!omap
     - id: sll1249
     - name: sll1249
+    - annotation: !!omap
+      - uniprot: Q55074
   - !!omap
     - id: sll1258
     - name: sll1258
+    - annotation: !!omap
+      - uniprot: P74073
   - !!omap
     - id: sll1262
     - name: sll1262
+    - annotation: !!omap
+      - uniprot: P74069
   - !!omap
     - id: sll1270
     - name: sll1270
+    - annotation: !!omap
+      - uniprot: P73544
   - !!omap
     - id: sll1271
     - name: sll1271
+    - annotation: !!omap
+      - uniprot: P73543
   - !!omap
     - id: sll1272
     - name: sll1272
+    - annotation: !!omap
+      - uniprot: P73542
   - !!omap
     - id: sll1275
     - name: sll1275
+    - annotation: !!omap
+      - uniprot: P73534
   - !!omap
     - id: sll1281
     - name: sll1281
+    - annotation: !!omap
+      - uniprot: P73528
   - !!omap
     - id: sll1282
     - name: sll1282
+    - annotation: !!omap
+      - uniprot: P73527
   - !!omap
     - id: sll1299
     - name: sll1299
+    - annotation: !!omap
+      - uniprot: P73162
   - !!omap
     - id: sll1316
     - name: sll1316
+    - annotation: !!omap
+      - uniprot: P26290
   - !!omap
     - id: sll1317
     - name: sll1317
+    - annotation: !!omap
+      - uniprot: P26287
   - !!omap
     - id: sll1322
     - name: sll1322
+    - annotation: !!omap
+      - uniprot: P27178
   - !!omap
     - id: sll1323
     - name: sll1323
+    - annotation: !!omap
+      - uniprot: P27183
   - !!omap
     - id: sll1324
     - name: sll1324
+    - annotation: !!omap
+      - uniprot: P27181
   - !!omap
     - id: sll1325
     - name: sll1325
+    - annotation: !!omap
+      - uniprot: P27180
   - !!omap
     - id: sll1326
     - name: sll1326
+    - annotation: !!omap
+      - uniprot: P27179
   - !!omap
     - id: sll1327
     - name: sll1327
+    - annotation: !!omap
+      - uniprot: P17253
   - !!omap
     - id: sll1329
     - name: sll1329
+    - annotation: !!omap
+      - uniprot: P74542
   - !!omap
     - id: sll1336
     - name: sll1336
+    - annotation: !!omap
+      - uniprot: P74535
   - !!omap
     - id: sll1342
     - name: sll1342
+    - annotation: !!omap
+      - uniprot: P80505
   - !!omap
     - id: sll1343
     - name: sll1343
+    - annotation: !!omap
+      - uniprot: P74527
   - !!omap
     - id: sll1349
     - name: sll1349
+    - annotation: !!omap
+      - uniprot: P73525
   - !!omap
     - id: sll1356
     - name: sll1356
+    - annotation: !!omap
+      - uniprot: P73511
   - !!omap
     - id: sll1358
     - name: sll1358
+    - annotation: !!omap
+      - uniprot: P73510
   - !!omap
     - id: sll1359
     - name: sll1359
+    - annotation: !!omap
+      - uniprot: P73509
   - !!omap
     - id: sll1363
     - name: sll1363
+    - annotation: !!omap
+      - uniprot: P29107
   - !!omap
     - id: sll1369
     - name: sll1369
+    - annotation: !!omap
+      - uniprot: P74173
   - !!omap
     - id: sll1370
     - name: sll1370
+    - annotation: !!omap
+      - uniprot: P74172
   - !!omap
     - id: sll1376
     - name: sll1376
+    - annotation: !!omap
+      - uniprot: P74167
   - !!omap
     - id: sll1377
     - name: sll1377
+    - annotation: !!omap
+      - uniprot: P74165
   - !!omap
     - id: sll1383
     - name: sll1383
+    - annotation: !!omap
+      - uniprot: P74158
   - !!omap
     - id: sll1393
     - name: sll1393
+    - annotation: !!omap
+      - uniprot: P72623
   - !!omap
     - id: sll1395
     - name: sll1395
+    - annotation: !!omap
+      - uniprot: P72621
   - !!omap
     - id: sll1398
     - name: sll1398
+    - annotation: !!omap
+      - uniprot: Q55356
   - !!omap
     - id: sll1415
     - name: sll1415
+    - annotation: !!omap
+      - uniprot: P73955
   - !!omap
     - id: sll1418
     - name: sll1418
+    - annotation: !!omap
+      - uniprot: P73952
   - !!omap
     - id: sll1430
     - name: sll1430
+    - annotation: !!omap
+      - uniprot: P73935
   - !!omap
     - id: sll1440
     - name: sll1440
+    - annotation: !!omap
+      - uniprot: P74211
   - !!omap
     - id: sll1441
     - name: sll1441
+    - annotation: !!omap
+      - uniprot: Q79EF1
   - !!omap
     - id: sll1443
     - name: sll1443
+    - annotation: !!omap
+      - uniprot: P74208
   - !!omap
     - id: sll1444
     - name: sll1444
+    - annotation: !!omap
+      - uniprot: P74207
   - !!omap
     - id: sll1450
     - name: sll1450
+    - annotation: !!omap
+      - uniprot: P73452
   - !!omap
     - id: sll1451
     - name: sll1451
+    - annotation: !!omap
+      - uniprot: P73451
   - !!omap
     - id: sll1452
     - name: sll1452
+    - annotation: !!omap
+      - uniprot: P73450
   - !!omap
     - id: sll1453
     - name: sll1453
+    - annotation: !!omap
+      - uniprot: P73449
   - !!omap
     - id: sll1454
     - name: sll1454
+    - annotation: !!omap
+      - uniprot: P73448
   - !!omap
     - id: sll1459
     - name: sll1459
+    - annotation: !!omap
+      - uniprot: P73440
   - !!omap
     - id: sll1468
     - name: sll1468
+    - annotation: !!omap
+      - uniprot: P73428
   - !!omap
     - id: sll1470
     - name: sll1470
+    - annotation: !!omap
+      - uniprot: P54384
   - !!omap
     - id: sll1479
     - name: sll1479
+    - annotation: !!omap
+      - uniprot: P74618
   - !!omap
     - id: sll1484
     - name: sll1484
+    - annotation: !!omap
+      - uniprot: P74614
   - !!omap
     - id: sll1496
     - name: sll1496
+    - annotation: !!omap
+      - uniprot: P74589
   - !!omap
     - id: sll1498
     - name: sll1498
+    - annotation: !!omap
+      - uniprot: P74587
   - !!omap
     - id: sll1499
     - name: sll1499
+    - annotation: !!omap
+      - uniprot: P55038
   - !!omap
     - id: sll1500
     - name: sll1500
+    - annotation: !!omap
+      - uniprot: P73003
   - !!omap
     - id: sll1501
     - name: sll1501
+    - annotation: !!omap
+      - uniprot: P73002
   - !!omap
     - id: sll1502
     - name: sll1502
+    - annotation: !!omap
+      - uniprot: P55037
   - !!omap
     - id: sll1508
     - name: sll1508
+    - annotation: !!omap
+      - uniprot: P72988
   - !!omap
     - id: sll1521
     - name: sll1521
+    - annotation: !!omap
+      - uniprot: P74373
   - !!omap
     - id: sll1522
     - name: sll1522
+    - annotation: !!omap
+      - uniprot: P74372
   - !!omap
     - id: sll1525
     - name: sll1525
+    - annotation: !!omap
+      - uniprot: P37101
   - !!omap
     - id: sll1536
     - name: sll1536
+    - annotation: !!omap
+      - uniprot: P74344
   - !!omap
     - id: sll1546
     - name: sll1546
+    - annotation: !!omap
+      - uniprot: P74663
   - !!omap
     - id: sll1550
     - name: sll1550
+    - annotation: !!omap
+      - uniprot: P74655
   - !!omap
     - id: sll1556
     - name: sll1556
+    - annotation: !!omap
+      - uniprot: P74287
   - !!omap
     - id: sll1557
     - name: sll1557
+    - annotation: !!omap
+      - uniprot: P74286
   - !!omap
     - id: sll1558
     - name: sll1558
+    - annotation: !!omap
+      - uniprot: P74285
   - !!omap
     - id: sll1559
     - name: sll1559
+    - annotation: !!omap
+      - uniprot: P74281
   - !!omap
     - id: sll1561
     - name: sll1561
+    - annotation: !!omap
+      - uniprot: P74275
   - !!omap
     - id: sll1564
     - name: sll1564
+    - annotation: !!omap
+      - uniprot: P74269
   - !!omap
     - id: sll1566
     - name: sll1566
+    - annotation: !!omap
+      - uniprot: P74258
   - !!omap
     - id: sll1598
     - name: sll1598
+    - annotation: !!omap
+      - uniprot: Q79EF9
   - !!omap
     - id: sll1599
     - name: sll1599
+    - annotation: !!omap
+      - uniprot: Q55281
   - !!omap
     - id: sll1600
     - name: sll1600
+    - annotation: !!omap
+      - uniprot: Q55282
   - !!omap
     - id: sll1605
     - name: sll1605
+    - annotation: !!omap
+      - uniprot: P73848
   - !!omap
     - id: sll1612
     - name: sll1612
+    - annotation: !!omap
+      - uniprot: P73842
   - !!omap
     - id: sll1623
     - name: sll1623
+    - annotation: !!omap
+      - uniprot: P73725
   - !!omap
     - id: sll1625
     - name: sll1625
+    - annotation: !!omap
+      - uniprot: P73723
   - !!omap
     - id: sll1635
     - name: sll1635
+    - annotation: !!omap
+      - uniprot: P73053
   - !!omap
     - id: sll1639
     - name: sll1639
+    - annotation: !!omap
+      - uniprot: P73047
   - !!omap
     - id: sll1641
     - name: sll1641
+    - annotation: !!omap
+      - uniprot: P73043
   - !!omap
     - id: sll1653
     - name: sll1653
+    - annotation: !!omap
+      - uniprot: P72818
   - !!omap
     - id: sll1655
     - name: sll1655
+    - annotation: !!omap
+      - uniprot: P72816
   - !!omap
     - id: sll1662
     - name: sll1662
+    - annotation: !!omap
+      - uniprot: P72808
   - !!omap
     - id: sll1669
     - name: sll1669
+    - annotation: !!omap
+      - uniprot: P72796
   - !!omap
     - id: sll1682
     - name: sll1682
+    - annotation: !!omap
+      - uniprot: P72775
   - !!omap
     - id: sll1683
     - name: sll1683
+    - annotation: !!omap
+      - uniprot: P72774
   - !!omap
     - id: sll1688
     - name: sll1688
+    - annotation: !!omap
+      - uniprot: P73711
   - !!omap
     - id: sll1709
     - name: G_sll1709
+    - annotation: !!omap
+      - uniprot: P73684
   - !!omap
     - id: sll1713
     - name: sll1713
+    - annotation: !!omap
+      - uniprot: P73417
   - !!omap
     - id: sll1721
     - name: sll1721
+    - annotation: !!omap
+      - uniprot: P73405
   - !!omap
     - id: sll1722
     - name: sll1722
+    - annotation: !!omap
+      - uniprot: P73403
   - !!omap
     - id: sll1732
     - name: sll1732
+    - annotation: !!omap
+      - uniprot: P73395
   - !!omap
     - id: sll1733
     - name: sll1733
+    - annotation: !!omap
+      - uniprot: P73394
   - !!omap
     - id: sll1734
     - name: sll1734
+    - annotation: !!omap
+      - uniprot: P73393
   - !!omap
     - id: sll1747
     - name: sll1747
+    - annotation: !!omap
+      - uniprot: P23353
   - !!omap
     - id: sll1750
     - name: sll1750
+    - annotation: !!omap
+      - uniprot: P73061
   - !!omap
     - id: sll1752
     - name: sll1752
+    - annotation: !!omap
+      - uniprot: P73054
   - !!omap
     - id: sll1758
     - name: sll1758
+    - annotation: !!omap
+      - uniprot: P73648
   - !!omap
     - id: sll1760
     - name: sll1760
+    - annotation: !!omap
+      - uniprot: P73646
   - !!omap
     - id: sll1796
     - name: sll1796
+    - annotation: !!omap
+      - uniprot: P46445
   - !!omap
     - id: sll1797
     - name: sll1797
+    - annotation: !!omap
+      - uniprot: P73322
   - !!omap
     - id: sll1815
     - name: sll1815
+    - annotation: !!omap
+      - uniprot: P73302
   - !!omap
     - id: sll1823
     - name: sll1823
+    - annotation: !!omap
+      - uniprot: P73290
   - !!omap
     - id: sll1831
     - name: sll1831
+    - annotation: !!omap
+      - uniprot: P73119
   - !!omap
     - id: sll1833
     - name: sll1833
+    - annotation: !!omap
+      - uniprot: P73117
   - !!omap
     - id: sll1841
     - name: sll1841
+    - annotation: !!omap
+      - uniprot: P74510
   - !!omap
     - id: sll1848
     - name: sll1848
+    - annotation: !!omap
+      - uniprot: P74498
   - !!omap
     - id: sll1852
     - name: sll1852
+    - annotation: !!omap
+      - uniprot: P74494
   - !!omap
     - id: sll1867
     - name: sll1867
+    - annotation: !!omap
+      - uniprot: P16033
   - !!omap
     - id: sll1874
     - name: sll1874
+    - annotation: !!omap
+      - uniprot: P74134
   - !!omap
     - id: sll1875
     - name: sll1875
+    - annotation: !!omap
+      - uniprot: P74133
   - !!omap
     - id: sll1876
     - name: sll1876
+    - annotation: !!omap
+      - uniprot: P74132
   - !!omap
     - id: sll1878
     - name: sll1878
+    - annotation: !!omap
+      - uniprot: P74127
   - !!omap
     - id: sll1883
     - name: sll1883
+    - annotation: !!omap
+      - uniprot: P74122
   - !!omap
     - id: sll1890
     - name: sll1890
+    - annotation: !!omap
+      - uniprot: P74110
   - !!omap
     - id: sll1893
     - name: sll1893
+    - annotation: !!omap
+      - uniprot: P74106
   - !!omap
     - id: sll1894
     - name: sll1894
+    - annotation: !!omap
+      - uniprot: P74104
   - !!omap
     - id: sll1898
     - name: sll1898
+    - annotation: !!omap
+      - uniprot: P74096
   - !!omap
     - id: sll1899
     - name: sll1899
+    - annotation: !!omap
+      - uniprot: Q79EF2
   - !!omap
     - id: sll1908
     - name: sll1908
+    - annotation: !!omap
+      - uniprot: P73821
   - !!omap
     - id: sll1916
     - name: sll1916
+    - annotation: !!omap
+      - uniprot: P73246
   - !!omap
     - id: sll1917
     - name: sll1917
+    - annotation: !!omap
+      - uniprot: P73245
   - !!omap
     - id: sll1920
     - name: sll1920
+    - annotation: !!omap
+      - uniprot: P73241
   - !!omap
     - id: sll1931
     - name: sll1931
+    - annotation: !!omap
+      - uniprot: P77962
   - !!omap
     - id: sll1945
     - name: sll1945
+    - annotation: !!omap
+      - uniprot: P73067
   - !!omap
     - id: sll1958
     - name: sll1958
+    - annotation: !!omap
+      - uniprot: P73807
   - !!omap
     - id: sll1959
     - name: sll1959
+    - annotation: !!omap
+      - uniprot: P73806
   - !!omap
     - id: sll1973
     - name: sll1973
+    - annotation: !!omap
+      - uniprot: P73933
   - !!omap
     - id: sll1981
     - name: sll1981
+    - annotation: !!omap
+      - uniprot: P73918
   - !!omap
     - id: sll1987
     - name: sll1987
+    - annotation: !!omap
+      - uniprot: P73911
   - !!omap
     - id: sll1994
     - name: sll1994
+    - annotation: !!omap
+      - uniprot: P77969
   - !!omap
     - id: sll2001
     - name: sll2001
+    - annotation: !!omap
+      - uniprot: P73971
   - !!omap
     - id: sll2008
     - name: sll2008
+    - annotation: !!omap
+      - uniprot: P73670
   - !!omap
     - id: sll2010
     - name: sll2010
+    - annotation: !!omap
+      - uniprot: P73668
   - !!omap
     - id: sll5079
     - name: sll5079
+    - annotation: !!omap
+      - uniprot: Q6ZEQ1
   - !!omap
     - id: sll8031
     - name: sll8031
   - !!omap
     - id: slr0001
     - name: slr0001
+    - annotation: !!omap
+      - uniprot: Q55660
   - !!omap
     - id: slr0009
     - name: slr0009
+    - annotation: !!omap
+      - uniprot: P54205
   - !!omap
     - id: slr0012
     - name: slr0012
+    - annotation: !!omap
+      - uniprot: P54206
   - !!omap
     - id: slr0014
     - name: slr0014
+    - annotation: !!omap
+      - uniprot: Q57208
   - !!omap
     - id: slr0015
     - name: slr0015
+    - annotation: !!omap
+      - uniprot: Q57310
   - !!omap
     - id: slr0017
     - name: slr0017
+    - annotation: !!omap
+      - uniprot: Q55673
   - !!omap
     - id: slr0018
     - name: slr0018
+    - annotation: !!omap
+      - uniprot: Q55674
   - !!omap
     - id: slr0032
     - name: slr0032
+    - annotation: !!omap
+      - uniprot: P54691
   - !!omap
     - id: slr0036
     - name: slr0036
+    - annotation: !!omap
+      - uniprot: Q55453
   - !!omap
     - id: slr0040
     - name: slr0040
+    - annotation: !!omap
+      - uniprot: Q55460
   - !!omap
     - id: slr0041
     - name: slr0041
+    - annotation: !!omap
+      - uniprot: Q55461
   - !!omap
     - id: slr0042
     - name: slr0042
+    - annotation: !!omap
+      - uniprot: Q59991
   - !!omap
     - id: slr0043
     - name: slr0043
+    - annotation: !!omap
+      - uniprot: Q55462
   - !!omap
     - id: slr0044
     - name: slr0044
+    - annotation: !!omap
+      - uniprot: Q55463
   - !!omap
     - id: slr0049
     - name: G_slr0049
+    - annotation: !!omap
+      - uniprot: Q55131
   - !!omap
     - id: slr0051
     - name: slr0051
+    - annotation: !!omap
+      - uniprot: Q55136
   - !!omap
     - id: slr0054
     - name: slr0054
+    - annotation: !!omap
+      - uniprot: Q55143
   - !!omap
     - id: slr0055
     - name: slr0055
+    - annotation: !!omap
+      - uniprot: Q55144
   - !!omap
     - id: slr0056
     - name: slr0056
+    - annotation: !!omap
+      - uniprot: Q55145
   - !!omap
     - id: slr0066
     - name: slr0066
+    - annotation: !!omap
+      - uniprot: Q55158
   - !!omap
     - id: slr0077
     - name: slr0077
+    - annotation: !!omap
+      - uniprot: Q55793
   - !!omap
     - id: slr0084
     - name: slr0084
+    - annotation: !!omap
+      - uniprot: Q55805
   - !!omap
     - id: slr0088
     - name: slr0088
+    - annotation: !!omap
+      - uniprot: Q55808
   - !!omap
     - id: slr0089
     - name: slr0089
+    - annotation: !!omap
+      - uniprot: Q55809
   - !!omap
     - id: slr0090
     - name: slr0090
+    - annotation: !!omap
+      - uniprot: Q55810
   - !!omap
     - id: slr0091
     - name: slr0091
+    - annotation: !!omap
+      - uniprot: Q55811
   - !!omap
     - id: slr0096
     - name: slr0096
+    - annotation: !!omap
+      - uniprot: Q55814
   - !!omap
     - id: slr0116
     - name: slr0116
+    - annotation: !!omap
+      - uniprot: Q55891
   - !!omap
     - id: slr0118
     - name: slr0118
+    - annotation: !!omap
+      - uniprot: Q55894
   - !!omap
     - id: slr0120
     - name: slr0120
+    - annotation: !!omap
+      - uniprot: Q55896
   - !!omap
     - id: slr0171
     - name: slr0171
+    - annotation: !!omap
+      - uniprot: Q55551
   - !!omap
     - id: slr0185
     - name: slr0185
+    - annotation: !!omap
+      - uniprot: Q55574
   - !!omap
     - id: slr0186
     - name: slr0186
+    - annotation: !!omap
+      - uniprot: P48576
   - !!omap
     - id: slr0194
     - name: slr0194
+    - annotation: !!omap
+      - uniprot: Q55766
   - !!omap
     - id: slr0201
     - name: slr0201
+    - annotation: !!omap
+      - uniprot: Q55771
   - !!omap
     - id: slr0204
     - name: slr0204
+    - annotation: !!omap
+      - uniprot: Q55777
   - !!omap
     - id: slr0212
     - name: slr0212
+    - annotation: !!omap
+      - uniprot: Q55786
   - !!omap
     - id: slr0213
     - name: slr0213
+    - annotation: !!omap
+      - uniprot: P49057
   - !!omap
     - id: slr0214
     - name: slr0214
+    - annotation: !!omap
+      - uniprot: Q59995
   - !!omap
     - id: slr0216
     - name: slr0216
+    - annotation: !!omap
+      - uniprot: Q55685
   - !!omap
     - id: slr0229
     - name: slr0229
+    - annotation: !!omap
+      - uniprot: Q55702
   - !!omap
     - id: slr0237
     - name: slr0237
+    - annotation: !!omap
+      - uniprot: P72691
   - !!omap
     - id: slr0239
     - name: slr0239
+    - annotation: !!omap
+      - uniprot: P72694
   - !!omap
     - id: slr0252
     - name: slr0252
+    - annotation: !!omap
+      - uniprot: P72711
   - !!omap
     - id: slr0260
     - name: slr0260
+    - annotation: !!omap
+      - uniprot: P73874
   - !!omap
     - id: slr0261
     - name: slr0261
+    - annotation: !!omap
+      - uniprot: P27724
   - !!omap
     - id: slr0288
     - name: slr0288
+    - annotation: !!omap
+      - uniprot: P77970
   - !!omap
     - id: slr0293
     - name: slr0293
+    - annotation: !!omap
+      - uniprot: P74416
   - !!omap
     - id: slr0301
     - name: slr0301
+    - annotation: !!omap
+      - uniprot: Q55905
   - !!omap
     - id: slr0327
     - name: slr0327
+    - annotation: !!omap
+      - uniprot: Q55534
   - !!omap
     - id: slr0329
     - name: slr0329
+    - annotation: !!omap
+      - uniprot: Q55536
   - !!omap
     - id: slr0331
     - name: slr0331
+    - annotation: !!omap
+      - uniprot: P32421
   - !!omap
     - id: slr0342
     - name: slr0342
+    - annotation: !!omap
+      - uniprot: Q57038
   - !!omap
     - id: slr0343
     - name: slr0343
+    - annotation: !!omap
+      - uniprot: P27589
   - !!omap
     - id: slr0348
     - name: slr0348
+    - annotation: !!omap
+      - uniprot: Q55643
   - !!omap
     - id: slr0354
     - name: slr0354
+    - annotation: !!omap
+      - uniprot: Q55649
   - !!omap
     - id: slr0370
     - name: slr0370
+    - annotation: !!omap
+      - uniprot: Q55585
   - !!omap
     - id: slr0379
     - name: slr0379
+    - annotation: !!omap
+      - uniprot: Q55593
   - !!omap
     - id: slr0381
     - name: slr0381
+    - annotation: !!omap
+      - uniprot: Q55595
   - !!omap
     - id: slr0384
     - name: slr0384
+    - annotation: !!omap
+      - uniprot: Q55598
   - !!omap
     - id: slr0387
     - name: slr0387
+    - annotation: !!omap
+      - uniprot: Q55602
   - !!omap
     - id: slr0394
     - name: slr0394
+    - annotation: !!omap
+      - uniprot: P74421
   - !!omap
     - id: slr0400
     - name: slr0400
+    - annotation: !!omap
+      - uniprot: P74430
   - !!omap
     - id: slr0401
     - name: slr0401
+    - annotation: !!omap
+      - uniprot: P74431
   - !!omap
     - id: slr0402
     - name: slr0402
+    - annotation: !!omap
+      - uniprot: P74432
   - !!omap
     - id: slr0406
     - name: slr0406
+    - annotation: !!omap
+      - uniprot: P74438
   - !!omap
     - id: slr0415
     - name: slr0415
+    - annotation: !!omap
+      - uniprot: Q55736
   - !!omap
     - id: slr0426
     - name: slr0426
+    - annotation: !!omap
+      - uniprot: Q55759
   - !!omap
     - id: slr0427
     - name: slr0427
+    - annotation: !!omap
+      - uniprot: Q55760
   - !!omap
     - id: slr0435
     - name: slr0435
+    - annotation: !!omap
+      - uniprot: Q55120
   - !!omap
     - id: slr0444
     - name: slr0444
+    - annotation: !!omap
+      - uniprot: Q59975
   - !!omap
     - id: slr0447
     - name: slr0447
+    - annotation: !!omap
+      - uniprot: P74390
   - !!omap
     - id: slr0452
     - name: slr0452
+    - annotation: !!omap
+      - uniprot: P74689
   - !!omap
     - id: slr0453
     - name: slr0453
+    - annotation: !!omap
+      - uniprot: P74690
   - !!omap
     - id: slr0458
     - name: slr0458
+    - annotation: !!omap
+      - uniprot: P74697
   - !!omap
     - id: slr0467
     - name: slr0467
+    - annotation: !!omap
+      - uniprot: Q55164
   - !!omap
     - id: slr0477
     - name: slr0477
+    - annotation: !!omap
+      - uniprot: Q55172
   - !!omap
     - id: slr0488
     - name: slr0488
+    - annotation: !!omap
+      - uniprot: Q55179
   - !!omap
     - id: slr0492
     - name: slr0492
+    - annotation: !!omap
+      - uniprot: Q55182
   - !!omap
     - id: slr0493
     - name: slr0493
+    - annotation: !!omap
+      - uniprot: Q55183
   - !!omap
     - id: slr0500
     - name: slr0500
+    - annotation: !!omap
+      - uniprot: P48054
   - !!omap
     - id: slr0506
     - name: slr0506
+    - annotation: !!omap
+      - uniprot: Q59987
   - !!omap
     - id: slr0513
     - name: slr0513
+    - annotation: !!omap
+      - uniprot: Q55835
   - !!omap
     - id: slr0519
     - name: slr0519
+    - annotation: !!omap
+      - uniprot: Q55842
   - !!omap
     - id: slr0520
     - name: slr0520
+    - annotation: !!omap
+      - uniprot: Q55843
   - !!omap
     - id: slr0523
     - name: slr0523
+    - annotation: !!omap
+      - uniprot: Q55849
   - !!omap
     - id: slr0525
     - name: slr0525
+    - annotation: !!omap
+      - uniprot: Q55467
   - !!omap
     - id: slr0526
     - name: slr0526
+    - annotation: !!omap
+      - uniprot: P52997
   - !!omap
     - id: slr0528
     - name: slr0528
+    - annotation: !!omap
+      - uniprot: Q55469
   - !!omap
     - id: slr0529
     - name: slr0529
+    - annotation: !!omap
+      - uniprot: Q55471
   - !!omap
     - id: slr0530
     - name: slr0530
+    - annotation: !!omap
+      - uniprot: Q55472
   - !!omap
     - id: slr0531
     - name: slr0531
+    - annotation: !!omap
+      - uniprot: Q55473
   - !!omap
     - id: slr0536
     - name: slr0536
+    - annotation: !!omap
+      - uniprot: P54224
   - !!omap
     - id: slr0543
     - name: slr0543
+    - annotation: !!omap
+      - uniprot: Q59992
   - !!omap
     - id: slr0546
     - name: slr0546
+    - annotation: !!omap
+      - uniprot: Q55508
   - !!omap
     - id: slr0549
     - name: slr0549
+    - annotation: !!omap
+      - uniprot: Q55512
   - !!omap
     - id: slr0550
     - name: slr0550
+    - annotation: !!omap
+      - uniprot: Q55513
   - !!omap
     - id: slr0553
     - name: slr0553
+    - annotation: !!omap
+      - uniprot: Q55515
   - !!omap
     - id: slr0559
     - name: slr0559
+    - annotation: !!omap
+      - uniprot: Q55387
   - !!omap
     - id: slr0585
     - name: slr0585
+    - annotation: !!omap
+      - uniprot: P77973
   - !!omap
     - id: slr0591
     - name: slr0591
+    - annotation: !!omap
+      - uniprot: P74732
   - !!omap
     - id: slr0597
     - name: slr0597
+    - annotation: !!omap
+      - uniprot: P74741
   - !!omap
     - id: slr0600
     - name: slr0600
+    - annotation: !!omap
+      - uniprot: P74746
   - !!omap
     - id: slr0608
     - name: slr0608
+    - annotation: !!omap
+      - uniprot: P74755
   - !!omap
     - id: slr0611
     - name: slr0611
+    - annotation: !!omap
+      - uniprot: P72580
   - !!omap
     - id: slr0618
     - name: slr0618
+    - annotation: !!omap
+      - uniprot: Q55860
   - !!omap
     - id: slr0624
     - name: slr0624
+    - annotation: !!omap
+      - uniprot: Q55867
   - !!omap
     - id: slr0633
     - name: slr0633
+    - annotation: !!omap
+      - uniprot: Q55710
   - !!omap
     - id: slr0636
     - name: slr0636
+    - annotation: !!omap
+      - uniprot: Q55714
   - !!omap
     - id: slr0646
     - name: slr0646
+    - annotation: !!omap
+      - uniprot: Q55728
   - !!omap
     - id: slr0652
     - name: slr0652
+    - annotation: !!omap
+      - uniprot: P74561
   - !!omap
     - id: slr0657
     - name: slr0657
+    - annotation: !!omap
+      - uniprot: P74569
   - !!omap
     - id: slr0661
     - name: slr0661
+    - annotation: !!omap
+      - uniprot: P74572
   - !!omap
     - id: slr0662
     - name: slr0662
+    - annotation: !!omap
+      - uniprot: P74576
   - !!omap
     - id: slr0665
     - name: slr0665
+    - annotation: !!omap
+      - uniprot: P74582
   - !!omap
     - id: slr0676
     - name: slr0676
+    - annotation: !!omap
+      - uniprot: P72940
   - !!omap
     - id: slr0682
     - name: slr0682
+    - annotation: !!omap
+      - uniprot: P72946
   - !!omap
     - id: slr0698
     - name: slr0698
+    - annotation: !!omap
+      - uniprot: Q55960
   - !!omap
     - id: slr0710
     - name: slr0710
+    - annotation: !!omap
+      - uniprot: P54386
   - !!omap
     - id: slr0721
     - name: slr0721
+    - annotation: !!omap
+      - uniprot: P72661
   - !!omap
     - id: slr0737
     - name: slr0737
+    - annotation: !!omap
+      - uniprot: P19569
   - !!omap
     - id: slr0738
     - name: slr0738
+    - annotation: !!omap
+      - uniprot: P20170
   - !!omap
     - id: slr0739
     - name: slr0739
+    - annotation: !!omap
+      - uniprot: P72683
   - !!omap
     - id: slr0746
     - name: slr0746
+    - annotation: !!omap
+      - uniprot: Q55034
   - !!omap
     - id: slr0749
     - name: slr0749
+    - annotation: !!omap
+      - uniprot: P28373
   - !!omap
     - id: slr0750
     - name: slr0750
+    - annotation: !!omap
+      - uniprot: P28372
   - !!omap
     - id: slr0752
     - name: slr0752
+    - annotation: !!omap
+      - uniprot: P77972
   - !!omap
     - id: slr0772
     - name: slr0772
+    - annotation: !!omap
+      - uniprot: Q55607
   - !!omap
     - id: slr0776
     - name: slr0776
+    - annotation: !!omap
+      - uniprot: Q55612
   - !!omap
     - id: slr0782
     - name: slr0782
+    - annotation: !!omap
+      - uniprot: Q55629
   - !!omap
     - id: slr0783
     - name: slr0783
+    - annotation: !!omap
+      - uniprot: Q59994
   - !!omap
     - id: slr0787
     - name: slr0787
+    - annotation: !!omap
+      - uniprot: Q55928
   - !!omap
     - id: slr0788
     - name: slr0788
+    - annotation: !!omap
+      - uniprot: Q55929
   - !!omap
     - id: slr0797
     - name: slr0797
+    - annotation: !!omap
+      - uniprot: Q59997
   - !!omap
     - id: slr0798
     - name: slr0798
+    - annotation: !!omap
+      - uniprot: Q59998
   - !!omap
     - id: slr0804
     - name: slr0804
+    - annotation: !!omap
+      - uniprot: P74032
   - !!omap
     - id: slr0806
     - name: slr0806
+    - annotation: !!omap
+      - uniprot: P74033
   - !!omap
     - id: slr0809
     - name: slr0809
+    - annotation: !!omap
+      - uniprot: P74036
   - !!omap
     - id: slr0812
     - name: slr0812
+    - annotation: !!omap
+      - uniprot: P74045
   - !!omap
     - id: slr0817
     - name: slr0817
+    - annotation: !!omap
+      - uniprot: P74053
   - !!omap
     - id: slr0822
     - name: slr0822
+    - annotation: !!omap
+      - uniprot: P74062
   - !!omap
     - id: slr0823
     - name: slr0823
+    - annotation: !!omap
+      - uniprot: P74063
   - !!omap
     - id: slr0827
     - name: slr0827
+    - annotation: !!omap
+      - uniprot: P54918
   - !!omap
     - id: slr0836
     - name: slr0836
+    - annotation: !!omap
+      - uniprot: Q55420
   - !!omap
     - id: slr0838
     - name: slr0838
+    - annotation: !!omap
+      - uniprot: Q55422
   - !!omap
     - id: slr0839
     - name: slr0839
+    - annotation: !!omap
+      - uniprot: P54225
   - !!omap
     - id: slr0844
     - name: slr0844
+    - annotation: !!omap
+      - uniprot: Q55429
   - !!omap
     - id: slr0847
     - name: slr0847
+    - annotation: !!omap
+      - uniprot: Q55435
   - !!omap
     - id: slr0851
     - name: slr0851
+    - annotation: !!omap
+      - uniprot: P73739
   - !!omap
     - id: slr0861
     - name: slr0861
+    - annotation: !!omap
+      - uniprot: Q55336
   - !!omap
     - id: slr0862
     - name: slr0862
+    - annotation: !!omap
+      - uniprot: P73753
   - !!omap
     - id: slr0879
     - name: slr0879
+    - annotation: !!omap
+      - uniprot: P73560
   - !!omap
     - id: slr0884
     - name: slr0884
+    - annotation: !!omap
+      - uniprot: P49433
   - !!omap
     - id: slr0886
     - name: slr0886
+    - annotation: !!omap
+      - uniprot: P73574
   - !!omap
     - id: slr0887
     - name: slr0887
+    - annotation: !!omap
+      - uniprot: P73575
   - !!omap
     - id: slr0898
     - name: slr0898
+    - annotation: !!omap
+      - uniprot: Q55366
   - !!omap
     - id: slr0899
     - name: slr0899
+    - annotation: !!omap
+      - uniprot: Q55367
   - !!omap
     - id: slr0905
     - name: slr0905
+    - annotation: !!omap
+      - uniprot: Q55373
   - !!omap
     - id: slr0906
     - name: slr0906
+    - annotation: !!omap
+      - uniprot: P05429
   - !!omap
     - id: slr0917
     - name: slr0917
+    - annotation: !!omap
+      - uniprot: P74770
   - !!omap
     - id: slr0920
     - name: slr0920
+    - annotation: !!omap
+      - uniprot: Q55381
   - !!omap
     - id: slr0926
     - name: slr0926
+    - annotation: !!omap
+      - uniprot: Q55500
   - !!omap
     - id: slr0927
     - name: slr0927
   - !!omap
     - id: slr0936
     - name: slr0936
+    - annotation: !!omap
+      - uniprot: P74301
   - !!omap
     - id: slr0940
     - name: slr0940
+    - annotation: !!omap
+      - uniprot: P74306
   - !!omap
     - id: slr0942
     - name: slr0942
+    - annotation: !!omap
+      - uniprot: P74308
   - !!omap
     - id: slr0943
     - name: slr0943
+    - annotation: !!omap
+      - uniprot: P74309
   - !!omap
     - id: slr0945
     - name: slr0945
+    - annotation: !!omap
+      - uniprot: P74312
   - !!omap
     - id: slr0949
     - name: slr0949
+    - annotation: !!omap
+      - uniprot: P74318
   - !!omap
     - id: slr0951
     - name: slr0951
+    - annotation: !!omap
+      - uniprot: P74323
   - !!omap
     - id: slr0952
     - name: slr0952
+    - annotation: !!omap
+      - uniprot: P74324
   - !!omap
     - id: slr0953
     - name: slr0953
+    - annotation: !!omap
+      - uniprot: P74325
   - !!omap
     - id: slr0963
     - name: slr0963
+    - annotation: !!omap
+      - uniprot: P72854
   - !!omap
     - id: slr0966
     - name: slr0966
+    - annotation: !!omap
+      - uniprot: P77960
   - !!omap
     - id: slr0969
     - name: slr0969
+    - annotation: !!omap
+      - uniprot: P72862
   - !!omap
     - id: slr0983
     - name: slr0983
+    - annotation: !!omap
+      - uniprot: P72885
   - !!omap
     - id: slr0984
     - name: slr0984
+    - annotation: !!omap
+      - uniprot: P72886
   - !!omap
     - id: slr0985
     - name: slr0985
+    - annotation: !!omap
+      - uniprot: P72887
   - !!omap
     - id: slr0990
     - name: slr0990
+    - annotation: !!omap
+      - uniprot: P74515
   - !!omap
     - id: slr0994
     - name: slr0994
+    - annotation: !!omap
+      - uniprot: P74519
   - !!omap
     - id: slr1020
     - name: slr1020
+    - annotation: !!omap
+      - uniprot: P73128
   - !!omap
     - id: slr1022
     - name: slr1022
+    - annotation: !!omap
+      - uniprot: P73133
   - !!omap
     - id: slr1030
     - name: slr1030
+    - annotation: !!omap
+      - uniprot: P51634
   - !!omap
     - id: slr1051
     - name: slr1051
+    - annotation: !!omap
+      - uniprot: P73016
   - !!omap
     - id: slr1055
     - name: slr1055
+    - annotation: !!omap
+      - uniprot: P73020
   - !!omap
     - id: slr1067
     - name: slr1067
+    - annotation: !!omap
+      - uniprot: P72903
   - !!omap
     - id: slr1072
     - name: slr1072
+    - annotation: !!omap
+      - uniprot: P72908
   - !!omap
     - id: slr1078
     - name: slr1078
+    - annotation: !!omap
+      - uniprot: P72915
   - !!omap
     - id: slr1093
     - name: slr1093
+    - annotation: !!omap
+      - uniprot: P72736
   - !!omap
     - id: slr1096
     - name: slr1096
+    - annotation: !!omap
+      - uniprot: P72740
   - !!omap
     - id: slr1099
     - name: slr1099
+    - annotation: !!omap
+      - uniprot: P72743
   - !!omap
     - id: slr1123
     - name: slr1123
+    - annotation: !!omap
+      - uniprot: P72648
   - !!omap
     - id: slr1124
     - name: slr1124
+    - annotation: !!omap
+      - uniprot: P72649
   - !!omap
     - id: slr1133
     - name: slr1133
+    - annotation: !!omap
+      - uniprot: P73257
   - !!omap
     - id: slr1136
     - name: slr1136
+    - annotation: !!omap
+      - uniprot: Q06474
   - !!omap
     - id: slr1137
     - name: slr1137
+    - annotation: !!omap
+      - uniprot: Q06473
   - !!omap
     - id: slr1138
     - name: slr1138
+    - annotation: !!omap
+      - uniprot: Q06475
   - !!omap
     - id: slr1145
     - name: slr1145
+    - annotation: !!omap
+      - uniprot: P73275
   - !!omap
     - id: slr1159
     - name: slr1159
+    - annotation: !!omap
+      - uniprot: P74232
   - !!omap
     - id: slr1164
     - name: slr1164
+    - annotation: !!omap
+      - uniprot: P74240
   - !!omap
     - id: slr1165
     - name: slr1165
+    - annotation: !!omap
+      - uniprot: P74241
   - !!omap
     - id: slr1171
     - name: slr1171
+    - annotation: !!omap
+      - uniprot: P74250
   - !!omap
     - id: slr1176
     - name: slr1176
+    - annotation: !!omap
+      - uniprot: P52415
   - !!omap
     - id: slr1179
     - name: slr1179
+    - annotation: !!omap
+      - uniprot: P74706
   - !!omap
     - id: slr1181
     - name: slr1181
+    - annotation: !!omap
+      - uniprot: P07826
   - !!omap
     - id: slr1185
     - name: slr1185
+    - annotation: !!omap
+      - uniprot: P74714
   - !!omap
     - id: slr1200
     - name: slr1200
+    - annotation: !!omap
+      - uniprot: P73350
   - !!omap
     - id: slr1201
     - name: slr1201
+    - annotation: !!omap
+      - uniprot: P73351
   - !!omap
     - id: slr1211
     - name: slr1211
+    - annotation: !!omap
+      - uniprot: P73362
   - !!omap
     - id: slr1216
     - name: slr1216
+    - annotation: !!omap
+      - uniprot: P73368
   - !!omap
     - id: slr1219
     - name: slr1219
+    - annotation: !!omap
+      - uniprot: P73462
   - !!omap
     - id: slr1226
     - name: slr1226
+    - annotation: !!omap
+      - uniprot: P73471
   - !!omap
     - id: slr1229
     - name: slr1229
+    - annotation: !!omap
+      - uniprot: P73474
   - !!omap
     - id: slr1233
     - name: slr1233
+    - annotation: !!omap
+      - uniprot: P73479
   - !!omap
     - id: slr1237
     - name: G_slr1237
+    - annotation: !!omap
+      - uniprot: P73487
   - !!omap
     - id: slr1238
     - name: slr1238
+    - annotation: !!omap
+      - uniprot: P73493
   - !!omap
     - id: slr1239
     - name: slr1239
+    - annotation: !!omap
+      - uniprot: P73496
   - !!omap
     - id: slr1247
     - name: slr1247
+    - annotation: !!omap
+      - uniprot: P73785
   - !!omap
     - id: slr1248
     - name: slr1248
+    - annotation: !!omap
+      - uniprot: P73786
   - !!omap
     - id: slr1249
     - name: slr1249
+    - annotation: !!omap
+      - uniprot: P73787
   - !!omap
     - id: slr1250
     - name: slr1250
+    - annotation: !!omap
+      - uniprot: P73788
   - !!omap
     - id: slr1254
     - name: slr1254
+    - annotation: !!omap
+      - uniprot: P29273
   - !!omap
     - id: slr1255
     - name: slr1255
+    - annotation: !!omap
+      - uniprot: P37294
   - !!omap
     - id: slr1256
     - name: slr1256
+    - annotation: !!omap
+      - uniprot: P73796
   - !!omap
     - id: slr1259
     - name: slr1259
+    - annotation: !!omap
+      - uniprot: P73799
   - !!omap
     - id: slr1267
     - name: slr1267
+    - annotation: !!omap
+      - uniprot: P74180
   - !!omap
     - id: slr1269
     - name: slr1269
+    - annotation: !!omap
+      - uniprot: P74181
   - !!omap
     - id: slr1271
     - name: slr1271
+    - annotation: !!omap
+      - uniprot: P74183
   - !!omap
     - id: slr1279
     - name: slr1279
+    - annotation: !!omap
+      - uniprot: P19045
   - !!omap
     - id: slr1280
     - name: slr1280
+    - annotation: !!omap
+      - uniprot: P19050
   - !!omap
     - id: slr1281
     - name: slr1281
+    - annotation: !!omap
+      - uniprot: P19125
   - !!omap
     - id: slr1289
     - name: slr1289
+    - annotation: !!omap
+      - uniprot: P80046
   - !!omap
     - id: slr1291
     - name: slr1291
+    - annotation: !!omap
+      - uniprot: P72823
   - !!omap
     - id: slr1295
     - name: slr1295
+    - annotation: !!omap
+      - uniprot: P72827
   - !!omap
     - id: slr1300
     - name: slr1300
+    - annotation: !!omap
+      - uniprot: P72835
   - !!omap
     - id: slr1302
     - name: slr1302
+    - annotation: !!omap
+      - uniprot: P72840
   - !!omap
     - id: slr1311
     - name: slr1311
+    - annotation: !!omap
+      - uniprot: P16033
   - !!omap
     - id: slr1312
     - name: slr1312
+    - annotation: !!omap
+      - uniprot: P72587
   - !!omap
     - id: slr1316
     - name: slr1316
+    - annotation: !!omap
+      - uniprot: P72590
   - !!omap
     - id: slr1317
     - name: slr1317
+    - annotation: !!omap
+      - uniprot: P72591
   - !!omap
     - id: slr1318
     - name: slr1318
+    - annotation: !!omap
+      - uniprot: P72592
   - !!omap
     - id: slr1319
     - name: slr1319
+    - annotation: !!omap
+      - uniprot: P72593
   - !!omap
     - id: slr1325
     - name: slr1325
+    - annotation: !!omap
+      - uniprot: P74007
   - !!omap
     - id: slr1329
     - name: slr1329
+    - annotation: !!omap
+      - uniprot: P26527
   - !!omap
     - id: slr1330
     - name: slr1330
+    - annotation: !!omap
+      - uniprot: P26533
   - !!omap
     - id: slr1332
     - name: slr1332
+    - annotation: !!omap
+      - uniprot: P74017
   - !!omap
     - id: slr1334
     - name: slr1334
+    - annotation: !!omap
+      - uniprot: P74027
   - !!omap
     - id: slr1336
     - name: slr1336
+    - annotation: !!omap
+      - uniprot: P74072
   - !!omap
     - id: slr1347
     - name: slr1347
+    - annotation: !!omap
+      - uniprot: Q54735
   - !!omap
     - id: slr1348
     - name: slr1348
+    - annotation: !!omap
+      - uniprot: P74089
   - !!omap
     - id: slr1349
     - name: slr1349
+    - annotation: !!omap
+      - uniprot: P52983
   - !!omap
     - id: slr1350
     - name: slr1350
+    - annotation: !!omap
+      - uniprot: P20388
   - !!omap
     - id: slr1351
     - name: slr1351
+    - annotation: !!omap
+      - uniprot: P45450
   - !!omap
     - id: slr1364
     - name: slr1364
+    - annotation: !!omap
+      - uniprot: P73538
   - !!omap
     - id: slr1367
     - name: slr1367
+    - annotation: !!omap
+      - uniprot: P73546
   - !!omap
     - id: slr1368
     - name: slr1368
+    - annotation: !!omap
+      - uniprot: P73547
   - !!omap
     - id: slr1369
     - name: slr1369
+    - annotation: !!omap
+      - uniprot: P73548
   - !!omap
     - id: slr1379
     - name: slr1379
+    - annotation: !!omap
+      - uniprot: P73159
   - !!omap
     - id: slr1380
     - name: slr1380
+    - annotation: !!omap
+      - uniprot: P73160
   - !!omap
     - id: slr1392
     - name: slr1392
+    - annotation: !!omap
+      - uniprot: P73182
   - !!omap
     - id: slr1397
     - name: G_slr1397
+    - annotation: !!omap
+      - uniprot: P73189
   - !!omap
     - id: slr1418
     - name: slr1418
+    - annotation: !!omap
+      - uniprot: P74782
   - !!omap
     - id: slr1423
     - name: slr1423
+    - annotation: !!omap
+      - uniprot: P74528
   - !!omap
     - id: slr1424
     - name: slr1424
+    - annotation: !!omap
+      - uniprot: P74529
   - !!omap
     - id: slr1434
     - name: slr1434
+    - annotation: !!omap
+      - uniprot: P73500
   - !!omap
     - id: slr1448
     - name: slr1448
+    - annotation: !!omap
+      - uniprot: P73521
   - !!omap
     - id: slr1452
     - name: slr1452
+    - annotation: !!omap
+      - uniprot: Q01903
   - !!omap
     - id: slr1453
     - name: slr1453
+    - annotation: !!omap
+      - uniprot: Q01895
   - !!omap
     - id: slr1454
     - name: slr1454
+    - annotation: !!omap
+      - uniprot: P74547
   - !!omap
     - id: slr1455
     - name: slr1455
+    - annotation: !!omap
+      - uniprot: P74548
   - !!omap
     - id: slr1467
     - name: slr1467
+    - annotation: !!omap
+      - uniprot: P74152
   - !!omap
     - id: slr1476
     - name: slr1476
+    - annotation: !!omap
+      - uniprot: P74163
   - !!omap
     - id: slr1491
     - name: slr1491
+    - annotation: !!omap
+      - uniprot: P72610
   - !!omap
     - id: slr1492
     - name: slr1492
+    - annotation: !!omap
+      - uniprot: P72611
   - !!omap
     - id: slr1508
     - name: slr1508
+    - annotation: !!omap
+      - uniprot: P73948
   - !!omap
     - id: slr1509
     - name: slr1509
+    - annotation: !!omap
+      - uniprot: P73949
   - !!omap
     - id: slr1510
     - name: slr1510
+    - annotation: !!omap
+      - uniprot: P73950
   - !!omap
     - id: slr1511
     - name: slr1511
+    - annotation: !!omap
+      - uniprot: P73951
   - !!omap
     - id: slr1512
     - name: slr1512
+    - annotation: !!omap
+      - uniprot: P73953
   - !!omap
     - id: slr1516
     - name: slr1516
+    - annotation: !!omap
+      - uniprot: P77968
   - !!omap
     - id: slr1517
     - name: slr1517
+    - annotation: !!omap
+      - uniprot: P73960
   - !!omap
     - id: slr1518
     - name: slr1518
+    - annotation: !!omap
+      - uniprot: P73962
   - !!omap
     - id: slr1538
     - name: slr1538
+    - annotation: !!omap
+      - uniprot: P73423
   - !!omap
     - id: slr1542
     - name: slr1542
+    - annotation: !!omap
+      - uniprot: P73426
   - !!omap
     - id: slr1556
     - name: slr1556
+    - annotation: !!omap
+      - uniprot: P74586
   - !!omap
     - id: slr1559
     - name: slr1559
+    - annotation: !!omap
+      - uniprot: P74591
   - !!omap
     - id: slr1560
     - name: slr1560
+    - annotation: !!omap
+      - uniprot: P74592
   - !!omap
     - id: slr1562
     - name: slr1562
+    - annotation: !!omap
+      - uniprot: P74593
   - !!omap
     - id: slr1595
     - name: slr1595
+    - annotation: !!omap
+      - uniprot: P72973
   - !!omap
     - id: slr1598
     - name: slr1598
+    - annotation: !!omap
+      - uniprot: P72980
   - !!omap
     - id: slr1615
     - name: slr1615
+    - annotation: !!omap
+      - uniprot: P72893
   - !!omap
     - id: slr1616
     - name: slr1616
+    - annotation: !!omap
+      - uniprot: P72894
   - !!omap
     - id: slr1622
     - name: slr1622
+    - annotation: !!omap
+      - uniprot: P80507
   - !!omap
     - id: slr1623
     - name: slr1623
+    - annotation: !!omap
+      - uniprot: P74338
   - !!omap
     - id: slr1626
     - name: slr1626
+    - annotation: !!omap
+      - uniprot: P74342
   - !!omap
     - id: slr1643
     - name: slr1643
+    - annotation: !!omap
+      - uniprot: Q55318
   - !!omap
     - id: slr1645
     - name: slr1645
+    - annotation: !!omap
+      - uniprot: P74367
   - !!omap
     - id: slr1653
     - name: slr1653
+    - annotation: !!omap
+      - uniprot: P74654
   - !!omap
     - id: slr1655
     - name: slr1655
+    - annotation: !!omap
+      - uniprot: P37277
   - !!omap
     - id: slr1656
     - name: slr1656
+    - annotation: !!omap
+      - uniprot: P74657
   - !!omap
     - id: slr1665
     - name: slr1665
+    - annotation: !!omap
+      - uniprot: P74667
   - !!omap
     - id: slr1670
     - name: slr1670
+    - annotation: !!omap
+      - uniprot: P74259
   - !!omap
     - id: slr1672
     - name: slr1672
+    - annotation: !!omap
+      - uniprot: P74260
   - !!omap
     - id: slr1677
     - name: slr1677
+    - annotation: !!omap
+      - uniprot: P74265
   - !!omap
     - id: slr1679
     - name: slr1679
+    - annotation: !!omap
+      - uniprot: P74268
   - !!omap
     - id: slr1691
     - name: slr1691
+    - annotation: !!omap
+      - uniprot: P74292
   - !!omap
     - id: slr1710
     - name: slr1710
+    - annotation: !!omap
+      - uniprot: P73218
   - !!omap
     - id: slr1719
     - name: slr1719
+    - annotation: !!omap
+      - uniprot: Q55233
   - !!omap
     - id: slr1722
     - name: slr1722
+    - annotation: !!omap
+      - uniprot: P73853
   - !!omap
     - id: slr1727
     - name: slr1727
+    - annotation: !!omap
+      - uniprot: P73863
   - !!omap
     - id: slr1728
     - name: slr1728
+    - annotation: !!omap
+      - uniprot: P73866
   - !!omap
     - id: slr1729
     - name: slr1729
+    - annotation: !!omap
+      - uniprot: P73867
   - !!omap
     - id: slr1730
     - name: slr1730
+    - annotation: !!omap
+      - uniprot: P73869
   - !!omap
     - id: slr1731
     - name: slr1731
+    - annotation: !!omap
+      - uniprot: P73870
   - !!omap
     - id: slr1735
     - name: slr1735
+    - annotation: !!omap
+      - uniprot: P73721
   - !!omap
     - id: slr1736
     - name: slr1736
+    - annotation: !!omap
+      - uniprot: P73726
   - !!omap
     - id: slr1737
     - name: slr1737
+    - annotation: !!omap
+      - uniprot: P73727
   - !!omap
     - id: slr1739
     - name: slr1739
+    - annotation: !!omap
+      - uniprot: P73731
   - !!omap
     - id: slr1743
     - name: slr1743
+    - annotation: !!omap
+      - uniprot: P73735
   - !!omap
     - id: slr1746
     - name: slr1746
+    - annotation: !!omap
+      - uniprot: P73737
   - !!omap
     - id: slr1748
     - name: slr1748
+    - annotation: !!omap
+      - uniprot: P73454
   - !!omap
     - id: slr1755
     - name: slr1755
+    - annotation: !!omap
+      - uniprot: P73033
   - !!omap
     - id: slr1756
     - name: slr1756
+    - annotation: !!omap
+      - uniprot: P77961
   - !!omap
     - id: slr1762
     - name: slr1762
+    - annotation: !!omap
+      - uniprot: P73039
   - !!omap
     - id: slr1777
     - name: slr1777
+    - annotation: !!omap
+      - uniprot: P72772
   - !!omap
     - id: slr1779
     - name: slr1779
+    - annotation: !!omap
+      - uniprot: P72776
   - !!omap
     - id: slr1780
     - name: slr1780
+    - annotation: !!omap
+      - uniprot: P72777
   - !!omap
     - id: slr1784
     - name: slr1784
+    - annotation: !!omap
+      - uniprot: P72782
   - !!omap
     - id: slr1787
     - name: slr1787
+    - annotation: !!omap
+      - uniprot: P72787
   - !!omap
     - id: slr1790
     - name: slr1790
+    - annotation: !!omap
+      - uniprot: P72793
   - !!omap
     - id: slr1791
     - name: slr1791
+    - annotation: !!omap
+      - uniprot: P72794
   - !!omap
     - id: slr1793
     - name: slr1793
+    - annotation: !!omap
+      - uniprot: P72797
   - !!omap
     - id: slr1808
     - name: slr1808
+    - annotation: !!omap
+      - uniprot: P28463
   - !!omap
     - id: slr1829
     - name: slr1829
+    - annotation: !!omap
+      - uniprot: P73389
   - !!omap
     - id: slr1830
     - name: slr1830
+    - annotation: !!omap
+      - uniprot: P73390
   - !!omap
     - id: slr1834
     - name: slr1834
+    - annotation: !!omap
+      - uniprot: P29254
   - !!omap
     - id: slr1835
     - name: slr1835
+    - annotation: !!omap
+      - uniprot: P29255
   - !!omap
     - id: slr1840
     - name: slr1840
+    - annotation: !!omap
+      - uniprot: P73408
   - !!omap
     - id: slr1841
     - name: slr1841
+    - annotation: !!omap
+      - uniprot: P73409
   - !!omap
     - id: slr1842
     - name: slr1842
+    - annotation: !!omap
+      - uniprot: P73410
   - !!omap
     - id: slr1843
     - name: slr1843
+    - annotation: !!omap
+      - uniprot: P73411
   - !!omap
     - id: slr1848
     - name: slr1848
+    - annotation: !!omap
+      - uniprot: P73058
   - !!omap
     - id: slr1857
     - name: slr1857
+    - annotation: !!omap
+      - uniprot: P73608
   - !!omap
     - id: slr1867
     - name: slr1867
+    - annotation: !!omap
+      - uniprot: P73617
   - !!omap
     - id: slr1874
     - name: slr1874
+    - annotation: !!omap
+      - uniprot: P73632
   - !!omap
     - id: slr1879
     - name: slr1879
+    - annotation: !!omap
+      - uniprot: P73644
   - !!omap
     - id: slr1881
     - name: slr1881
+    - annotation: !!omap
+      - uniprot: P73650
   - !!omap
     - id: slr1882
     - name: slr1882
+    - annotation: !!omap
+      - uniprot: P73651
   - !!omap
     - id: slr1887
     - name: slr1887
+    - annotation: !!omap
+      - uniprot: P73660
   - !!omap
     - id: slr1898
     - name: slr1898
+    - annotation: !!omap
+      - uniprot: P73326
   - !!omap
     - id: slr1899
     - name: slr1899
+    - annotation: !!omap
+      - uniprot: P73327
   - !!omap
     - id: slr1908
     - name: slr1908
+    - annotation: !!omap
+      - uniprot: P73103
   - !!omap
     - id: slr1916
     - name: slr1916
+    - annotation: !!omap
+      - uniprot: P73114
   - !!omap
     - id: slr1923
     - name: slr1923
+    - annotation: !!omap
+      - uniprot: P74473
   - !!omap
     - id: slr1924
     - name: slr1924
+    - annotation: !!omap
+      - uniprot: P74474
   - !!omap
     - id: slr1925
     - name: slr1925
+    - annotation: !!omap
+      - uniprot: P74475
   - !!omap
     - id: slr1933
     - name: slr1933
+    - annotation: !!omap
+      - uniprot: P74488
   - !!omap
     - id: slr1934
     - name: slr1934
+    - annotation: !!omap
+      - uniprot: P74490
   - !!omap
     - id: slr1938
     - name: slr1938
+    - annotation: !!omap
+      - uniprot: P74497
   - !!omap
     - id: slr1945
     - name: slr1945
+    - annotation: !!omap
+      - uniprot: P74507
   - !!omap
     - id: slr1950
     - name: slr1950
+    - annotation: !!omap
+      - uniprot: P74512
   - !!omap
     - id: slr1978
     - name: slr1978
+    - annotation: !!omap
+      - uniprot: P74129
   - !!omap
     - id: slr1979
     - name: slr1979
+    - annotation: !!omap
+      - uniprot: P74130
   - !!omap
     - id: slr1991
     - name: slr1991
+    - annotation: !!omap
+      - uniprot: P73823
   - !!omap
     - id: slr1992
     - name: slr1992
+    - annotation: !!omap
+      - uniprot: P73824
   - !!omap
     - id: slr1993
     - name: slr1993
+    - annotation: !!omap
+      - uniprot: P73825
   - !!omap
     - id: slr1994
     - name: slr1994
+    - annotation: !!omap
+      - uniprot: P73826
   - !!omap
     - id: slr2001
     - name: slr2001
+    - annotation: !!omap
+      - uniprot: P73832
   - !!omap
     - id: slr2002
     - name: slr2002
+    - annotation: !!omap
+      - uniprot: P73833
   - !!omap
     - id: slr2007
     - name: slr2007
+    - annotation: !!omap
+      - uniprot: P73225
   - !!omap
     - id: slr2009
     - name: slr2009
+    - annotation: !!omap
+      - uniprot: P73227
   - !!omap
     - id: slr2023
     - name: slr2023
+    - annotation: !!omap
+      - uniprot: P73242
   - !!omap
     - id: slr2026
     - name: slr2026
+    - annotation: !!omap
+      - uniprot: P73248
   - !!omap
     - id: slr2034
     - name: slr2034
+    - annotation: !!omap
+      - uniprot: P73069
   - !!omap
     - id: slr2035
     - name: slr2035
+    - annotation: !!omap
+      - uniprot: P73071
   - !!omap
     - id: slr2043
     - name: slr2043
+    - annotation: !!omap
+      - uniprot: P73085
   - !!omap
     - id: slr2044
     - name: slr2044
+    - annotation: !!omap
+      - uniprot: P73086
   - !!omap
     - id: slr2045
     - name: slr2045
+    - annotation: !!omap
+      - uniprot: P73087
   - !!omap
     - id: slr2057
     - name: slr2057
+    - annotation: !!omap
+      - uniprot: P73809
   - !!omap
     - id: slr2060
     - name: slr2060
+    - annotation: !!omap
+      - uniprot: P73812
   - !!omap
     - id: slr2072
     - name: slr2072
+    - annotation: !!omap
+      - uniprot: P73375
   - !!omap
     - id: slr2074
     - name: slr2074
+    - annotation: !!omap
+      - uniprot: P73377
   - !!omap
     - id: slr2079
     - name: slr2079
+    - annotation: !!omap
+      - uniprot: P73903
   - !!omap
     - id: slr2081
     - name: slr2081
+    - annotation: !!omap
+      - uniprot: P73906
   - !!omap
     - id: slr2082
     - name: slr2082
+    - annotation: !!omap
+      - uniprot: P73907
   - !!omap
     - id: slr2083
     - name: slr2083
+    - annotation: !!omap
+      - uniprot: P73908
   - !!omap
     - id: slr2088
     - name: slr2088
+    - annotation: !!omap
+      - uniprot: P73913
   - !!omap
     - id: slr2089
     - name: slr2089
+    - annotation: !!omap
+      - uniprot: P73914
   - !!omap
     - id: slr2094
     - name: slr2094
+    - annotation: !!omap
+      - uniprot: P73922
   - !!omap
     - id: slr2123
     - name: slr2123
+    - annotation: !!omap
+      - uniprot: P73990
   - !!omap
     - id: slr2130
     - name: slr2130
+    - annotation: !!omap
+      - uniprot: P73997
   - !!omap
     - id: slr2132
     - name: slr2132
+    - annotation: !!omap
+      - uniprot: P73662
   - !!omap
     - id: slr2136
     - name: slr2136
+    - annotation: !!omap
+      - uniprot: P73672
   - !!omap
     - id: slr2141
     - name: slr2141
+    - annotation: !!omap
+      - uniprot: P73677
   - !!omap
     - id: slr5078
     - name: slr5078
+    - annotation: !!omap
+      - uniprot: Q6ZEQ2
   - !!omap
     - id: sml0001
     - name: sml0001
+    - annotation: !!omap
+      - uniprot: Q54697
   - !!omap
     - id: sml0002
     - name: sml0002
+    - annotation: !!omap
+      - uniprot: P72575
   - !!omap
     - id: sml0003
     - name: sml0003
+    - annotation: !!omap
+      - uniprot: P72701
   - !!omap
     - id: sml0004
     - name: sml0004
+    - annotation: !!omap
+      - uniprot: P72717
   - !!omap
     - id: sml0005
     - name: sml0005
+    - annotation: !!omap
+      - uniprot: P15819
   - !!omap
     - id: sml0007
     - name: sml0007
+    - annotation: !!omap
+      - uniprot: P73676
   - !!omap
     - id: sml0008
     - name: sml0008
+    - annotation: !!omap
+      - uniprot: Q55329
   - !!omap
     - id: smr0001
     - name: smr0001
+    - annotation: !!omap
+      - uniprot: P74787
   - !!omap
     - id: smr0003
     - name: smr0003
+    - annotation: !!omap
+      - uniprot: P74810
   - !!omap
     - id: smr0004
     - name: smr0004
+    - annotation: !!omap
+      - uniprot: Q55330
   - !!omap
     - id: smr0005
     - name: smr0005
+    - annotation: !!omap
+      - uniprot: P72986
   - !!omap
     - id: smr0006
     - name: smr0006
+    - annotation: !!omap
+      - uniprot: P09191
   - !!omap
     - id: smr0007
     - name: smr0007
+    - annotation: !!omap
+      - uniprot: Q55354
   - !!omap
     - id: smr0008
     - name: smr0008
+    - annotation: !!omap
+      - uniprot: P73070
   - !!omap
     - id: smr0009
     - name: smr0009
+    - annotation: !!omap
+      - uniprot: P26286
   - !!omap
     - id: smr0010
     - name: smr0010
+    - annotation: !!omap
+      - uniprot: P74149
   - !!omap
     - id: spontaneous
     - name: spontaneous
   - !!omap
     - id: ssl0352
     - name: ssl0352
+    - annotation: !!omap
+      - uniprot: P74795
   - !!omap
     - id: ssl0563
     - name: ssl0563
+    - annotation: !!omap
+      - uniprot: P32422
   - !!omap
     - id: ssl1690
     - name: ssl1690
+    - annotation: !!omap
+      - uniprot: P74771
   - !!omap
     - id: ssl2153
     - name: ssl2153
+    - annotation: !!omap
+      - uniprot: P74234
   - !!omap
     - id: ssl2598
     - name: ssl2598
+    - annotation: !!omap
+      - uniprot: P14835
   - !!omap
     - id: ssl2615
     - name: ssl2615
+    - annotation: !!omap
+      - uniprot: P27182
   - !!omap
     - id: ssl3803
     - name: ssl3803
   - !!omap
     - id: ssr0102
     - name: ssr0102
+    - annotation: !!omap
+      - uniprot: P72573
   - !!omap
     - id: ssr0330
     - name: ssr0330
+    - annotation: !!omap
+      - uniprot: Q55781
   - !!omap
     - id: ssr0390
     - name: ssr0390
+    - annotation: !!omap
+      - uniprot: P72712
   - !!omap
     - id: ssr1386
     - name: ssr1386
+    - annotation: !!omap
+      - uniprot: P27372
   - !!omap
     - id: ssr2016
     - name: ssr2016
+    - annotation: !!omap
+      - uniprot: P73358
   - !!omap
     - id: ssr2061
     - name: ssr2061
+    - annotation: !!omap
+      - uniprot: P73492
   - !!omap
     - id: ssr2831
     - name: ssr2831
+    - annotation: !!omap
+      - uniprot: P12975
   - !!omap
     - id: ssr3451
     - name: ssr3451
+    - annotation: !!omap
+      - uniprot: P09190
 - id: Synechocystis_PCC_6803
 - name: Synechocystis sp. PCC 6803
 - compartments: !!omap
