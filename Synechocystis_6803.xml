@@ -36,8 +36,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00085"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/f6p"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:15946"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107898"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM89629"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107898"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -222,8 +222,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/amylose"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:28102"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727735"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727731"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092566"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727731"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -313,8 +313,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05427"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/phdp"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:18187"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741280"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741281"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741280"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741282"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -338,8 +338,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C01929"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/histdnl"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:27676"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1093183"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM735455"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1093183"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -362,8 +362,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00070"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/cu2"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:28694"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731166"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731165"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731166"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -547,8 +547,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C19878"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/gmhep7p"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:43786"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM4551"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739658"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM4551"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -571,8 +571,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C06399"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/hgbyr"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:17926"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727803"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727804"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727803"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727805"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -642,8 +642,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C03516"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/mppp9"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:15431"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM732750"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM732748"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM732750"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -758,8 +758,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05430"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/zcarote"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:28068"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726185"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726184"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726185"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1038,8 +1038,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/pglyc_cho"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:17517"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM725994"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107660"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM725990"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107660"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1318,9 +1318,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C02967"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dna5mtc"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:17493"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729222"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729219"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729220"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729219"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729222"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1387,9 +1387,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C02987"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/glutrna"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:29157"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731032"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731035"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731043"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731032"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1412,9 +1412,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C03885"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/3nphb"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:18162"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733461"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1091859"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733462"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733461"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1621,8 +1621,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C02741"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/prbamp"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:18374"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729422"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729421"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729422"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -2103,9 +2103,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00269"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/cdpdag_cho"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:17962"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1104246"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM732258"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1104247"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM732258"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1104246"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -2496,8 +2496,8 @@
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dialurate"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:76452"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092884"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1100704"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092884"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -2520,8 +2520,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05745"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/butACP"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:3247"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728732"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM90458"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728732"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -2818,8 +2818,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C06310"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dptne"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:4648"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM736510"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM736512"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM736510"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -3001,8 +3001,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C04145"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/npdp"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:18144"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741170"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1093442"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741170"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -3892,8 +3892,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05748"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/thex2eACP"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:10727"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728713"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728714"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728713"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -3918,8 +3918,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:29032"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:46905"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:7916"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM734864"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM734865"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM734864"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -4081,8 +4081,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C16161"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/octe_9_12_15_ACP"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:80358"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM147025"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM41472"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM147025"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -4129,8 +4129,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dnac"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:16991"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726895"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726892"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM634"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726892"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -4176,8 +4176,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05753"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/3odecACP"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:1634"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728592"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728594"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728592"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -4524,8 +4524,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C04874"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dhnpt"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:17001"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM730301"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM730300"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM730301"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -4617,8 +4617,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C15672"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/hemeO"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:36301"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107744"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107745"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107744"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -4752,8 +4752,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C04332"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dmlz"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:17601"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107754"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107755"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107754"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -5004,8 +5004,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05762"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/3opalmACP"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:1639"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728601"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728600"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728601"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -5120,8 +5120,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05925"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dhpmp"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:48954"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107940"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107941"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107940"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -5143,8 +5143,8 @@
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C15812"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/enz_S"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092953"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM3891"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092953"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -5167,8 +5167,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05898"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/uaagmda"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:28138"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739669"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739668"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739669"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -5535,8 +5535,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05431"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/neuspn"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:16833"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727029"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727028"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727029"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -5606,9 +5606,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C06503"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/hgbam"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:27914"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726057"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726059"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726058"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726057"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -5724,8 +5724,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00103"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/g1p"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:16077"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1106068"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1106065"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1106068"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -5814,8 +5814,8 @@
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C04619"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/3hdecACP"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728728"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728730"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728728"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -5861,9 +5861,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C06408"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/pre8"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:28629"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729938"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729940"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729939"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729938"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -5931,8 +5931,8 @@
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C01203"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/octeacp"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1093482"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728703"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1093482"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -6208,9 +6208,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C06704"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/feche"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:5975"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726783"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092974"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726781"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726783"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -6372,8 +6372,8 @@
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C20377"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/hpmeACP"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM725917"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM725915"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM725917"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -6903,8 +6903,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C06505"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/co1dam"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:28531"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741370"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741369"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741370"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7156,9 +7156,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00095"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/fru"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:15824"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729621"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729613"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1105810"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729621"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7296,8 +7296,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C04574"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dtpcudcpp"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:18197"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107137"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1137674"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107137"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7528,8 +7528,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C02880"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/pchlld"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:16673"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM738918"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM738915"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM738918"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7700,8 +7700,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05756"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/3oddecACP"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:1637"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728597"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728596"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728597"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7793,8 +7793,8 @@
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C20378"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/epmeACP"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727025"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727023"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727025"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7863,8 +7863,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00070"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/cu2"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:28694"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731166"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731165"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731166"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7957,8 +7957,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C17556"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/udcpp"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:60468"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM89653"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733031"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM89653"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8095,8 +8095,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C16520"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/hdeceACP"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:80547"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1093141"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM997"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1093141"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8120,8 +8120,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/3hmop"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:34008"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:49257"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1105131"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1101302"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1105131"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8167,9 +8167,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C04881"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/abdmagdpu"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:16073"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092496"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM2843"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM587383"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092496"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8285,8 +8285,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05898"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/uaagmda"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:28138"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739669"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739668"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739669"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8514,8 +8514,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C20638"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/gdpper"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:74045"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1093021"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM18025"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1093021"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9067,8 +9067,8 @@
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dialurate"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:76452"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092884"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1100704"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092884"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9091,8 +9091,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C19769"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/anhm"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:40666"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM90585"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM2453"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM90585"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9368,8 +9368,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C04574"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dtpcudcpp"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:18197"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107137"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1137674"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107137"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9622,8 +9622,8 @@
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dialurate"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:76452"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092884"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1100704"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092884"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9901,8 +9901,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C01077"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/achms"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:16288"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739517"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739518"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739517"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10083,8 +10083,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00275"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/man6p"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:17369"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM735950"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1105857"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM735950"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10199,8 +10199,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C11638"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/3a2oprop"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:1449"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1213"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1091747"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1213"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10270,8 +10270,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C02483"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/gtocophe"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:18185"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733036"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733034"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733036"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10361,8 +10361,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C06504"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/co2dam"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:27937"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741313"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741311"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741313"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10755,8 +10755,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/2m6phol"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:75406"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:75920"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM480605"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM3160"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM480605"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11080,8 +11080,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00416"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/pa_EC"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:16337"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729312"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729315"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729312"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1107826"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -11377,8 +11377,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00342"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/trdrd"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:15967"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM155"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741334"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM155"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11424,8 +11424,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05414"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/phytof"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:28129"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM147288"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM732446"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM147288"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11495,8 +11495,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/citac"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:17626"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:30719"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727487"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727489"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727487"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11840,8 +11840,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/prbatp"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:18263"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728132"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728134"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728133"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728134"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12000,8 +12000,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C06143"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/phb"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:8295"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739390"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1093961"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739390"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12091,9 +12091,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05746"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/3ohexACP"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:3247"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728732"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728605"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728604"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728732"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12116,8 +12116,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05752"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/ocACP"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:7725"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM90185"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM728538"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM90185"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12232,8 +12232,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00070"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/cu2"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:28694"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731166"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731165"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731166"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12392,8 +12392,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05786"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/phycynbn"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:15617"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733826"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1094004"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733826"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733825"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -13322,8 +13322,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C16220"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/3hoctaACP"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:80387"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM735180"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM735182"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM735180"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM735181"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -13370,8 +13370,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00118"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/g3p"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:29052"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739945"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739946"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM739945"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13394,8 +13394,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00501"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/cdpglc"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:35242"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731662"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731663"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731662"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13464,8 +13464,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C03939"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/acACP"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:17093"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727673"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727672"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727673"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13628,8 +13628,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C04425"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/amob"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:8944"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733831"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733832"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733831"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13790,8 +13790,8 @@
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C19846"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/pmeACP"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727683"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727682"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727683"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13932,8 +13932,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/accp"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:2777"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092508"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729232"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729228"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729232"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13956,8 +13956,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00692"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/uamag"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:16970"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741611"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741612"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741611"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14095,8 +14095,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C06032"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/r3mmal"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:27394"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM725944"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM725945"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM725944"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14119,8 +14119,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C10517"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/glcglycp"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:16720"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM2324"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM163152"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM2324"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14258,8 +14258,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C20247"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/cthzp"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:62912"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092737"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM4961"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092737"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14690,9 +14690,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C06319"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/pre6b"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:27858"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729284"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729283"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729285"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729284"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14715,8 +14715,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00117"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/r5p"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:17797"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1104056"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729957"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1104056"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14763,8 +14763,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05897"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/uagmda"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:28214"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM88514"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM732761"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM88514"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM732762"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -14811,9 +14811,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C06704"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/feche"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:5975"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726783"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092974"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726781"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726783"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14902,8 +14902,8 @@
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C20372"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/skgmeACP"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM725935"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1094120"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM725935"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14995,9 +14995,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C06704"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/feche"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:5975"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726783"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092974"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726781"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM726783"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15021,9 +15021,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dtdpgal"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:14086"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:15848"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092929"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1105950"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM731236"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1092929"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15071,9 +15071,9 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C07335"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/2a3o4pob"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:16273"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM478474"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1091685"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1979"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1091685"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM478474"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15329,8 +15329,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C16698"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/acmum6p"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:47968"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729216"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1104008"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM729216"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15603,8 +15603,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C04652"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/u23ga"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:17787"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727269"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM722355"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727269"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15830,8 +15830,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05754"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/tdec2eACP"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:10724"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733432"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733433"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM733432"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15923,8 +15923,8 @@
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C16237"/>
                   <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:80399"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741251"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741247"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM741251"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15969,8 +15969,8 @@
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C19845"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/pimACP"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727687"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727686"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM727687"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16387,6 +16387,7 @@
           </rdf:RDF>
         </annotation>
       </species>
+      <species metaid="meta_M_bm_glycogen_c" sboTerm="SBO:0000247" id="M_bm_glycogen_c" name="Glycogen component of biomass_cyt" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="R"/>
       <species metaid="meta_M_glcn_c" sboTerm="SBO:0000247" id="M_glcn_c" name="D-Gluconate" compartment="cyt" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H11O7">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -17306,8 +17307,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/ZCAROTDH2"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.3.5.6"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04800"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR105275"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR109125"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR105275"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17379,8 +17380,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/USHD"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/3.6.1.54"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04549"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146734"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146733"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146734"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18061,8 +18062,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/ACOATA"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.3.1.180"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R01624"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152846"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152847"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152846"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18128,8 +18129,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/PAPPT3"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.7.8.13"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R05630"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145901"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR109725"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145901"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18494,8 +18495,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/ERTHMMOR"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.1.1.85"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R00994"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR156181"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR106779"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR156181"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18673,8 +18674,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/MALCOAM"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.1.1.197"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R09543"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR150555"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR159536"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR150555"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18805,8 +18806,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/CHPHYS"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.62"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R06284"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192198"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR153193"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192198"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19071,8 +19072,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/TRDR"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.8.1.9"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R02016"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146526"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146527"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146526"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19214,8 +19215,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/DHORD3um"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.3.5.2"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R01868"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR155810"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR107211"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR155810"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19248,8 +19249,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/3HAD120"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/4.2.1.59"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04965"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152620"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152621"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152620"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19641,8 +19642,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/SUCBZS"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/4.2.1.113"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04031"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR148516"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR148517"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR148516"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20034,8 +20035,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/TOCOPHS1"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/5.5.1.24"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R07502"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146508"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146509"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146508"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20334,8 +20335,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/RBFSb"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.9"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R00066"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192030"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192029"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192030"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21200,8 +21201,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/3OAR100"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.1.1.100"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04534"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152653"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152654"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152653"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21274,8 +21275,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/EAR60y"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.3.1.10"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04956"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR97866"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR149057"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR97866"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -21726,8 +21727,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/TKT1"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.2.1.1"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R01641"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR104868"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152015"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR104868"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22031,8 +22032,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/KARI_1"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.1.1.86"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R05069"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR191966"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145322"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR191966"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22385,8 +22386,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/AHMMPDPT"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.7.4.7"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04509"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR154509"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR103045"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR154509"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -22593,8 +22594,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/COCHL"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/6.6.1.2"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R05227"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151667"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151668"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151667"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -23355,8 +23356,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/GLGC"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.7.7.27"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R00948"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145051"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145050"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145051"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24012,8 +24013,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/KARI_23dhmp_1"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.1.1.86"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R05068"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR188296"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR188295"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR188296"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24510,8 +24511,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/3OAR60"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.1.1.100"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04953"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152674"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152675"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152674"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24606,7 +24607,7 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_TALA" sboTerm="SBO:0000402" id="R_TALA" name="PP0010" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
+      <reaction metaid="meta_R_TALA" sboTerm="SBO:0000399" id="R_TALA" name="PP0010" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>GENE_ASSOCIATION: (slr1793)</p>
@@ -24619,9 +24620,9 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/TALA"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.2.1.2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R08575"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR112107"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ec-code/4.1.1.39"/>
+                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R00024"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR191185"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146501"/>
                 </rdf:Bag>
               </bqbiol:is>
@@ -24932,8 +24933,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/LPADSS"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.4.1.182"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04606"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145456"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145455"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145456"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25242,8 +25243,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/UDCPDPS"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.31"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R06447"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR195388"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR195387"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR195388"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25308,8 +25309,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/GRDPTT5"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.85"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R09251"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR112686"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR157911"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR112686"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25429,8 +25430,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/PC11M"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.1.1.133"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R05181"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151725"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151726"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151725"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25498,8 +25499,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/3HAD160"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/4.2.1.59"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04544"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152628"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152627"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152628"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -25938,8 +25939,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/PKETX"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/4.1.2.22"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R01621"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR107093"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR160833"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR107093"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26013,8 +26014,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/TPI"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/5.3.1.1"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R01015"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146573"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146574"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146573"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26074,8 +26075,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/PC6YM"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.1.1.132"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R05149"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR149154"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR149153"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR149154"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26384,8 +26385,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/KAS14"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.3.1.179"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04355"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145325"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145324"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145325"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26525,8 +26526,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/ATPPRT"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.4.2.17"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R01071"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR153056"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR153057"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR153056"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26594,8 +26595,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/EPMEACPR"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.3.1.10"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R10122"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR153458"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR153459"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR153458"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -26629,8 +26630,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/AHSERL2_1"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.49"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R01287"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152923"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152924"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152923"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -28922,8 +28923,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/ACM6PH"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/4.2.1.126"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R08555"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151353"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151354"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151353"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -29189,8 +29190,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/MPOMT"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.1.1.11"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04237"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145698"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145699"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145698"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -29375,8 +29376,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/DNAMTn2r"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.1.1.37"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04858"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR153382"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR190210"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR153382"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -29756,8 +29757,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/UHGADA"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/3.5.1.108"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04587"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192046"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192044"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192046"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -30026,8 +30027,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/AMAOTr"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.6.1.62"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R03231"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152975"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152974"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152975"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -30244,8 +30245,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/3HAD100"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/4.2.1.59"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04535"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152618"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152617"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152618"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -30373,7 +30374,6 @@
           <speciesReference species="M_bm_pro_c" stoichiometry="0.51" constant="true"/>
           <speciesReference species="M_bm_pigm_c" stoichiometry="0.0244" constant="true"/>
           <speciesReference species="M_bm_sol_c" stoichiometry="0.029" constant="true"/>
-          <speciesReference species="M_glycogen_c" stoichiometry="0.21031" constant="true"/>
           <speciesReference species="M_bm_ion_c" stoichiometry="0.01" constant="true"/>
           <speciesReference species="M_bm_rna_c" stoichiometry="0.17" constant="true"/>
           <speciesReference species="M_bm_memlip_c" stoichiometry="0.12" constant="true"/>
@@ -30381,6 +30381,7 @@
           <speciesReference species="M_atp_c" stoichiometry="53.35" constant="true"/>
           <speciesReference species="M_h2o_c" stoichiometry="53.35" constant="true"/>
           <speciesReference species="M_bm_dna_c" stoichiometry="0.031" constant="true"/>
+          <speciesReference species="M_bm_glycogen_c" stoichiometry="0.0341" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_biomass_e" stoichiometry="1" constant="true"/>
@@ -30485,8 +30486,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/HGPHT"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.115"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R07500"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145202"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145201"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145202"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -31197,8 +31198,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/RNDR3"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.17.4.1"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R02024"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146327"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146326"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146327"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -31364,8 +31365,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/GALUi"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.7.7.9"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R00289"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152165"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152166"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152165"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -32637,8 +32638,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/TOCOPHOM1"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.1.1.95"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R07236"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146571"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146572"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146571"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -32671,8 +32672,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/DDPGA"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/4.1.3.16"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R00471"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146938"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146939"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146938"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -32845,8 +32846,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/3OAR120"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.1.1.100"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04964"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152657"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152658"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152657"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -32986,8 +32987,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/MALACPD"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.3.1.179"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R10115"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR159535"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR150749"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR159535"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -33193,8 +33194,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/3HAD80"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/4.2.1.59"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04537"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152640"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152639"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152640"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -33544,8 +33545,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/EAR40y"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.3.1.10"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04430"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR97864"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR148727"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR97864"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -33776,8 +33777,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/NPDPS"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.84"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R09250"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR112685"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR157912"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR112685"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -33913,8 +33914,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/GLUTRS"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/6.1.1.17"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R05578"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145081"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145080"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145081"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -34725,8 +34726,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/3OAR40_2"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.1.1.100"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04533"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152672"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152671"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152672"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -34899,8 +34900,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/TRPS1"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/4.2.1.20"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R02722"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146414"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146413"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146414"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -35020,8 +35021,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/DNTPPA_1"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/3.6.1.-"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04638"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192418"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192419"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192418"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -35256,8 +35257,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/3HAD140"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/4.2.1.59"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04568"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152623"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152624"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR152623"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -35530,8 +35531,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/3OAS100"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.3.1.179"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04960"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR94954"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR149070"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR94954"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -36210,8 +36211,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/3OAS140"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.3.1.179"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04726"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR148950"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR94957"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR148950"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -37699,8 +37700,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/RBFSa"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.78"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04457"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192628"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192629"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR192628"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -38016,8 +38017,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/DHNPA2r"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/4.1.2.25"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R03504"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151401"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151400"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151401"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -38722,8 +38723,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/3OAS60"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.3.1.179"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04952"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR94963"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR149050"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR94963"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -39037,8 +39038,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/MPOMOR"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/1.14.13.81"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R06267"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145689"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145688"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145689"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -39342,8 +39343,8 @@
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/PDX5PSb"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R07406"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR160477"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR111054"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR160477"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -39455,8 +39456,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/CYRDAAT"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.17"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R05220"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR96982"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR149175"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR96982"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -39557,8 +39558,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/CITCIa"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/4.2.1.35"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R03896"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR148444"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR96729"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR148444"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -40425,8 +40426,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/PHYTES"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.32"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R02065"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146007"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146006"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146007"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -40699,8 +40700,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/PC8XM"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/5.4.99.61"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R05177"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151730"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151731"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR151730"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -41192,8 +41193,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/U23GAAT"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.3.1.191"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04550"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146622"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146621"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR146622"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -41277,42 +41278,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_slr1179"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_PP0011" sboTerm="SBO:0000399" id="R_PP0011" name="PP0011" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE_ASSOCIATION: (slr0009) and (slr0012)</p>
-          </html>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_PP0011">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/4.1.1.39"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R00024"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR191185"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_h2o_cx" stoichiometry="0.97" constant="true"/>
-          <speciesReference species="M_o2_cx" stoichiometry="0.03" constant="true"/>
-          <speciesReference species="M_rb15bp_cx" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_co2_cx" stoichiometry="0.97" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_3pg_cx" stoichiometry="1.97" constant="true"/>
-          <speciesReference species="M_2pglyc_cx" stoichiometry="0.03" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_slr0009"/>
-            <fbc:geneProductRef fbc:geneProduct="G_slr0012"/>
-          </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_DHAD2" sboTerm="SBO:0000178" id="R_DHAD2" name="IL0008" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -41980,8 +41945,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/LYCOPC"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/5.5.1.19"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R05341"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145426"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145425"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145426"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -42786,8 +42751,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/MMS"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.3.1.182"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R07399"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR159700"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR149906"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR159700"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -42931,8 +42896,8 @@
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/HEX7_1"/>
                   <rdf:li rdf:resource="https://identifiers.org/ec-code/2.7.1.4"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R00760"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR106668"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR145194"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR106668"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -43722,6 +43687,58 @@
             <fbc:geneProductRef fbc:geneProduct="G_sll1370"/>
           </fbc:or>
         </fbc:geneProductAssociation>
+      </reaction>
+      <reaction metaid="meta_R_RBPC" sboTerm="SBO:0000176" id="R_RBPC" name="RuBisCO Carboxylase" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_R_RBPC">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/RBPC"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR191184"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="M_co2_cx" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h2o_cx" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_rb15bp_cx" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_3pg_cx" stoichiometry="2" constant="true"/>
+        </listOfProducts>
+      </reaction>
+      <reaction metaid="meta_R_RBCh" sboTerm="SBO:0000176" id="R_RBCh" name="RuBisCO Oxygenase" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_R_RBCh">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/RBCh"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR191182"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="M_o2_cx" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_rb15bp_cx" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_3pg_cx" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_2pglyc_cx" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+      </reaction>
+      <reaction metaid="meta_R_BM0010" sboTerm="SBO:0000629" id="R_BM0010" name="Glycogen component of biomass reaction" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
+        <listOfReactants>
+          <speciesReference species="M_glycogen_c" stoichiometry="6.1674780058651" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_bm_glycogen_c" stoichiometry="1" constant="true"/>
+        </listOfProducts>
       </reaction>
       <reaction metaid="meta_R_GDH" sboTerm="SBO:0000176" id="R_GDH" name="glucose dehydrogenase" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
