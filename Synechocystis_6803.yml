@@ -145,8 +145,8 @@
       - chebi: CHEBI:75407
       - kegg.compound: C15883
       - metanetx.chemical:
-        - MNXM468646
         - MNXM4266
+        - MNXM468646
       - sbo: SBO:0000247
   - !!omap
     - id: 25aics_c
@@ -229,9 +229,9 @@
       - chebi: CHEBI:16273
       - kegg.compound: C07335
       - metanetx.chemical:
-        - MNXM1979
         - MNXM1091685
         - MNXM478474
+        - MNXM1979
       - sbo: SBO:0000247
   - !!omap
     - id: 2ahbut_c
@@ -382,8 +382,8 @@
         - CHEBI:75920
       - kegg.compound: C15882
       - metanetx.chemical:
-        - MNXM3160
         - MNXM480605
+        - MNXM3160
       - sbo: SBO:0000247
   - !!omap
     - id: 2m6solbzq_c
@@ -466,8 +466,8 @@
       - chebi: CHEBI:15586
       - kegg.compound: C02612
       - metanetx.chemical:
-        - MNXM1091719
         - MNXM1107724
+        - MNXM1091719
       - sbo: SBO:0000247
   - !!omap
     - id: 2obut_c
@@ -782,8 +782,8 @@
       - bigg.metabolite: 3hdecACP
       - kegg.compound: C04619
       - metanetx.chemical:
-        - MNXM728730
         - MNXM728728
+        - MNXM728730
       - sbo: SBO:0000247
   - !!omap
     - id: 3hechin_c
@@ -800,8 +800,8 @@
       - chebi: CHEBI:80215
       - kegg.compound: C15966
       - metanetx.chemical:
-        - MNXM734801
         - MNXM1091783
+        - MNXM734801
       - sbo: SBO:0000247
   - !!omap
     - id: 3hhexACP_c
@@ -818,8 +818,8 @@
       - chebi: CHEBI:326
       - kegg.compound: C05747
       - metanetx.chemical:
-        - MNXM733048
         - MNXM733049
+        - MNXM733048
       - sbo: SBO:0000247
   - !!omap
     - id: 3hmop_c
@@ -888,8 +888,8 @@
       - chebi: CHEBI:80387
       - kegg.compound: C16220
       - metanetx.chemical:
-        - MNXM735182
         - MNXM735180
+        - MNXM735182
         - MNXM735181
       - sbo: SBO:0000247
   - !!omap
@@ -977,8 +977,8 @@
       - kegg.compound: C03885
       - metanetx.chemical:
         - MNXM1091859
-        - MNXM733462
         - MNXM733461
+        - MNXM733462
       - sbo: SBO:0000247
   - !!omap
     - id: 3oddecACP_c
@@ -1013,8 +1013,8 @@
       - chebi: CHEBI:1634
       - kegg.compound: C05753
       - metanetx.chemical:
-        - MNXM728594
         - MNXM728592
+        - MNXM728594
       - sbo: SBO:0000247
   - !!omap
     - id: 3ohexACP_c
@@ -1032,8 +1032,8 @@
       - kegg.compound: C05746
       - metanetx.chemical:
         - MNXM728605
-        - MNXM728604
         - MNXM728732
+        - MNXM728604
       - sbo: SBO:0000247
   - !!omap
     - id: 3omrsACP_c
@@ -1086,8 +1086,8 @@
       - chebi: CHEBI:1639
       - kegg.compound: C05762
       - metanetx.chemical:
-        - MNXM728600
         - MNXM728601
+        - MNXM728600
       - sbo: SBO:0000247
   - !!omap
     - id: 3oxocdacp_c
@@ -1104,8 +1104,8 @@
       - chebi: CHEBI:80386
       - kegg.compound: C16219
       - metanetx.chemical:
-        - MNXM1091931
         - MNXM725968
+        - MNXM1091931
       - sbo: SBO:0000247
   - !!omap
     - id: 3pg_c
@@ -1286,8 +1286,8 @@
       - chebi: CHEBI:4083
       - kegg.compound: C05946
       - metanetx.chemical:
-        - MNXM1106168
         - MNXM894
+        - MNXM1106168
       - sbo: SBO:0000247
   - !!omap
     - id: 4hbz_c
@@ -1527,8 +1527,8 @@
       - bigg.metabolite: 5drib
       - chebi: CHEBI:62012
       - metanetx.chemical:
-        - MNXM736134
         - MNXM1108220
+        - MNXM736134
       - sbo: SBO:0000247
   - !!omap
     - id: 5drib_e
@@ -1544,8 +1544,8 @@
       - bigg.metabolite: 5drib
       - chebi: CHEBI:62012
       - metanetx.chemical:
-        - MNXM736134
         - MNXM1108220
+        - MNXM736134
       - sbo: SBO:0000247
   - !!omap
     - id: 5drib_p
@@ -1561,8 +1561,8 @@
       - bigg.metabolite: 5drib
       - chebi: CHEBI:62012
       - metanetx.chemical:
-        - MNXM736134
         - MNXM1108220
+        - MNXM736134
       - sbo: SBO:0000247
   - !!omap
     - id: 5g2oxpt_c
@@ -2067,8 +2067,8 @@
       - chebi: CHEBI:16073
       - kegg.compound: C04881
       - metanetx.chemical:
-        - MNXM1092496
         - MNXM2843
+        - MNXM1092496
         - MNXM587383
       - sbo: SBO:0000247
   - !!omap
@@ -2086,8 +2086,8 @@
       - chebi: CHEBI:17093
       - kegg.compound: C03939
       - metanetx.chemical:
-        - MNXM727672
         - MNXM727673
+        - MNXM727672
       - sbo: SBO:0000247
   - !!omap
     - id: ac_c
@@ -2153,8 +2153,8 @@
       - kegg.compound: C06249
       - metanetx.chemical:
         - MNXM1092508
-        - MNXM729228
         - MNXM729232
+        - MNXM729228
       - sbo: SBO:0000247
   - !!omap
     - id: acg5p_c
@@ -2742,8 +2742,8 @@
       - chebi: CHEBI:8944
       - kegg.compound: C04425
       - metanetx.chemical:
-        - MNXM733832
         - MNXM733831
+        - MNXM733832
       - sbo: SBO:0000247
   - !!omap
     - id: amp_c
@@ -2776,9 +2776,9 @@
       - chebi: CHEBI:28102
       - kegg.compound: C00718
       - metanetx.chemical:
-        - MNXM727735
-        - MNXM1092566
         - MNXM727731
+        - MNXM1092566
+        - MNXM727735
       - sbo: SBO:0000247
   - !!omap
     - id: anhm_c
@@ -2795,8 +2795,8 @@
       - chebi: CHEBI:40666
       - kegg.compound: C19769
       - metanetx.chemical:
-        - MNXM2453
         - MNXM90585
+        - MNXM2453
       - sbo: SBO:0000247
   - !!omap
     - id: anth_c
@@ -3249,8 +3249,8 @@
       - bigg.metabolite: but2eACP
       - kegg.compound: C04246
       - metanetx.chemical:
-        - MNXM728706
         - MNXM728705
+        - MNXM728706
       - sbo: SBO:0000247
   - !!omap
     - id: butACP_c
@@ -3267,8 +3267,8 @@
       - chebi: CHEBI:3247
       - kegg.compound: C05745
       - metanetx.chemical:
-        - MNXM90458
         - MNXM728732
+        - MNXM90458
       - sbo: SBO:0000247
   - !!omap
     - id: bvite_c
@@ -3461,9 +3461,9 @@
       - chebi: CHEBI:17962
       - kegg.compound: C00269
       - metanetx.chemical:
-        - MNXM1104247
-        - MNXM732258
         - MNXM1104246
+        - MNXM732258
+        - MNXM1104247
       - sbo: SBO:0000247
   - !!omap
     - id: cdpglc_c
@@ -3480,8 +3480,8 @@
       - chebi: CHEBI:35242
       - kegg.compound: C00501
       - metanetx.chemical:
-        - MNXM731663
         - MNXM731662
+        - MNXM731663
       - sbo: SBO:0000247
   - !!omap
     - id: cgly_c
@@ -3514,8 +3514,8 @@
       - chebi: CHEBI:16900
       - kegg.compound: C02139
       - metanetx.chemical:
-        - MNXM1108183
         - MNXM735405
+        - MNXM1108183
       - sbo: SBO:0000247
   - !!omap
     - id: cholphya_c
@@ -3584,8 +3584,8 @@
         - CHEBI:30719
       - kegg.compound: C02226
       - metanetx.chemical:
-        - MNXM727489
         - MNXM727487
+        - MNXM727489
       - sbo: SBO:0000247
   - !!omap
     - id: citr__L_c
@@ -3716,8 +3716,8 @@
       - chebi: CHEBI:27937
       - kegg.compound: C06504
       - metanetx.chemical:
-        - MNXM741311
         - MNXM741313
+        - MNXM741311
       - sbo: SBO:0000247
   - !!omap
     - id: co_c
@@ -3888,8 +3888,8 @@
       - chebi: CHEBI:62912
       - kegg.compound: C20247
       - metanetx.chemical:
-        - MNXM4961
         - MNXM1092737
+        - MNXM4961
       - sbo: SBO:0000247
   - !!omap
     - id: ctp_c
@@ -3975,8 +3975,8 @@
       - bigg.metabolite: cyanphy
       - chebi: CHEBI:65319
       - metanetx.chemical:
-        - MNXM124056
         - MNXM147456
+        - MNXM124056
       - sbo: SBO:0000247
   - !!omap
     - id: cynt_c
@@ -4155,8 +4155,8 @@
       - chebi: CHEBI:4349
       - kegg.compound: C05755
       - metanetx.chemical:
-        - MNXM728616
         - MNXM90236
+        - MNXM728616
       - sbo: SBO:0000247
   - !!omap
     - id: dcamp_c
@@ -4415,8 +4415,8 @@
       - chebi: CHEBI:48954
       - kegg.compound: C05925
       - metanetx.chemical:
-        - MNXM1107941
         - MNXM1107940
+        - MNXM1107941
       - sbo: SBO:0000247
   - !!omap
     - id: dhpt_c
@@ -4448,8 +4448,8 @@
       - bigg.metabolite: dialurate
       - chebi: CHEBI:76452
       - metanetx.chemical:
-        - MNXM1100704
         - MNXM1092884
+        - MNXM1100704
       - sbo: SBO:0000247
   - !!omap
     - id: dialurate_e
@@ -4465,8 +4465,8 @@
       - bigg.metabolite: dialurate
       - chebi: CHEBI:76452
       - metanetx.chemical:
-        - MNXM1100704
         - MNXM1092884
+        - MNXM1100704
       - sbo: SBO:0000247
   - !!omap
     - id: dialurate_p
@@ -4482,8 +4482,8 @@
       - bigg.metabolite: dialurate
       - chebi: CHEBI:76452
       - metanetx.chemical:
-        - MNXM1100704
         - MNXM1092884
+        - MNXM1100704
       - sbo: SBO:0000247
   - !!omap
     - id: dmbzid_c
@@ -4516,8 +4516,8 @@
       - chebi: CHEBI:17601
       - kegg.compound: C04332
       - metanetx.chemical:
-        - MNXM1107755
         - MNXM1107754
+        - MNXM1107755
       - sbo: SBO:0000247
   - !!omap
     - id: dmpp_c
@@ -4566,9 +4566,9 @@
       - chebi: CHEBI:17493
       - kegg.compound: C02967
       - metanetx.chemical:
-        - MNXM729220
-        - MNXM729219
         - MNXM729222
+        - MNXM729219
+        - MNXM729220
       - sbo: SBO:0000247
   - !!omap
     - id: dnac_c
@@ -4585,8 +4585,8 @@
       - chebi: CHEBI:16991
       - kegg.compound: C00856
       - metanetx.chemical:
-        - MNXM726895
         - MNXM634
+        - MNXM726895
         - MNXM726892
       - sbo: SBO:0000247
   - !!omap
@@ -4636,8 +4636,8 @@
       - chebi: CHEBI:36484
       - kegg.compound: C06309
       - metanetx.chemical:
-        - MNXM736513
         - MNXM736515
+        - MNXM736513
       - sbo: SBO:0000247
   - !!omap
     - id: dptne_c
@@ -4654,8 +4654,8 @@
       - chebi: CHEBI:4648
       - kegg.compound: C06310
       - metanetx.chemical:
-        - MNXM736512
         - MNXM736510
+        - MNXM736512
       - sbo: SBO:0000247
   - !!omap
     - id: dscl_c
@@ -4672,8 +4672,8 @@
       - chebi: CHEBI:50602
       - kegg.compound: C02463
       - metanetx.chemical:
-        - MNXM739345
         - MNXM739346
+        - MNXM739345
       - sbo: SBO:0000247
   - !!omap
     - id: dtbt_c
@@ -4756,8 +4756,8 @@
         - CHEBI:15848
       - kegg.compound: C02097
       - metanetx.chemical:
-        - MNXM1092929
         - MNXM1105950
+        - MNXM1092929
         - MNXM731236
       - sbo: SBO:0000247
   - !!omap
@@ -5114,8 +5114,8 @@
       - bigg.metabolite: enz
       - kegg.compound: C15811
       - metanetx.chemical:
-        - MNXM96100
         - MNXM1092952
+        - MNXM96100
       - sbo: SBO:0000247
   - !!omap
     - id: epmeACP_c
@@ -5131,8 +5131,8 @@
       - bigg.metabolite: epmeACP
       - kegg.compound: C20378
       - metanetx.chemical:
-        - MNXM727023
         - MNXM727025
+        - MNXM727023
       - sbo: SBO:0000247
   - !!omap
     - id: etoh_c
@@ -5165,8 +5165,8 @@
       - chebi: CHEBI:15946
       - kegg.compound: C00085
       - metanetx.chemical:
-        - MNXM89629
         - MNXM1107898
+        - MNXM89629
       - sbo: SBO:0000247
   - !!omap
     - id: fad_c
@@ -5214,8 +5214,8 @@
       - chebi: CHEBI:16905
       - kegg.compound: C00354
       - metanetx.chemical:
-        - MNXM1106095
         - MNXM500
+        - MNXM1106095
       - sbo: SBO:0000247
   - !!omap
     - id: fdxo_2_2_c
@@ -5529,8 +5529,8 @@
       - chebi: CHEBI:15824
       - kegg.compound: C00095
       - metanetx.chemical:
-        - MNXM729613
         - MNXM1105810
+        - MNXM729613
         - MNXM729621
       - sbo: SBO:0000247
   - !!omap
@@ -5564,8 +5564,8 @@
       - chebi: CHEBI:16077
       - kegg.compound: C00103
       - metanetx.chemical:
-        - MNXM1106065
         - MNXM1106068
+        - MNXM1106065
       - sbo: SBO:0000247
   - !!omap
     - id: g3p_c
@@ -5582,8 +5582,8 @@
       - chebi: CHEBI:29052
       - kegg.compound: C00118
       - metanetx.chemical:
-        - MNXM739946
         - MNXM739945
+        - MNXM739946
       - sbo: SBO:0000247
   - !!omap
     - id: g6p_c
@@ -5762,8 +5762,8 @@
       - chebi: CHEBI:74045
       - kegg.compound: C20638
       - metanetx.chemical:
-        - MNXM18025
         - MNXM1093021
+        - MNXM18025
       - sbo: SBO:0000247
   - !!omap
     - id: gdptp_c
@@ -6133,8 +6133,8 @@
       - kegg.compound: C02987
       - metanetx.chemical:
         - MNXM731032
-        - MNXM731035
         - MNXM731043
+        - MNXM731035
       - sbo: SBO:0000247
   - !!omap
     - id: glx_c
@@ -6278,9 +6278,9 @@
       - chebi: CHEBI:28087
       - kegg.compound: C00182
       - metanetx.chemical:
+        - MNXM738131
         - MNXM738133
         - MNXM738130
-        - MNXM738131
       - sbo: SBO:0000247
   - !!omap
     - id: gmeACP_c
@@ -6314,8 +6314,8 @@
       - chebi: CHEBI:60205
       - kegg.compound: C19879
       - metanetx.chemical:
-        - MNXM731697
         - MNXM2656
+        - MNXM731697
       - sbo: SBO:0000247
   - !!omap
     - id: gmhep7p_c
@@ -6332,8 +6332,8 @@
       - chebi: CHEBI:43786
       - kegg.compound: C19878
       - metanetx.chemical:
-        - MNXM739658
         - MNXM4551
+        - MNXM739658
       - sbo: SBO:0000247
   - !!omap
     - id: gmp_c
@@ -6430,8 +6430,8 @@
       - chebi: CHEBI:18185
       - kegg.compound: C02483
       - metanetx.chemical:
-        - MNXM733034
         - MNXM733036
+        - MNXM733034
       - sbo: SBO:0000247
   - !!omap
     - id: gtp_c
@@ -6972,8 +6972,8 @@
       - chebi: CHEBI:27914
       - kegg.compound: C06503
       - metanetx.chemical:
-        - MNXM726059
         - MNXM726058
+        - MNXM726059
         - MNXM726057
       - sbo: SBO:0000247
   - !!omap
@@ -6992,8 +6992,8 @@
       - kegg.compound: C06399
       - metanetx.chemical:
         - MNXM727804
-        - MNXM727803
         - MNXM727805
+        - MNXM727803
       - sbo: SBO:0000247
   - !!omap
     - id: hgentis_c
@@ -7204,8 +7204,8 @@
       - bigg.metabolite: hpmeACP
       - kegg.compound: C20377
       - metanetx.chemical:
-        - MNXM725915
         - MNXM725917
+        - MNXM725915
       - sbo: SBO:0000247
   - !!omap
     - id: hpyr_c
@@ -7860,8 +7860,8 @@
       - chebi: CHEBI:36264
       - kegg.compound: C06232
       - metanetx.chemical:
-        - MNXM726092
         - MNXM726090
+        - MNXM726092
       - sbo: SBO:0000247
   - !!omap
     - id: mobd_e
@@ -7878,8 +7878,8 @@
       - chebi: CHEBI:36264
       - kegg.compound: C06232
       - metanetx.chemical:
-        - MNXM726092
         - MNXM726090
+        - MNXM726092
       - sbo: SBO:0000247
   - !!omap
     - id: mobd_p
@@ -7896,8 +7896,8 @@
       - chebi: CHEBI:36264
       - kegg.compound: C06232
       - metanetx.chemical:
-        - MNXM726092
         - MNXM726090
+        - MNXM726092
       - sbo: SBO:0000247
   - !!omap
     - id: mppp9_c
@@ -7914,8 +7914,8 @@
       - chebi: CHEBI:15431
       - kegg.compound: C03516
       - metanetx.chemical:
-        - MNXM732748
         - MNXM732750
+        - MNXM732748
       - sbo: SBO:0000247
   - !!omap
     - id: mppp9om_c
@@ -8126,8 +8126,8 @@
       - chebi: CHEBI:16833
       - kegg.compound: C05431
       - metanetx.chemical:
-        - MNXM727028
         - MNXM727029
+        - MNXM727028
       - sbo: SBO:0000247
   - !!omap
     - id: nh3_c
@@ -8494,8 +8494,8 @@
       - chebi: CHEBI:7725
       - kegg.compound: C05752
       - metanetx.chemical:
-        - MNXM728538
         - MNXM90185
+        - MNXM728538
       - sbo: SBO:0000247
   - !!omap
     - id: ocdcaACP_c
@@ -8511,8 +8511,8 @@
       - bigg.metabolite: ocdcaACP
       - kegg.compound: C04088
       - metanetx.chemical:
-        - MNXM6439
         - MNXM3075
+        - MNXM6439
       - sbo: SBO:0000247
   - !!omap
     - id: octe_6_9_12_15_ACP_c
@@ -8557,8 +8557,8 @@
       - chebi: CHEBI:80358
       - kegg.compound: C16161
       - metanetx.chemical:
-        - MNXM41472
         - MNXM147025
+        - MNXM41472
       - sbo: SBO:0000247
   - !!omap
     - id: octe_9_12_ACP_c
@@ -8925,8 +8925,8 @@
       - chebi: CHEBI:16673
       - kegg.compound: C02880
       - metanetx.chemical:
-        - MNXM738915
         - MNXM738918
+        - MNXM738915
       - sbo: SBO:0000247
   - !!omap
     - id: pcox_p
@@ -8942,8 +8942,8 @@
       - bigg.metabolite: pcox
       - kegg.compound: C03162
       - metanetx.chemical:
-        - MNXM145922
         - MNXM8977
+        - MNXM145922
       - sbo: SBO:0000247
   - !!omap
     - id: pcox_u
@@ -8959,8 +8959,8 @@
       - bigg.metabolite: pcox
       - kegg.compound: C03162
       - metanetx.chemical:
-        - MNXM145922
         - MNXM8977
+        - MNXM145922
       - sbo: SBO:0000247
   - !!omap
     - id: pcrd_p
@@ -8976,8 +8976,8 @@
       - bigg.metabolite: pcrd
       - kegg.compound: C03025
       - metanetx.chemical:
-        - MNXM9034
         - MNXM145921
+        - MNXM9034
       - sbo: SBO:0000247
   - !!omap
     - id: pcrd_u
@@ -8993,8 +8993,8 @@
       - bigg.metabolite: pcrd
       - kegg.compound: C03025
       - metanetx.chemical:
-        - MNXM9034
         - MNXM145921
+        - MNXM9034
       - sbo: SBO:0000247
   - !!omap
     - id: pdx5p_c
@@ -9046,8 +9046,8 @@
       - kegg.compound: C00344
       - metanetx.chemical:
         - MNXM725994
-        - MNXM725990
         - MNXM1107660
+        - MNXM725990
       - sbo: SBO:0000247
   - !!omap
     - id: pgp_EC_c
@@ -9064,8 +9064,8 @@
       - chebi: CHEBI:37393
       - kegg.compound: C03892
       - metanetx.chemical:
-        - MNXM740944
         - MNXM740941
+        - MNXM740944
       - sbo: SBO:0000247
   - !!omap
     - id: phb_c
@@ -9100,9 +9100,9 @@
       - chebi: CHEBI:18187
       - kegg.compound: C05427
       - metanetx.chemical:
-        - MNXM741281
-        - MNXM741280
         - MNXM741282
+        - MNXM741280
+        - MNXM741281
       - sbo: SBO:0000247
   - !!omap
     - id: phe__L_c
@@ -9243,9 +9243,9 @@
       - chebi: CHEBI:15617
       - kegg.compound: C05786
       - metanetx.chemical:
-        - MNXM1094004
         - MNXM733826
         - MNXM733825
+        - MNXM1094004
       - sbo: SBO:0000247
   - !!omap
     - id: phytoe_c
@@ -9343,8 +9343,8 @@
       - bigg.metabolite: pimACP
       - kegg.compound: C19845
       - metanetx.chemical:
-        - MNXM727686
         - MNXM727687
+        - MNXM727686
       - sbo: SBO:0000247
   - !!omap
     - id: pmeACP_c
@@ -9360,8 +9360,8 @@
       - bigg.metabolite: pmeACP
       - kegg.compound: C19846
       - metanetx.chemical:
-        - MNXM727682
         - MNXM727683
+        - MNXM727682
       - sbo: SBO:0000247
   - !!omap
     - id: pnto__R_c
@@ -9381,8 +9381,8 @@
         - CHEBI:7916
       - kegg.compound: C00864
       - metanetx.chemical:
-        - MNXM734865
         - MNXM734864
+        - MNXM734865
       - sbo: SBO:0000247
   - !!omap
     - id: ppbng_c
@@ -9551,8 +9551,8 @@
       - chebi: CHEBI:28377
       - kegg.compound: C10385
       - metanetx.chemical:
-        - MNXM1094028
         - MNXM732531
+        - MNXM1094028
       - sbo: SBO:0000247
   - !!omap
     - id: pqb6s_um
@@ -9569,8 +9569,8 @@
       - chebi: CHEBI:28377
       - kegg.compound: C10385
       - metanetx.chemical:
-        - MNXM1094028
         - MNXM732531
+        - MNXM1094028
       - sbo: SBO:0000247
   - !!omap
     - id: pqh2_c
@@ -9587,8 +9587,8 @@
       - chebi: CHEBI:28026
       - kegg.compound: C16695
       - metanetx.chemical:
-        - MNXM6387
         - MNXM145595
+        - MNXM6387
       - sbo: SBO:0000247
   - !!omap
     - id: pqh2_cm
@@ -9605,8 +9605,8 @@
       - chebi: CHEBI:28026
       - kegg.compound: C16695
       - metanetx.chemical:
-        - MNXM6387
         - MNXM145595
+        - MNXM6387
       - sbo: SBO:0000247
   - !!omap
     - id: pqh2_um
@@ -9623,8 +9623,8 @@
       - chebi: CHEBI:28026
       - kegg.compound: C16695
       - metanetx.chemical:
-        - MNXM6387
         - MNXM145595
+        - MNXM6387
       - sbo: SBO:0000247
   - !!omap
     - id: pqhb6l_cm
@@ -9697,8 +9697,8 @@
       - bigg.metabolite: pqn
       - chebi: CHEBI:28377
       - metanetx.chemical:
-        - MNXM1094031
         - MNXM732531
+        - MNXM1094031
       - sbo: SBO:0000247
   - !!omap
     - id: pram_c
@@ -9765,9 +9765,9 @@
       - chebi: CHEBI:18263
       - kegg.compound: C02739
       - metanetx.chemical:
+        - MNXM728134
         - MNXM728132
         - MNXM728133
-        - MNXM728134
       - sbo: SBO:0000247
   - !!omap
     - id: pre3a_c
@@ -9866,9 +9866,9 @@
       - chebi: CHEBI:27858
       - kegg.compound: C06319
       - metanetx.chemical:
+        - MNXM729285
         - MNXM729284
         - MNXM729283
-        - MNXM729285
       - sbo: SBO:0000247
   - !!omap
     - id: pre8_c
@@ -9903,8 +9903,8 @@
       - bigg.metabolite: precyanphy
       - chebi: CHEBI:65319
       - metanetx.chemical:
-        - MNXM124056
         - MNXM147455
+        - MNXM124056
       - sbo: SBO:0000247
   - !!omap
     - id: prephytedp_c
@@ -9988,8 +9988,8 @@
       - chebi: CHEBI:80399
       - kegg.compound: C16237
       - metanetx.chemical:
-        - MNXM741247
         - MNXM741251
+        - MNXM741247
       - sbo: SBO:0000247
   - !!omap
     - id: protn6ol_c
@@ -10193,8 +10193,8 @@
       - chebi: CHEBI:27394
       - kegg.compound: C06032
       - metanetx.chemical:
-        - MNXM725945
         - MNXM725944
+        - MNXM725945
       - sbo: SBO:0000247
   - !!omap
     - id: r5p_c
@@ -10211,8 +10211,8 @@
       - chebi: CHEBI:17797
       - kegg.compound: C00117
       - metanetx.chemical:
-        - MNXM729957
         - MNXM1104056
+        - MNXM729957
       - sbo: SBO:0000247
   - !!omap
     - id: rb15bp_c
@@ -10229,8 +10229,8 @@
       - chebi: CHEBI:16710
       - kegg.compound: C01182
       - metanetx.chemical:
-        - MNXM1106709
         - MNXM1106710
+        - MNXM1106709
       - sbo: SBO:0000247
   - !!omap
     - id: rb15bp_cx
@@ -10247,8 +10247,8 @@
       - chebi: CHEBI:16710
       - kegg.compound: C01182
       - metanetx.chemical:
-        - MNXM1106709
         - MNXM1106710
+        - MNXM1106709
       - sbo: SBO:0000247
   - !!omap
     - id: rdRieskeB6_cm
@@ -10527,8 +10527,8 @@
       - bigg.metabolite: skpmeACP
       - kegg.compound: C20376
       - metanetx.chemical:
-        - MNXM725937
         - MNXM1094121
+        - MNXM725937
       - sbo: SBO:0000247
   - !!omap
     - id: so3_c
@@ -10949,8 +10949,8 @@
       - chebi: CHEBI:10735
       - kegg.compound: C05760
       - metanetx.chemical:
-        - MNXM728722
         - MNXM728721
+        - MNXM728722
       - sbo: SBO:0000247
   - !!omap
     - id: toct2eACP_c
@@ -10966,8 +10966,8 @@
       - bigg.metabolite: toct2eACP
       - kegg.compound: C05751
       - metanetx.chemical:
-        - MNXM728588
         - MNXM728590
+        - MNXM728588
       - sbo: SBO:0000247
   - !!omap
     - id: toctd2eACP_c
@@ -11016,8 +11016,8 @@
       - chebi: CHEBI:18191
       - kegg.compound: C00343
       - metanetx.chemical:
-        - MNXM729077
         - MNXM729076
+        - MNXM729077
       - sbo: SBO:0000247
   - !!omap
     - id: trdrd_c
@@ -11100,8 +11100,8 @@
       - chebi: CHEBI:17787
       - kegg.compound: C04652
       - metanetx.chemical:
-        - MNXM722355
         - MNXM727269
+        - MNXM722355
       - sbo: SBO:0000247
   - !!omap
     - id: u3aga_c
@@ -11118,9 +11118,9 @@
       - chebi: CHEBI:28131
       - kegg.compound: C04738
       - metanetx.chemical:
+        - MNXM1107761
         - MNXM88425
         - MNXM1107760
-        - MNXM1107761
       - sbo: SBO:0000247
   - !!omap
     - id: u3hga_c
@@ -11154,8 +11154,8 @@
       - chebi: CHEBI:28138
       - kegg.compound: C05898
       - metanetx.chemical:
-        - MNXM739668
         - MNXM739669
+        - MNXM739668
       - sbo: SBO:0000247
   - !!omap
     - id: uaagmda_p
@@ -11173,8 +11173,8 @@
       - chebi: CHEBI:28138
       - kegg.compound: C05898
       - metanetx.chemical:
-        - MNXM739668
         - MNXM739669
+        - MNXM739668
       - sbo: SBO:0000247
   - !!omap
     - id: uaccg_c
@@ -11240,9 +11240,9 @@
       - chebi: CHEBI:28214
       - kegg.compound: C05897
       - metanetx.chemical:
-        - MNXM732761
-        - MNXM88514
         - MNXM732762
+        - MNXM88514
+        - MNXM732761
       - sbo: SBO:0000247
   - !!omap
     - id: uama_c
@@ -11275,8 +11275,8 @@
       - chebi: CHEBI:16970
       - kegg.compound: C00692
       - metanetx.chemical:
-        - MNXM741612
         - MNXM741611
+        - MNXM741612
       - sbo: SBO:0000247
   - !!omap
     - id: uamr_c
@@ -11309,8 +11309,8 @@
       - chebi: CHEBI:60468
       - kegg.compound: C17556
       - metanetx.chemical:
-        - MNXM733031
         - MNXM89653
+        - MNXM733031
       - sbo: SBO:0000247
   - !!omap
     - id: udp_c
@@ -11442,8 +11442,8 @@
       - chebi: CHEBI:16511
       - kegg.compound: C01289
       - metanetx.chemical:
-        - MNXM1101902
         - MNXM3061
+        - MNXM1101902
       - sbo: SBO:0000247
   - !!omap
     - id: uppg3_c
@@ -11795,8 +11795,8 @@
       - ec-code: 4.2.1.59
       - kegg.reaction: R04965
       - metanetx.reaction:
-        - MNXR152621
         - MNXR152620
+        - MNXR152621
       - sbo: SBO:0000178
   - !!omap
     - id: 3HAD140
@@ -11816,8 +11816,8 @@
       - ec-code: 4.2.1.59
       - kegg.reaction: R04568
       - metanetx.reaction:
-        - MNXR152624
         - MNXR152623
+        - MNXR152624
       - sbo: SBO:0000178
   - !!omap
     - id: 3HAD160
@@ -11858,8 +11858,8 @@
       - ec-code: 4.2.1.59
       - kegg.reaction: R07764
       - metanetx.reaction:
-        - MNXR152629
         - MNXR152630
+        - MNXR152629
       - sbo: SBO:0000178
   - !!omap
     - id: 3HAD40_2
@@ -11879,8 +11879,8 @@
       - ec-code: 4.2.1.59
       - kegg.reaction: R04428
       - metanetx.reaction:
-        - MNXR152634
         - MNXR152635
+        - MNXR152634
       - sbo: SBO:0000178
   - !!omap
     - id: 3HAD60
@@ -11900,8 +11900,8 @@
       - ec-code: 4.2.1.59
       - kegg.reaction: R04954
       - metanetx.reaction:
-        - MNXR152637
         - MNXR152636
+        - MNXR152637
       - sbo: SBO:0000178
   - !!omap
     - id: 3HAD80
@@ -11944,8 +11944,8 @@
       - ec-code: 1.1.1.100
       - kegg.reaction: R04534
       - metanetx.reaction:
-        - MNXR152654
         - MNXR152653
+        - MNXR152654
       - sbo: SBO:0000200
   - !!omap
     - id: 3OAR120
@@ -11967,8 +11967,8 @@
       - ec-code: 1.1.1.100
       - kegg.reaction: R04964
       - metanetx.reaction:
-        - MNXR152658
         - MNXR152657
+        - MNXR152658
       - sbo: SBO:0000200
   - !!omap
     - id: 3OAR140
@@ -12059,8 +12059,8 @@
       - ec-code: 1.1.1.100
       - kegg.reaction: R04953
       - metanetx.reaction:
-        - MNXR152675
         - MNXR152674
+        - MNXR152675
       - sbo: SBO:0000200
   - !!omap
     - id: 3OAR80
@@ -12082,8 +12082,8 @@
       - ec-code: 1.1.1.100
       - kegg.reaction: R04536
       - metanetx.reaction:
-        - MNXR152677
         - MNXR152678
+        - MNXR152677
       - sbo: SBO:0000200
   - !!omap
     - id: 3OAS100
@@ -12174,8 +12174,8 @@
       - ec-code: 2.3.1.179
       - kegg.reaction: R04968
       - metanetx.reaction:
-        - MNXR94959
         - MNXR149088
+        - MNXR94959
       - sbo: SBO:0000402
   - !!omap
     - id: 3OAS60
@@ -12499,8 +12499,8 @@
       - ec-code: 4.2.1.126
       - kegg.reaction: R08555
       - metanetx.reaction:
-        - MNXR151354
         - MNXR151353
+        - MNXR151354
       - sbo: SBO:0000178
   - !!omap
     - id: ACOATA
@@ -12708,8 +12708,8 @@
       - ec-code: 6.3.5.10
       - kegg.reaction: R05225
       - metanetx.reaction:
-        - MNXR149177
         - MNXR149178
+        - MNXR149177
       - sbo: SBO:0000176
   - !!omap
     - id: ADK1
@@ -13109,8 +13109,8 @@
       - ec-code: 2.7.4.7
       - kegg.reaction: R04509
       - metanetx.reaction:
-        - MNXR103045
         - MNXR154509
+        - MNXR103045
       - sbo: SBO:0000216
   - !!omap
     - id: AHMMPS2
@@ -13156,8 +13156,8 @@
       - ec-code: 2.5.1.49
       - kegg.reaction: R01287
       - metanetx.reaction:
-        - MNXR152924
         - MNXR152923
+        - MNXR152924
       - sbo: SBO:0000402
   - !!omap
     - id: AICART
@@ -13405,8 +13405,8 @@
       - ec-code: 2.6.1.62
       - kegg.reaction: R03231
       - metanetx.reaction:
-        - MNXR152974
         - MNXR152975
+        - MNXR152974
       - sbo: SBO:0000403
   - !!omap
     - id: AMPTASECG
@@ -13549,8 +13549,8 @@
       - ec-code: 2.3.1.47
       - kegg.reaction: R10124
       - metanetx.reaction:
-        - MNXR152991
         - MNXR152990
+        - MNXR152991
       - sbo: SBO:0000402
   - !!omap
     - id: APATTc
@@ -14001,8 +14001,8 @@
       - ec-code: 2.4.2.17
       - kegg.reaction: R01071
       - metanetx.reaction:
-        - MNXR153057
         - MNXR153056
+        - MNXR153057
       - sbo: SBO:0000217
   - !!omap
     - id: ATPS4rpp_1
@@ -14092,8 +14092,8 @@
       - ec-code: 1.14.13.129
       - kegg.reaction: R07558
       - metanetx.reaction:
-        - MNXR154855
         - MNXR111179
+        - MNXR154855
       - sbo: SBO:0000233
   - !!omap
     - id: BCAROHX21
@@ -14117,8 +14117,8 @@
       - ec-code: 1.14.13.129
       - kegg.reaction: R07559
       - metanetx.reaction:
-        - MNXR154856
         - MNXR111180
+        - MNXR154856
       - sbo: SBO:0000233
   - !!omap
     - id: BCT1_syn
@@ -14378,7 +14378,7 @@
       - glycogen_c: -6.1674780058651
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: ''
+    - gene_reaction_rule: BioGlyc
     - annotation: !!omap
       - sbo: SBO:0000629
   - !!omap
@@ -14519,8 +14519,8 @@
       - ec-code: 6.3.4.15
       - kegg.reaction: R05145
       - metanetx.reaction:
-        - MNXR154925
         - MNXR109352
+        - MNXR154925
       - sbo: SBO:0000176
   - !!omap
     - id: CA0012
@@ -14675,8 +14675,8 @@
       - ec-code: 2.7.2.2
       - kegg.reaction: R01395
       - metanetx.reaction:
-        - MNXR106966
         - MNXR153145
+        - MNXR106966
       - sbo: SBO:0000216
   - !!omap
     - id: CBPS
@@ -14721,8 +14721,8 @@
       - ec-code: 4.2.1.45
       - kegg.reaction: R02426
       - metanetx.reaction:
-        - MNXR153162
         - MNXR153161
+        - MNXR153162
       - sbo: SBO:0000178
   - !!omap
     - id: CDPMEK_1
@@ -14800,8 +14800,8 @@
       - ec-code: 2.5.1.62
       - kegg.reaction: R06284
       - metanetx.reaction:
-        - MNXR153193
         - MNXR192198
+        - MNXR153193
       - sbo: SBO:0000402
   - !!omap
     - id: CHRPL
@@ -14840,8 +14840,8 @@
       - ec-code: 4.2.1.35
       - kegg.reaction: R03896
       - metanetx.reaction:
-        - MNXR96729
         - MNXR148444
+        - MNXR96729
       - sbo: SBO:0000178
   - !!omap
     - id: CITCIb
@@ -14861,8 +14861,8 @@
       - ec-code: 4.2.1.33
       - kegg.reaction: R03898
       - metanetx.reaction:
-        - MNXR153206
         - MNXR153205
+        - MNXR153206
       - sbo: SBO:0000178
   - !!omap
     - id: CO2tex
@@ -15300,8 +15300,8 @@
       - ec-code: 2.5.1.17
       - kegg.reaction: R05220
       - metanetx.reaction:
-        - MNXR149175
         - MNXR96982
+        - MNXR149175
       - sbo: SBO:0000402
   - !!omap
     - id: CYRDAR2
@@ -15323,8 +15323,8 @@
       - ec-code: 1.16.8.1
       - kegg.reaction: R05218
       - metanetx.reaction:
-        - MNXR153289
         - MNXR191850
+        - MNXR153289
       - sbo: SBO:0000200
   - !!omap
     - id: CYSST
@@ -15955,8 +15955,8 @@
       - ec-code: 4.1.2.25
       - kegg.reaction: R03504
       - metanetx.reaction:
-        - MNXR151400
         - MNXR151401
+        - MNXR151400
       - sbo: SBO:0000178
   - !!omap
     - id: DHORD3um
@@ -15977,8 +15977,8 @@
       - ec-code: 1.3.5.2
       - kegg.reaction: R01868
       - metanetx.reaction:
-        - MNXR107211
         - MNXR155810
+        - MNXR107211
       - sbo: SBO:0000660
   - !!omap
     - id: DHORDfum
@@ -16200,8 +16200,8 @@
       - ec-code: 3.6.1.-
       - kegg.reaction: R04621
       - metanetx.reaction:
-        - MNXR151450
         - MNXR151449
+        - MNXR151450
       - sbo: SBO:0000376
   - !!omap
     - id: DNTPPA_1
@@ -16222,8 +16222,8 @@
       - ec-code: 3.6.1.-
       - kegg.reaction: R04638
       - metanetx.reaction:
-        - MNXR192419
         - MNXR192418
+        - MNXR192419
       - sbo: SBO:0000376
   - !!omap
     - id: DPCOAK_1
@@ -16460,8 +16460,8 @@
       - ec-code: 1.3.1.10
       - kegg.reaction: R04967
       - metanetx.reaction:
-        - MNXR97852
         - MNXR149085
+        - MNXR97852
       - sbo: SBO:0000200
   - !!omap
     - id: EAR160y
@@ -16547,8 +16547,8 @@
       - ec-code: 1.3.1.10
       - kegg.reaction: R04956
       - metanetx.reaction:
-        - MNXR149057
         - MNXR97866
+        - MNXR149057
       - sbo: SBO:0000200
   - !!omap
     - id: EAR80y
@@ -16570,8 +16570,8 @@
       - ec-code: 1.3.1.10
       - kegg.reaction: R04959
       - metanetx.reaction:
-        - MNXR97868
         - MNXR149067
+        - MNXR97868
       - sbo: SBO:0000200
   - !!omap
     - id: ECHINH
@@ -16595,8 +16595,8 @@
       - ec-code: 1.14.13.129
       - kegg.reaction: R07562
       - metanetx.reaction:
-        - MNXR156087
         - MNXR149978
+        - MNXR156087
       - sbo: SBO:0000233
   - !!omap
     - id: EDA
@@ -16680,8 +16680,8 @@
       - ec-code: 2.6.1.1
       - kegg.reaction: R05052
       - metanetx.reaction:
-        - MNXR148083
         - MNXR148082
+        - MNXR148083
       - sbo: SBO:0000403
   - !!omap
     - id: ENO
@@ -17730,8 +17730,8 @@
       - ec-code: 2.7.7.33
       - kegg.reaction: R00956
       - metanetx.reaction:
-        - MNXR153673
         - MNXR153674
+        - MNXR153673
       - sbo: SBO:0000402
   - !!omap
     - id: G1PTT
@@ -17874,8 +17874,8 @@
       - ec-code: 2.7.7.9
       - kegg.reaction: R00289
       - metanetx.reaction:
-        - MNXR152166
         - MNXR152165
+        - MNXR152166
       - sbo: SBO:0000402
   - !!omap
     - id: GAPD
@@ -17898,8 +17898,8 @@
       - ec-code: 1.2.1.12
       - kegg.reaction: R01061
       - metanetx.reaction:
-        - MNXR191943
         - MNXR144947
+        - MNXR191943
       - sbo: SBO:0000200
   - !!omap
     - id: GAPDi_nadp
@@ -18137,8 +18137,8 @@
       - ec-code: 1.3.1.83
       - kegg.reaction: R02063
       - metanetx.reaction:
-        - MNXR145002
         - MNXR145003
+        - MNXR145002
       - sbo: SBO:0000200
   - !!omap
     - id: GGPP
@@ -18159,8 +18159,8 @@
       - ec-code: 3.1.3.69
       - kegg.reaction: R05791
       - metanetx.reaction:
-        - MNXR109839
         - MNXR100129
+        - MNXR109839
       - sbo: SBO:0000376
   - !!omap
     - id: GGPS
@@ -18181,8 +18181,8 @@
       - ec-code: 2.4.1.213
       - kegg.reaction: R05328
       - metanetx.reaction:
-        - MNXR109486
         - MNXR188115
+        - MNXR109486
       - sbo: SBO:0000217
   - !!omap
     - id: GHMT2r
@@ -18666,8 +18666,8 @@
       - ec-code: 2.7.7.27
       - kegg.reaction: R00948
       - metanetx.reaction:
-        - MNXR145050
         - MNXR145051
+        - MNXR145050
       - sbo: SBO:0000402
   - !!omap
     - id: GLMS_syn
@@ -18939,8 +18939,8 @@
       - ec-code: 1.2.1.70
       - kegg.reaction: R04109
       - metanetx.reaction:
-        - MNXR145076
         - MNXR145077
+        - MNXR145076
       - sbo: SBO:0000200
   - !!omap
     - id: GLUTRS
@@ -18963,8 +18963,8 @@
       - ec-code: 6.1.1.17
       - kegg.reaction: R05578
       - metanetx.reaction:
-        - MNXR145080
         - MNXR145081
+        - MNXR145080
       - sbo: SBO:0000176
   - !!omap
     - id: GLUt4pp
@@ -19418,8 +19418,8 @@
       - ec-code: 2.5.1.85
       - kegg.reaction: R09251
       - metanetx.reaction:
-        - MNXR157911
         - MNXR112686
+        - MNXR157911
       - sbo: SBO:0000402
   - !!omap
     - id: GRTT
@@ -20016,8 +20016,8 @@
       - ec-code: 2.7.1.4
       - kegg.reaction: R00760
       - metanetx.reaction:
-        - MNXR145194
         - MNXR106668
+        - MNXR145194
       - sbo: SBO:0000216
   - !!omap
     - id: HGPHT
@@ -21056,8 +21056,8 @@
       - ec-code: 5.5.1.19
       - kegg.reaction: R05341
       - metanetx.reaction:
-        - MNXR145425
         - MNXR145426
+        - MNXR145425
       - sbo: SBO:0000377
   - !!omap
     - id: LYSDC
@@ -21098,8 +21098,8 @@
       - ec-code: 2.3.1.179
       - kegg.reaction: R10115
       - metanetx.reaction:
-        - MNXR150749
         - MNXR159535
+        - MNXR150749
       - sbo: SBO:0000402
   - !!omap
     - id: MALCOAM
@@ -21181,8 +21181,8 @@
       - ec-code: 2.3.1.39
       - kegg.reaction: R01626
       - metanetx.reaction:
-        - MNXR145554
         - MNXR145555
+        - MNXR145554
       - sbo: SBO:0000402
   - !!omap
     - id: MDH
@@ -21721,8 +21721,8 @@
       - ec-code: 1.14.13.81
       - kegg.reaction: R06265
       - metanetx.reaction:
-        - MNXR145695
         - MNXR145697
+        - MNXR145695
       - sbo: SBO:0000200
   - !!omap
     - id: MPOMMM
@@ -21793,8 +21793,8 @@
       - ec-code: 2.1.1.11
       - kegg.reaction: R04237
       - metanetx.reaction:
-        - MNXR145699
         - MNXR145698
+        - MNXR145699
       - sbo: SBO:0000214
   - !!omap
     - id: MTAP
@@ -23274,8 +23274,8 @@
       - ec-code: 1.8.4.8
       - kegg.reaction: R02021
       - metanetx.reaction:
-        - MNXR145903
         - MNXR145904
+        - MNXR145903
       - sbo: SBO:0000200
   - !!omap
     - id: PC11M
@@ -23402,8 +23402,8 @@
       - ec-code: 5.4.99.61
       - kegg.reaction: R05177
       - metanetx.reaction:
-        - MNXR151731
         - MNXR151730
+        - MNXR151731
       - sbo: SBO:0000377
   - !!omap
     - id: PCXHtpp
@@ -23484,8 +23484,8 @@
       - ec-code: 1.1.1.262
       - kegg.reaction: R05681
       - metanetx.reaction:
-        - MNXR109761
         - MNXR160476
+        - MNXR109761
       - sbo: SBO:0000200
   - !!omap
     - id: PDX5PSb
@@ -23956,8 +23956,8 @@
       - ec-code: 2.5.1.32
       - kegg.reaction: R02065
       - metanetx.reaction:
-        - MNXR146006
         - MNXR146007
+        - MNXR146006
       - sbo: SBO:0000402
   - !!omap
     - id: PHYTES2
@@ -24142,8 +24142,8 @@
       - ec-code: 3.1.1.85
       - kegg.reaction: R09725
       - metanetx.reaction:
-        - MNXR146085
         - MNXR146084
+        - MNXR146085
       - sbo: SBO:0000376
   - !!omap
     - id: PNTK_1
@@ -25831,8 +25831,8 @@
       - ec-code: 2.1.1.152
       - kegg.reaction: R05219
       - metanetx.reaction:
-        - MNXR146210
         - MNXR146211
+        - MNXR146210
       - sbo: SBO:0000214
   - !!omap
     - id: RB15BPtcx
@@ -25860,7 +25860,7 @@
       - rb15bp_cx: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: ''
+    - gene_reaction_rule: slr0009 and slr0012
     - annotation: !!omap
       - bigg.reaction: RBCh
       - metanetx.reaction: MNXR191182
@@ -25926,8 +25926,8 @@
       - ec-code: 2.5.1.9
       - kegg.reaction: R00066
       - metanetx.reaction:
-        - MNXR192029
         - MNXR192030
+        - MNXR192029
       - sbo: SBO:0000402
   - !!omap
     - id: RBPC
@@ -25939,7 +25939,7 @@
       - rb15bp_cx: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: ''
+    - gene_reaction_rule: slr0009 and slr0012
     - annotation: !!omap
       - bigg.reaction: RBPC
       - metanetx.reaction: MNXR191184
@@ -26001,8 +26001,8 @@
       - ec-code: 1.17.4.1
       - kegg.reaction: R02017
       - metanetx.reaction:
-        - MNXR146314
         - MNXR146315
+        - MNXR146314
       - sbo: SBO:0000200
   - !!omap
     - id: RNDR2
@@ -26024,8 +26024,8 @@
       - ec-code: 1.17.4.1
       - kegg.reaction: R02019
       - metanetx.reaction:
-        - MNXR146320
         - MNXR146321
+        - MNXR146320
       - sbo: SBO:0000200
   - !!omap
     - id: RNDR3
@@ -26286,8 +26286,8 @@
       - ec-code: 4.2.99.20
       - kegg.reaction: R08166
       - metanetx.reaction:
-        - MNXR150167
         - MNXR150168
+        - MNXR150167
       - sbo: SBO:0000178
   - !!omap
     - id: SHK3Dr
@@ -26779,8 +26779,8 @@
       - ec-code: 4.2.1.113
       - kegg.reaction: R04031
       - metanetx.reaction:
-        - MNXR148517
         - MNXR148516
+        - MNXR148517
       - sbo: SBO:0000178
   - !!omap
     - id: SUCDum
@@ -27042,8 +27042,8 @@
       - ec-code: 2.2.1.1
       - kegg.reaction: R01641
       - metanetx.reaction:
-        - MNXR152015
         - MNXR104868
+        - MNXR152015
       - sbo: SBO:0000402
   - !!omap
     - id: TKT2
@@ -27064,8 +27064,8 @@
       - ec-code: 2.2.1.1
       - kegg.reaction: R01067
       - metanetx.reaction:
-        - MNXR146555
         - MNXR106812
+        - MNXR146555
       - sbo: SBO:0000402
   - !!omap
     - id: TMDS3
@@ -27193,8 +27193,8 @@
       - ec-code: 5.5.1.24
       - kegg.reaction: R07502
       - metanetx.reaction:
-        - MNXR146509
         - MNXR146508
+        - MNXR146509
       - sbo: SBO:0000377
   - !!omap
     - id: TOCOPHS2
@@ -27255,8 +27255,8 @@
       - ec-code: 5.3.1.1
       - kegg.reaction: R01015
       - metanetx.reaction:
-        - MNXR146574
         - MNXR146573
+        - MNXR146574
       - sbo: SBO:0000377
   - !!omap
     - id: TR0018
@@ -27439,8 +27439,8 @@
       - ec-code: 1.8.1.9
       - kegg.reaction: R02016
       - metanetx.reaction:
-        - MNXR146527
         - MNXR146526
+        - MNXR146527
       - sbo: SBO:0000200
   - !!omap
     - id: TRPS1
@@ -27503,8 +27503,8 @@
       - ec-code: 4.2.1.20
       - kegg.reaction: R02340
       - metanetx.reaction:
-        - MNXR151536
         - MNXR151535
+        - MNXR151536
       - sbo: SBO:0000178
   - !!omap
     - id: TRSARyr
@@ -27566,8 +27566,8 @@
       - ec-code: 2.3.1.191
       - kegg.reaction: R04550
       - metanetx.reaction:
-        - MNXR146621
         - MNXR146622
+        - MNXR146621
       - sbo: SBO:0000402
   - !!omap
     - id: UAAGDS
@@ -27590,8 +27590,8 @@
       - ec-code: 6.3.2.13
       - kegg.reaction: R02788
       - metanetx.reaction:
-        - MNXR147821
         - MNXR105013
+        - MNXR147821
       - sbo: SBO:0000176
   - !!omap
     - id: UAG2E
@@ -27630,8 +27630,8 @@
       - ec-code: 2.3.1.129
       - kegg.reaction: R04567
       - metanetx.reaction:
-        - MNXR146646
         - MNXR146647
+        - MNXR146646
       - sbo: SBO:0000402
   - !!omap
     - id: UAGCVT
@@ -27692,8 +27692,8 @@
       - ec-code: 2.4.1.227
       - kegg.reaction: R05032
       - metanetx.reaction:
-        - MNXR151860
         - MNXR151858
+        - MNXR151860
       - sbo: SBO:0000660
   - !!omap
     - id: UAMAGS
@@ -27781,8 +27781,8 @@
       - ec-code: 2.5.1.31
       - kegg.reaction: R06447
       - metanetx.reaction:
-        - MNXR195387
         - MNXR195388
+        - MNXR195387
       - sbo: SBO:0000402
   - !!omap
     - id: UDG4EP
@@ -27863,8 +27863,8 @@
       - ec-code: 3.5.1.108
       - kegg.reaction: R04587
       - metanetx.reaction:
-        - MNXR192044
         - MNXR192046
+        - MNXR192044
       - sbo: SBO:0000376
   - !!omap
     - id: UMPK
@@ -28064,8 +28064,8 @@
       - ec-code: 3.6.1.54
       - kegg.reaction: R04549
       - metanetx.reaction:
-        - MNXR146733
         - MNXR146734
+        - MNXR146733
       - sbo: SBO:0000376
   - !!omap
     - id: VALTA
@@ -28109,8 +28109,8 @@
       - ec-code: 1.3.5.6
       - kegg.reaction: R04798
       - metanetx.reaction:
-        - MNXR105274
         - MNXR109123
+        - MNXR105274
       - sbo: SBO:0000200
   - !!omap
     - id: ZCAROTDH2
@@ -28134,8 +28134,8 @@
       - ec-code: 1.3.5.6
       - kegg.reaction: R04800
       - metanetx.reaction:
-        - MNXR109125
         - MNXR105275
+        - MNXR109125
       - sbo: SBO:0000200
   - !!omap
     - id: ZNabcpp
@@ -28186,6 +28186,11 @@
   - !!omap
     - id: BioDNA
     - name: BioDNA
+    - annotation: !!omap
+      - sbo: SBO:0000243
+  - !!omap
+    - id: BioGlyc
+    - name: G_BioGlyc
     - annotation: !!omap
       - sbo: SBO:0000243
   - !!omap
