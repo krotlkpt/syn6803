@@ -1,17 +1,17 @@
 [![memote tested](https://img.shields.io/badge/memote-tested-blue.svg?style=plastic)](https://authorname.github.io/syn6803)
 
-# Synechocystis sp. PCC 6803
+# _Synechocystis_ sp. PCC 6803
 
-Congratulations! You successfully set up your genome-scale metabolic model
-repository.
+This repository contains the files for the genome scale reconstruction of _Synechocystis_ sp. PCC 6803: iRH783. It is based on the genome [BA000022](https://www.ncbi.nlm.nih.gov/nuccore/BA000022).
 
-## Next Steps
+## Files
 
-1. Update this README to your liking and to say something about the model that
-   you are working on.
-2. Take note of the [license](LICENSE) in case you want to change it. By 
-default we have added a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license to your repository.
-3. Check out the [memote documentation](http://memote.readthedocs.io/) online.
+The repository contains the following files:
+1. Synechocystis_6803.xml - The SBML of the reconstruction.
+2. Synechocystis_6803.yml - A YAML version of the reconstruction.
+3. Synechocystis\_6803_constrained.xml - A constrained version of the same reconstruction. The medium is constrained in a way that the only carbon source is CO<sub>2</sub> and the only nitrogen source is NO<sub>3</sub>. Photon uptake is limited to match a growth rate of 1 h<sup>-1</sup>.
+4. Synechocystis\_6803_constrained.yml - The YAML version of the same constrained model.
+5. iRH783_memote.html - A MEMOTE report for the constrained version of the model.
 
 ## Usage
 
