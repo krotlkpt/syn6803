@@ -1,4 +1,4 @@
-[![memote tested](https://img.shields.io/badge/memote-tested-blue.svg?style=plastic)](https://authorname.github.io/syn6803)
+
 
 # _Synechocystis_ sp. PCC 6803
 
@@ -13,22 +13,10 @@ The repository contains the following files:
 4. Synechocystis\_6803_constrained.yml - The YAML version of the same constrained model.
 5. iRH783_memote.html - A MEMOTE report for the constrained version of the model.
 
-## Usage
+## Memote Reports
 
-All `memote` commands have extensive help descriptions.
-
-1. For simple command line testing, check out `memote run -h`.
-2. To generate a pretty report, check out `memote report snapshot -h`.
-
-## Testing the Model with Continuous Integration
-
-Currently, we can enable continuous model testing using Travis CI. All you have
-to do is:
-
-1. Create a [GitHub](https://github.com/) account.
-2. Create an account at https://travis-ci.org using your GitHub account.
-3. Run `memote online`.
-4. A history report will be publicly visible at https://authorname.github.io/syn6803.
+You can find a timeline of the model creation here: [![memote tested](https://img.shields.io/badge/memote-tested-blue.svg?style=plastic)](https://krotlkpt.github.io/syn6803)
+iRH783_memote.html contains the latest snapshot report. You can also find it here: [![memote tested](https://img.shields.io/badge/memote-tested-green.svg?style=plastic)](https://krotlkpt.github.io/syn6803/snapshot/report.html)
 
 ---
 
