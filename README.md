@@ -15,7 +15,7 @@ The repository contains the following files:
 
 ## Memote Reports
 
-You can find a timeline of the model creation here: [![memote tested](https://img.shields.io/badge/memote-tested-blue.svg?style=plastic)](https://krotlkpt.github.io/syn6803)
+You can find a timeline of the model creation here: [![memote tested](https://img.shields.io/badge/memote-tested-blue.svg?style=plastic)](https://krotlkpt.github.io/syn6803)<br>
 iRH783_memote.html contains the latest snapshot report. You can also find it here: [![memote tested](https://img.shields.io/badge/memote-tested-green.svg?style=plastic)](https://krotlkpt.github.io/syn6803/snapshot/report.html)
 
 ---
